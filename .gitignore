@@ -1,0 +1,18 @@
+# Python venv
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Colab cache
+*.zip
+*.pickle
+*.pkl
+
+# Temporary
+.DS_Store
