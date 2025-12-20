@@ -9,21 +9,7 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "8cfef29370211207e8d348a9a0892711cefc5dda"
-    },
-    {
-        "domain": ".x.com",
-        "expirationDate": 1765982898.150714,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "gt",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "2001265689005281546"
     },
     {
         "domain": ".x.com",
@@ -35,12 +21,11 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "v1%3A170316203734377237"
     },
     {
         "domain": ".x.com",
-        "expirationDate": 1797510023.544775,
+        "expirationDate": 1797786603.748849,
         "hostOnly": false,
         "httpOnly": false,
         "name": "twid",
@@ -48,12 +33,11 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "u%3D2001266047811506176"
     },
     {
         "domain": ".x.com",
-        "expirationDate": 1797510022.591082,
+        "expirationDate": 1797786596.330955,
         "hostOnly": false,
         "httpOnly": false,
         "name": "night_mode",
@@ -61,21 +45,18 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "2"
     },
     {
         "domain": ".x.com",
-        "expirationDate": 1765977324.676784,
+        "expirationDate": 1766252458.040106,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
         "path": "/",
-        "sameSite": null,
         "secure": true,
         "session": false,
-        "storeId": null,
-        "value": "v6XJXRDiTYS5EKitMNTnQepWn.qp2uLg0vfnOtV.WSo-1765975524.4450083-1.0.1.1-hEiw_vvdI1iqCC7uRn_TWk5ovO9ey64jTblMvIXt6gDA5gCR07OOEDgcM45T1rPt3NYFlCvboIoc0iQHh_fmN6rlh8IQsLjZfbbQgtco79qWK4gMPwyzMm2cdWSpyzTY"
+        "value": "3yK9f7BJ4FzvYbAZgJNPcJkc76KKv48J2RcTaqmxaJQ-1766250657.7981057-1.0.1.1-UTB6sEvuCc2jp2QmOfsKncZ944sSxyXFhnDTXEVIIwyDZGOD0aS_77TtWmlwS.LCqwyN15tup1yYA953uFYnncrr8Pm9kHdr9FlR6EyFe0NW.SKgMIBDeCHN.ODS1Nqh"
     },
     {
         "domain": ".x.com",
@@ -87,12 +68,11 @@
         "sameSite": "lax",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "f1ecb1150e5af3034ec24fe1441ba27059bb4609751a97a983f723db2301a53096655a706679188381a01a9984a666a97be8d58d482989f4799cb8e8cfdabddcbfe47e7d8745e54a96aa82aca2d6044b"
     },
     {
         "domain": ".x.com",
-        "expirationDate": 1800534023.544516,
+        "expirationDate": 1800810603.748651,
         "hostOnly": false,
         "httpOnly": false,
         "name": "guest_id_ads",
@@ -100,12 +80,11 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "v1%3A170316203734377237"
     },
     {
         "domain": ".x.com",
-        "expirationDate": 1800534023.544688,
+        "expirationDate": 1800810603.748783,
         "hostOnly": false,
         "httpOnly": false,
         "name": "guest_id_marketing",
@@ -113,7 +92,6 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "v1%3A170316203734377237"
     },
     {
@@ -123,10 +101,8 @@
         "httpOnly": true,
         "name": "kdt",
         "path": "/",
-        "sameSite": null,
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "vbNzymhQEQJV6BjK9DZ7g9WX8tcWlvv021kvu4j4"
     },
     {
@@ -139,7 +115,6 @@
         "sameSite": "no_restriction",
         "secure": true,
         "session": false,
-        "storeId": null,
         "value": "\"v1_B5eENHZcRd1FR3t/AWHI4g==\""
     }
 ]
