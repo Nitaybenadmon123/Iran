@@ -1,0 +1,1889 @@
+[2025-12-18 13:24:30] [INFO] Starting collection
+[2025-12-18 15:51:26] [INFO] === NEW RUN STARTED ===
+[2025-12-18 15:51:26] [INFO] Starting high-quality metadata collection
+[2025-12-18 15:51:26] [INFO] Loaded 20,128 connection records
+[2025-12-18 15:51:26] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 15:51:26] [INFO] Initializing browser
+[2025-12-18 15:51:41] [INFO] Cookies loaded successfully
+[2025-12-18 15:51:41] [INFO] Starting main processing loop
+[2025-12-18 15:51:49] [INFO] ✅ 031es: 0 followers, 11 following
+[2025-12-18 15:52:06] [INFO] ✅ 06numerosix: 1980 followers, 200 following
+[2025-12-18 15:52:19] [INFO] ✅ 09escargot1012: 1646 followers, 5841 following
+[2025-12-18 15:52:36] [INFO] ✅ 0alwaysdreamer0: 1853 followers, 923 following
+[2025-12-18 15:52:52] [INFO] ✅ 0dybbxx0o1b5xa: 112 followers, 4623 following
+[2025-12-18 15:52:52] [INFO] Checkpoint saved: 5 users
+[2025-12-18 15:53:07] [INFO] ✅ 0l8o0xgtjkorcjb: 127 followers, 4554 following
+[2025-12-18 15:53:22] [INFO] ✅ 0mfahzf4tebztdl: 81 followers, 53 following
+[2025-12-18 15:53:40] [INFO] ✅ 0pps__: 22 followers, 159 following
+[2025-12-18 15:53:56] [INFO] Account not found: 0qcgdh3bdamfozf
+[2025-12-18 15:54:11] [INFO] ✅ 0s5lud2qs9dy01o: 37 followers, 1247 following
+[2025-12-18 15:54:11] [INFO] Checkpoint saved: 9 users
+[2025-12-18 15:54:24] [INFO] ✅ 0x778899: 110 followers, 4666 following
+[2025-12-18 15:54:37] [INFO] ✅ 10190celine: 96 followers, 3455 following
+[2025-12-18 15:54:51] [INFO] ✅ 105_sakariyou: 100 followers, 428 following
+[2025-12-18 15:55:04] [INFO] ✅ 10am: 69 followers, 358 following
+[2025-12-18 15:55:18] [INFO] ✅ 10downingstreet: None followers, 192 following
+[2025-12-18 15:55:18] [INFO] Checkpoint saved: 14 users
+[2025-12-18 15:55:34] [INFO] ✅ 110_m_ah_b: 0 followers, 7 following
+[2025-12-18 15:55:51] [INFO] ✅ 12_adin10571: 0 followers, 6 following
+[2025-12-18 15:56:03] [INFO] ✅ 1364ghazal62816: 3 followers, 17 following
+[2025-12-18 15:56:19] [INFO] ✅ 1366_t: 154 followers, 908 following
+[2025-12-18 15:56:34] [INFO] ✅ 13virginiawoolf: 4064 followers, 673 following
+[2025-12-18 15:56:34] [INFO] Checkpoint saved: 19 users
+[2025-12-18 15:56:49] [INFO] ✅ 14sm_: 4340 followers, 3486 following
+[2025-12-18 15:57:07] [INFO] ✅ 1573cigars: 649 followers, 10 following
+[2025-12-18 15:57:23] [INFO] ✅ 18thcent_kitty: None followers, 988 following
+[2025-12-18 15:57:41] [INFO] ✅ 1983ms13: 226 followers, 1945 following
+[2025-12-18 15:57:58] [INFO] ✅ 19azamat9267: 1 followers, 17 following
+[2025-12-18 15:57:58] [INFO] Checkpoint saved: 24 users
+[2025-12-18 15:58:15] [INFO] ✅ 1bl51ilj2fkkt: 33 followers, 1289 following
+[2025-12-18 15:58:28] [INFO] ✅ 1dish4theroad: 5435 followers, 3587 following
+[2025-12-18 15:58:44] [INFO] ✅ 1fargol: 2 followers, 34 following
+[2025-12-18 15:58:58] [INFO] ✅ 1inch: None followers, 365 following
+[2025-12-18 15:59:11] [INFO] ✅ 1m9od5: 0 followers, 16 following
+[2025-12-18 15:59:11] [INFO] Checkpoint saved: 29 users
+[2025-12-18 15:59:11] [INFO] Long delay at position 30: 179s
+[2025-12-18 16:02:18] [INFO] ✅ 1meshmo: 107 followers, 550 following
+[2025-12-18 16:02:33] [INFO] ✅ 1mhyar: 2001 followers, 15 following
+[2025-12-18 16:02:50] [INFO] ✅ 1pezeshk_plus: 233 followers, 740 following
+[2025-12-18 16:03:05] [INFO] ✅ 1wlxeue6p5b8ws: 129 followers, 3438 following
+[2025-12-18 16:03:19] [INFO] ✅ 1wqrz: 60 followers, 132 following
+[2025-12-18 16:03:19] [INFO] Checkpoint saved: 34 users
+[2025-12-18 16:03:32] [INFO] ✅ 2000mhac: 1 followers, 20 following
+[2025-12-18 16:03:48] [INFO] ✅ 2012bb6656: 1782 followers, 2755 following
+[2025-12-18 16:04:01] [INFO] ✅ 2017siyasi: 206 followers, 306 following
+[2025-12-18 16:04:17] [INFO] ✅ 2025_samuel: 50 followers, 786 following
+[2025-12-18 16:04:31] [INFO] ✅ 2088sajad24892: 5 followers, 39 following
+[2025-12-18 16:04:31] [INFO] Checkpoint saved: 39 users
+[2025-12-18 16:04:45] [INFO] ✅ 20lincoln20: 4085 followers, 4396 following
+[2025-12-18 16:05:02] [INFO] ✅ 20rapcom: None followers, 13 following
+[2025-12-18 16:05:16] [INFO] ✅ 21molana: 0 followers, 1 following
+[2025-12-18 16:05:34] [INFO] ✅ 2447mo1789: 1177 followers, 5324 following
+[2025-12-18 16:05:50] [INFO] ✅ 27484b: 0 followers, 495 following
+[2025-12-18 16:05:50] [INFO] Checkpoint saved: 44 users
+[2025-12-18 16:06:04] [INFO] ✅ 28minutes: None followers, 2495 following
+[2025-12-18 16:06:21] [INFO] ✅ 2_ncqr: 102 followers, 1586 following
+[2025-12-18 16:06:38] [INFO] ✅ 2_rebelgirl: 1399 followers, 1004 following
+[2025-12-18 16:06:51] [INFO] ✅ 2bender: 3313 followers, 667 following
+[2025-12-18 16:07:05] [INFO] ✅ 2dopequeens: None followers, 1094 following
+[2025-12-18 16:07:05] [INFO] Checkpoint saved: 49 users
+[2025-12-18 16:07:21] [INFO] ✅ 2internetghosts: 6853 followers, 3767 following
+[2025-12-18 16:07:37] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-18 16:07:52] [INFO] ✅ 2rr0i_: 4 followers, 37 following
+[2025-12-18 16:08:05] [INFO] ✅ 2x0x2x4: 133 followers, 95 following
+[2025-12-18 16:08:18] [INFO] ✅ 30for30: None followers, 1399 following
+[2025-12-18 16:08:18] [INFO] Checkpoint saved: 53 users
+[2025-12-18 16:08:36] [INFO] ✅ 30nahejazi: 4400 followers, 16 following
+[2025-12-18 16:08:49] [INFO] ✅ 319u9xc85rz97: 67 followers, 7339 following
+[2025-12-18 16:09:02] [INFO] ✅ 31siye6: 25 followers, 45 following
+[2025-12-18 16:09:15] [INFO] ✅ 32kennocha: 345 followers, 472 following
+[2025-12-18 16:09:29] [INFO] ✅ 3303losangelesr: 7 followers, 917 following
+[2025-12-18 16:09:29] [INFO] Checkpoint saved: 58 users
+[2025-12-18 16:09:29] [INFO] Long delay at position 60: 164s
+[2025-12-18 16:12:21] [INFO] ✅ 34gwr77liku4hw8: 18 followers, 450 following
+[2025-12-18 16:12:35] [INFO] ✅ 35anj: None followers, 0 following
+[2025-12-18 16:12:52] [INFO] ✅ 35pmrc4xezu0tvd: 0 followers, 4 following
+[2025-12-18 16:13:07] [INFO] ✅ 3ccmke: 1 followers, 154 following
+[2025-12-18 16:13:23] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-18 16:13:23] [INFO] Checkpoint saved: 62 users
+[2025-12-18 16:13:37] [INFO] ✅ 3pm_est: 1 followers, 85 following
+[2025-12-18 16:13:53] [INFO] ✅ 3tareee: 1206 followers, 212 following
+[2025-12-18 16:14:08] [INFO] ✅ 404arsynotfound: 8 followers, 72 following
+[2025-12-18 16:14:25] [INFO] ✅ 424xh: 154 followers, 2398 following
+[2025-12-18 16:14:42] [INFO] ✅ 42potatoesss: 1 followers, 77 following
+[2025-12-18 16:14:42] [INFO] Checkpoint saved: 67 users
+[2025-12-18 16:14:57] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-18 16:15:11] [INFO] ✅ 4bteen: 17 followers, 391 following
+[2025-12-18 16:15:29] [INFO] ✅ 4freedom4iran: 18 followers, 214 following
+[2025-12-18 16:15:43] [WARNING] Insufficient data for 4freedominiran: only 1/3 fields
+[2025-12-18 16:16:00] [INFO] ✅ 4genderjustice: 5771 followers, 1516 following
+[2025-12-18 16:16:00] [INFO] Checkpoint saved: 70 users
+[2025-12-18 16:16:13] [INFO] ✅ 4ltgmlpx61671: 3 followers, 195 following
+[2025-12-18 16:16:29] [INFO] ✅ 4m2dvxbg7uptwhz: 104 followers, 383 following
+[2025-12-18 16:16:45] [WARNING] Insufficient data for 4noura: only 1/3 fields
+[2025-12-18 16:17:02] [WARNING] Insufficient data for 4refugeewomen: only 1/3 fields
+[2025-12-18 16:17:20] [INFO] ✅ 4sylvestermccoy: None followers, 121 following
+[2025-12-18 16:17:20] [INFO] Checkpoint saved: 73 users
+[2025-12-18 16:17:38] [INFO] ✅ 4viewers: None followers, 1330 following
+[2025-12-18 16:17:54] [INFO] ✅ 4xasw2m9126jd: 47 followers, 2056 following
+[2025-12-18 16:18:10] [INFO] ✅ 4zk79e91ywvxni2: 11 followers, 118 following
+[2025-12-18 16:18:25] [INFO] ✅ 500womensci: None followers, 1832 following
+[2025-12-18 16:18:39] [INFO] ✅ 50uses: 489 followers, 2753 following
+[2025-12-18 16:18:39] [INFO] Checkpoint saved: 78 users
+[2025-12-18 16:18:58] [INFO] ✅ 54hz_whale: 59 followers, 1363 following
+[2025-12-18 16:19:13] [INFO] ✅ 5ogand: None followers, 71 following
+[2025-12-18 16:19:29] [INFO] ✅ 5thprisoner: 6351 followers, 265 following
+[2025-12-18 16:19:44] [INFO] ✅ 5x2i530x3rcidcw: 123 followers, 3449 following
+[2025-12-18 16:20:01] [INFO] ✅ 5y6aahcdftzn4me: 26 followers, 10 following
+[2025-12-18 16:20:01] [INFO] Checkpoint saved: 83 users
+[2025-12-18 16:20:01] [INFO] Long delay at position 90: 291s
+[2025-12-18 16:25:00] [INFO] ✅ 61pari93357: 48 followers, 681 following
+[2025-12-18 16:25:17] [INFO] ✅ 677krzych: 146 followers, 807 following
+[2025-12-18 16:25:30] [INFO] ✅ 67888892jkssl: 82 followers, 148 following
+[2025-12-18 16:25:47] [WARNING] Insufficient data for 6njeli: only 1/3 fields
+[2025-12-18 16:26:00] [INFO] ✅ 6shahriar68408: 0 followers, 6 following
+[2025-12-18 16:26:00] [INFO] Checkpoint saved: 87 users
+[2025-12-18 16:26:13] [INFO] ✅ 72nargessalehi: 0 followers, 3 following
+[2025-12-18 16:26:30] [INFO] ✅ 730no: None followers, 962 following
+[2025-12-18 16:26:44] [INFO] ✅ 77abolfazlhz: 486 followers, 958 following
+[2025-12-18 16:26:59] [INFO] ✅ 77o7h: 0 followers, 28 following
+[2025-12-18 16:27:05] [INFO] Browser restart at position 100
+[2025-12-18 16:27:18] [INFO] Initializing browser
+[2025-12-18 16:27:33] [INFO] Cookies loaded successfully
+[2025-12-18 16:27:43] [INFO] ✅ 7_ndala: 15 followers, 92 following
+[2025-12-18 16:27:43] [INFO] Checkpoint saved: 92 users
+[2025-12-18 16:27:43] [INFO] Super delay at position 100: 852s
+[2025-12-18 16:42:03] [INFO] ✅ 7continentnewss: 74 followers, 778 following
+[2025-12-18 16:42:16] [INFO] ✅ 7farzin7711830: 0 followers, 4 following
+[2025-12-18 16:42:29] [INFO] ✅ 7khaiiam: 341 followers, 31 following
+[2025-12-18 16:42:43] [WARNING] Insufficient data for 7negiashish: only 1/3 fields
+[2025-12-18 16:42:59] [INFO] ✅ 7usiy: 347 followers, 25 following
+[2025-12-18 16:42:59] [INFO] Checkpoint saved: 96 users
+[2025-12-18 16:43:12] [INFO] ✅ 80403b7197f4437: 65 followers, 290 following
+[2025-12-18 16:43:25] [INFO] ✅ 88sparber: 2 followers, 343 following
+[2025-12-18 16:43:42] [INFO] ✅ 8mathieu8: 1267 followers, 7195 following
+[2025-12-18 16:43:59] [INFO] ✅ 8nilsjxeqhj1v: 36 followers, 1285 following
+[2025-12-18 16:44:13] [WARNING] Insufficient data for 90ndstoppage: only 1/3 fields
+[2025-12-18 16:44:13] [INFO] Checkpoint saved: 100 users
+[2025-12-18 16:44:27] [INFO] ✅ 9122432itw: 304 followers, 396 following
+[2025-12-18 16:44:42] [INFO] ✅ 965bita37920: 0 followers, 1 following
+[2025-12-18 16:44:55] [INFO] ✅ 999qol9196: 486 followers, 7500 following
+[2025-12-18 16:45:09] [INFO] ✅ 99piorg: None followers, 21 following
+[2025-12-18 16:45:27] [INFO] ✅ 9rcl7at9wzomubs: 12 followers, 65 following
+[2025-12-18 16:45:27] [INFO] Checkpoint saved: 105 users
+[2025-12-18 16:45:44] [INFO] ✅ 9tantiope: 550 followers, 202 following
+[2025-12-18 16:46:00] [WARNING] Insufficient data for _3pehr__: only 1/3 fields
+[2025-12-18 16:46:15] [INFO] ✅ _____zhang____: 5 followers, 208 following
+[2025-12-18 16:46:30] [INFO] ✅ ___cfilm: 0 followers, 424 following
+[2025-12-18 16:46:44] [INFO] ✅ ___mohsen_: 284 followers, 483 following
+[2025-12-18 16:46:44] [INFO] Checkpoint saved: 109 users
+[2025-12-18 16:46:44] [INFO] Long delay at position 120: 242s
+[2025-12-18 16:50:54] [INFO] ✅ ___tw1tt3r___: 18 followers, 558 following
+[2025-12-18 16:51:08] [INFO] ✅ __aespect: 3 followers, 40 following
+[2025-12-18 16:51:25] [INFO] ✅ __dokhtarak: 13 followers, 184 following
+[2025-12-18 16:51:38] [WARNING] Insufficient data for __injaneb96: only 1/3 fields
+[2025-12-18 16:51:54] [INFO] ✅ __mareux__: 4384 followers, 131 following
+[2025-12-18 16:51:54] [INFO] Checkpoint saved: 113 users
+[2025-12-18 16:52:09] [INFO] ✅ __mehmetaslan__: 2 followers, 5 following
+[2025-12-18 16:52:22] [INFO] ✅ __rumi22_: 13 followers, 491 following
+[2025-12-18 16:52:39] [INFO] ✅ __shim__shim: 5769 followers, 523 following
+[2025-12-18 16:52:53] [WARNING] Insufficient data for __thatisgirl__: only 1/3 fields
+[2025-12-18 16:53:11] [WARNING] Insufficient data for _adilhussain: only 1/3 fields
+[2025-12-18 16:53:11] [INFO] Checkpoint saved: 116 users
+[2025-12-18 16:53:30] [INFO] ✅ _advanceuk: 1 followers, 362 following
+[2025-12-18 16:53:43] [INFO] ✅ _aespect: 430 followers, 1802 following
+[2025-12-18 16:53:59] [INFO] ✅ _agentfootball: 3 followers, 75 following
+[2025-12-18 16:54:14] [INFO] ✅ _aj_johnstone: 674 followers, 2787 following
+[2025-12-18 16:54:32] [INFO] ✅ _alevgundogan_: 0 followers, 4 following
+[2025-12-18 16:54:32] [INFO] Checkpoint saved: 121 users
+[2025-12-18 16:54:45] [INFO] ✅ _ali_najjar_: 770 followers, 890 following
+[2025-12-18 16:55:01] [INFO] ✅ _aliemili_: 9 followers, 132 following
+[2025-12-18 16:55:17] [INFO] ✅ _alignments: 15 followers, 13 following
+[2025-12-18 16:55:34] [INFO] ✅ _alonso11: 7990 followers, 102 following
+[2025-12-18 16:55:46] [INFO] ✅ _amiir_75: 140 followers, 1333 following
+[2025-12-18 16:55:46] [INFO] Checkpoint saved: 126 users
+[2025-12-18 16:56:00] [INFO] ✅ _angry_n___: 149 followers, 160 following
+[2025-12-18 16:56:14] [INFO] ✅ _articlle_: 8556 followers, 803 following
+[2025-12-18 16:56:31] [INFO] ✅ _atefehshams_: 4 followers, 50 following
+[2025-12-18 16:56:49] [INFO] ✅ _atscale: 2202 followers, 1211 following
+[2025-12-18 16:57:03] [INFO] ✅ _bonos_: 40 followers, 7500 following
+[2025-12-18 16:57:03] [INFO] Checkpoint saved: 131 users
+[2025-12-18 16:57:19] [WARNING] Insufficient data for _caioroque: only 1/3 fields
+[2025-12-18 16:57:34] [INFO] ✅ _carneosso: 1806 followers, 425 following
+[2025-12-18 16:57:51] [INFO] ✅ _celestraa: 98 followers, 667 following
+[2025-12-18 16:58:08] [INFO] ✅ _danielsantini: 1768 followers, 1888 following
+[2025-12-18 16:58:20] [INFO] ✅ _dinken_: 379 followers, 529 following
+[2025-12-18 16:58:20] [INFO] Checkpoint saved: 135 users
+[2025-12-18 16:58:20] [INFO] Long delay at position 150: 258s
+[2025-12-18 17:02:47] [INFO] ✅ _ellrose: 5833 followers, 225 following
+[2025-12-18 17:03:01] [INFO] Account not found: _f_22_
+[2025-12-18 17:03:16] [INFO] ✅ _fatemeramezani: 9 followers, 24 following
+[2025-12-18 17:03:31] [INFO] ✅ _freeeagle_: 138 followers, 213 following
+[2025-12-18 17:03:49] [INFO] ✅ _ganeshp: 2080 followers, 1005 following
+[2025-12-18 17:03:49] [INFO] Checkpoint saved: 139 users
+[2025-12-18 17:04:06] [INFO] ✅ _garrulus: 112 followers, 475 following
+[2025-12-18 17:04:20] [WARNING] Insufficient data for _germanzero: only 0/3 fields
+[2025-12-18 17:04:34] [INFO] ✅ _ghazaltaleb: 13 followers, 47 following
+[2025-12-18 17:04:51] [INFO] ✅ _gpaolo: 321 followers, 506 following
+[2025-12-18 17:05:08] [WARNING] Insufficient data for _gsayla_: only 1/3 fields
+[2025-12-18 17:05:08] [INFO] Checkpoint saved: 142 users
+[2025-12-18 17:05:23] [INFO] ✅ _h_o_o_r_: 113 followers, 41 following
+[2025-12-18 17:05:40] [INFO] ✅ _hannahritchie: None followers, 1337 following
+[2025-12-18 17:05:53] [INFO] ✅ _hasanbro: 94 followers, 249 following
+[2025-12-18 17:06:08] [INFO] ✅ _hqaddomi: 33 followers, 359 following
+[2025-12-18 17:06:25] [INFO] ✅ _husseinth3: 2 followers, 6 following
+[2025-12-18 17:06:25] [INFO] Checkpoint saved: 147 users
+[2025-12-18 17:06:38] [INFO] ✅ _iamnaaz_: None followers, 232 following
+[2025-12-18 17:06:52] [WARNING] Insufficient data for _ihrec: only 1/3 fields
+[2025-12-18 17:07:06] [WARNING] Insufficient data for _indisky: only 1/3 fields
+[2025-12-18 17:07:19] [INFO] ✅ _infogirl: 59 followers, 665 following
+[2025-12-18 17:07:34] [INFO] ✅ _ipesarekhob: 899 followers, 1056 following
+[2025-12-18 17:07:34] [INFO] Checkpoint saved: 150 users
+[2025-12-18 17:07:45] [INFO] ✅ _irani_mohammad: 8 followers, 1774 following
+[2025-12-18 17:08:01] [INFO] ✅ _iweni: 80 followers, 370 following
+[2025-12-18 17:08:16] [INFO] ✅ _iwftw: 1216 followers, 819 following
+[2025-12-18 17:08:31] [INFO] ✅ _iwtiina: 0 followers, 4 following
+[2025-12-18 17:08:47] [INFO] ✅ _jkaplan: 4856 followers, 3387 following
+[2025-12-18 17:08:47] [INFO] Checkpoint saved: 155 users
+[2025-12-18 17:09:03] [INFO] ✅ _joy_net: 3285 followers, 734 following
+[2025-12-18 17:09:18] [WARNING] Insufficient data for _kamyark_: only 1/3 fields
+[2025-12-18 17:09:33] [WARNING] Insufficient data for _ksu: only 1/3 fields
+[2025-12-18 17:09:49] [INFO] ✅ _kuramakyubi_: 1 followers, 24 following
+[2025-12-18 17:10:05] [WARNING] Insufficient data for _mahdiyar313: only 1/3 fields
+[2025-12-18 17:10:05] [INFO] Checkpoint saved: 157 users
+[2025-12-18 17:10:05] [INFO] Long delay at position 180: 218s
+[2025-12-18 17:13:51] [WARNING] Insufficient data for _mehraboonn: only 1/3 fields
+[2025-12-18 17:14:03] [INFO] ✅ _mehrabooon: 2336 followers, 2501 following
+[2025-12-18 17:14:20] [INFO] ✅ _miaswart: 1073 followers, 1084 following
+[2025-12-18 17:14:36] [INFO] ✅ _mohammad_1987_: 0 followers, 5 following
+[2025-12-18 17:14:50] [INFO] ✅ _mriyim_: 131 followers, 114 following
+[2025-12-18 17:14:50] [INFO] Checkpoint saved: 161 users
+[2025-12-18 17:15:06] [INFO] ✅ _nafyn_: 544 followers, 427 following
+[2025-12-18 17:15:21] [INFO] ✅ _nam11: 4887 followers, 2796 following
+[2025-12-18 17:15:36] [INFO] ✅ _pia_: 74 followers, 115 following
+[2025-12-18 17:15:52] [INFO] ✅ _raven_reborn_: 5622 followers, 2129 following
+[2025-12-18 17:16:06] [INFO] ✅ _rezinski: 231 followers, 106 following
+[2025-12-18 17:16:06] [INFO] Checkpoint saved: 166 users
+[2025-12-18 17:16:23] [INFO] ✅ _rosemark: 8 followers, 127 following
+[2025-12-18 17:16:36] [INFO] ✅ _sarahdavies: 6039 followers, 2489 following
+[2025-12-18 17:16:52] [INFO] ✅ _scandalou_: 43 followers, 299 following
+[2025-12-18 17:17:05] [INFO] ✅ _sethnall: 31 followers, 1166 following
+[2025-12-18 17:17:22] [WARNING] Insufficient data for _sgtslaughter: only 1/3 fields
+[2025-12-18 17:17:22] [INFO] Checkpoint saved: 170 users
+[2025-12-18 17:17:36] [INFO] ✅ _shahaf_: 257 followers, 1970 following
+[2025-12-18 17:17:50] [INFO] ✅ _sihelvi: 16 followers, 73 following
+[2025-12-18 17:18:05] [INFO] ✅ _sky_tw: 1 followers, 19 following
+[2025-12-18 17:18:22] [INFO] ✅ _soommiii_: 27 followers, 85 following
+[2025-12-18 17:18:29] [INFO] Browser restart at position 200
+[2025-12-18 17:18:42] [INFO] Initializing browser
+[2025-12-18 17:18:57] [INFO] Cookies loaded successfully
+[2025-12-18 17:19:06] [INFO] ✅ _starboy369: 806 followers, 5214 following
+[2025-12-18 17:19:06] [INFO] Checkpoint saved: 175 users
+[2025-12-18 17:19:06] [INFO] Super delay at position 200: 851s
+[2025-12-18 17:33:25] [INFO] ✅ _thebemagugu_: None followers, 314 following
+[2025-12-18 17:33:39] [INFO] ✅ _thejimbo_: 757 followers, 237 following
+[2025-12-18 17:33:52] [INFO] ✅ _theleftover: 462 followers, 563 following
+[2025-12-18 17:34:06] [INFO] ✅ _uselessgothdm: 19 followers, 124 following
+[2025-12-18 17:34:22] [INFO] ✅ _uzbekfootball: 2813 followers, 331 following
+[2025-12-18 17:34:22] [INFO] Checkpoint saved: 180 users
+[2025-12-18 17:34:39] [INFO] ✅ _x_wolverine: 810 followers, 2000 following
+[2025-12-18 17:34:56] [INFO] ✅ _ya_karim_: 532 followers, 436 following
+[2025-12-18 17:35:11] [INFO] ✅ _zelenska_: 21 followers, 309 following
+[2025-12-18 17:35:26] [WARNING] Insufficient data for a16z: only 1/3 fields
+[2025-12-18 17:35:42] [INFO] ✅ a16zcrypto: None followers, 511 following
+[2025-12-18 17:35:42] [INFO] Checkpoint saved: 184 users
+[2025-12-18 17:35:42] [INFO] Long delay at position 210: 233s
+[2025-12-18 17:39:43] [INFO] ✅ a1976_b: 21 followers, 233 following
+[2025-12-18 17:39:59] [INFO] ✅ a2bdullah_: 0 followers, 13 following
+[2025-12-18 17:40:15] [INFO] ✅ a5sp3: 1 followers, 12 following
+[2025-12-18 17:40:29] [INFO] ✅ a60968h: 0 followers, 15 following
+[2025-12-18 17:40:46] [INFO] ✅ a8484aviv: 3028 followers, 7496 following
+[2025-12-18 17:40:46] [INFO] Checkpoint saved: 189 users
+[2025-12-18 17:41:00] [INFO] ✅ a9b9e3m1: 1 followers, 83 following
+[2025-12-18 17:41:16] [INFO] ✅ a_01_2024: 48 followers, 454 following
+[2025-12-18 17:41:31] [INFO] ✅ a_abothman: 418 followers, 1060 following
+[2025-12-18 17:41:44] [INFO] ✅ a_alirezabeigi: 3823 followers, 30 following
+[2025-12-18 17:41:58] [INFO] ✅ a_alley: 918 followers, 567 following
+[2025-12-18 17:41:58] [INFO] Checkpoint saved: 194 users
+[2025-12-18 17:42:11] [INFO] ✅ a_baronca: 5437 followers, 603 following
+[2025-12-18 17:42:27] [INFO] ✅ a_bindoff: 236 followers, 598 following
+[2025-12-18 17:42:41] [INFO] ✅ a_f_cebeci: 9013 followers, 5337 following
+[2025-12-18 17:42:55] [INFO] ✅ a_fallahzadeh: 1 followers, 222 following
+[2025-12-18 17:43:10] [INFO] ✅ a_hossainy: 1302 followers, 888 following
+[2025-12-18 17:43:10] [INFO] Checkpoint saved: 199 users
+[2025-12-18 17:43:25] [WARNING] Insufficient data for a_jafarzadeh: only 1/3 fields
+[2025-12-18 17:43:38] [INFO] ✅ a_nazari99: 21 followers, 276 following
+[2025-12-18 17:43:54] [WARNING] Insufficient data for a_rnazari: only 1/3 fields
+[2025-12-18 17:44:09] [INFO] ✅ a_s_v_t_r: 389 followers, 943 following
+[2025-12-18 17:44:23] [INFO] ✅ a_sarkohi: 2995 followers, 702 following
+[2025-12-18 17:44:23] [INFO] Checkpoint saved: 202 users
+[2025-12-18 17:44:36] [INFO] ✅ a_soleimani_f: 14 followers, 93 following
+[2025-12-18 17:44:49] [WARNING] Insufficient data for a_z_im: only 1/3 fields
+[2025-12-18 17:45:05] [INFO] ✅ aa1915898: 9 followers, 312 following
+[2025-12-18 17:45:19] [INFO] ✅ aa51_ansari: 7637 followers, 931 following
+[2025-12-18 17:45:33] [INFO] ✅ aaaaaaav69: 51 followers, 245 following
+[2025-12-18 17:45:33] [INFO] Checkpoint saved: 206 users
+[2025-12-18 17:45:46] [INFO] ✅ aaaarrisbs: 0 followers, 3 following
+[2025-12-18 17:45:59] [INFO] ✅ aaalirz: 694 followers, 3790 following
+[2025-12-18 17:46:13] [INFO] ✅ aaction414: 700 followers, 7498 following
+[2025-12-18 17:46:25] [INFO] ✅ aadianjana6567: 223 followers, 2578 following
+[2025-12-18 17:46:42] [INFO] ✅ aadilsultanx: 337 followers, 4781 following
+[2025-12-18 17:46:42] [INFO] Checkpoint saved: 211 users
+[2025-12-18 17:46:42] [INFO] Long delay at position 240: 149s
+[2025-12-18 17:49:18] [INFO] ✅ aafifrakin: 0 followers, 18 following
+[2025-12-18 17:49:30] [INFO] ✅ aahassas: 126 followers, 225 following
+[2025-12-18 17:49:45] [INFO] ✅ aahonarmand: None followers, 288 following
+[2025-12-18 17:49:57] [WARNING] Insufficient data for aaihs: only 1/3 fields
+[2025-12-18 17:50:14] [INFO] ✅ aajavoices: 1904 followers, 583 following
+[2025-12-18 17:50:14] [INFO] Checkpoint saved: 215 users
+[2025-12-18 17:50:30] [WARNING] Insufficient data for aaknopf: only 1/3 fields
+[2025-12-18 17:50:44] [INFO] ✅ aalabadi78525: 0 followers, 5 following
+[2025-12-18 17:50:58] [INFO] ✅ aalbahrayn5356: 134 followers, 1392 following
+[2025-12-18 17:51:15] [INFO] ✅ aalejandrabm: 126 followers, 560 following
+[2025-12-18 17:51:29] [INFO] ✅ aaljamel13216: 27 followers, 1200 following
+[2025-12-18 17:51:29] [INFO] Checkpoint saved: 219 users
+[2025-12-18 17:51:44] [INFO] ✅ aalmalki_10: 4 followers, 91 following
+[2025-12-18 17:51:59] [INFO] ✅ aam653073: 2 followers, 2113 following
+[2025-12-18 17:52:11] [INFO] ✅ aami_r1385: 0 followers, 8 following
+[2025-12-18 17:52:27] [WARNING] Insufficient data for aamullanee: only 1/3 fields
+[2025-12-18 17:52:43] [INFO] ✅ aanahelll: 62 followers, 93 following
+[2025-12-18 17:52:43] [INFO] Checkpoint saved: 223 users
+[2025-12-18 17:52:57] [INFO] ✅ aanandlrai: None followers, 3 following
+[2025-12-18 17:53:13] [INFO] ✅ aarabisaeid: 0 followers, 25 following
+[2025-12-18 17:53:26] [INFO] ✅ aaravtyagi_x: 0 followers, 17 following
+[2025-12-18 17:53:42] [INFO] ✅ aardavann: 161 followers, 123 following
+[2025-12-18 17:53:58] [INFO] ✅ aarnapatel68: 465 followers, 7165 following
+[2025-12-18 17:53:58] [INFO] Checkpoint saved: 228 users
+[2025-12-18 17:54:13] [WARNING] Insufficient data for aaronjmate: only 1/3 fields
+[2025-12-18 17:54:28] [INFO] ✅ aaronoff7: 14 followers, 6 following
+[2025-12-18 17:54:42] [INFO] ✅ aasangari: 200 followers, 5518 following
+[2025-12-18 17:54:56] [WARNING] Insufficient data for ab_ganji: only 1/3 fields
+[2025-12-18 17:55:10] [INFO] ✅ abadguy000: 278 followers, 639 following
+[2025-12-18 17:55:10] [INFO] Checkpoint saved: 231 users
+[2025-12-18 17:55:24] [INFO] ✅ abaerbockarchiv: None followers, 114 following
+[2025-12-18 17:55:38] [WARNING] Insufficient data for abajournal: only 1/3 fields
+[2025-12-18 17:55:54] [INFO] ✅ aban_paris: 138 followers, 264 following
+[2025-12-18 17:56:08] [INFO] ✅ abarsaber: None followers, 156 following
+[2025-12-18 17:56:25] [INFO] ✅ abaruleoflaw: 3539 followers, 916 following
+[2025-12-18 17:56:25] [INFO] Checkpoint saved: 235 users
+[2025-12-18 17:56:25] [INFO] Long delay at position 270: 204s
+[2025-12-18 17:59:58] [INFO] ✅ abas_asgharpour: 65 followers, 62 following
+[2025-12-18 18:00:16] [INFO] ✅ abasabolfathi43: 167 followers, 920 following
+[2025-12-18 18:00:30] [WARNING] Insufficient data for abasaslani: only 1/3 fields
+[2025-12-18 18:00:48] [INFO] ✅ abasiabbassi: 516 followers, 369 following
+[2025-12-18 18:01:02] [INFO] ✅ abasinfo: 1213 followers, 505 following
+[2025-12-18 18:01:02] [INFO] Checkpoint saved: 239 users
+[2025-12-18 18:01:20] [INFO] ✅ abazarhassan: None followers, 807 following
+[2025-12-18 18:01:36] [INFO] ✅ abb_abdi: None followers, 475 following
+[2025-12-18 18:01:50] [INFO] ✅ abba3pakbin: 77 followers, 826 following
+[2025-12-18 18:02:07] [INFO] ✅ abbas2864: 7 followers, 52 following
+[2025-12-18 18:02:22] [WARNING] Insufficient data for abbasagha: only 1/3 fields
+[2025-12-18 18:02:22] [INFO] Checkpoint saved: 243 users
+[2025-12-18 18:02:38] [INFO] ✅ abbasalawadi6: 109 followers, 641 following
+[2025-12-18 18:02:52] [INFO] ✅ abbasali690448: 0 followers, 65 following
+[2025-12-18 18:03:09] [INFO] ✅ abbasi_j_5: 1280 followers, 4321 following
+[2025-12-18 18:03:27] [INFO] ✅ abbasi_students: 5752 followers, 58 following
+[2025-12-18 18:03:44] [INFO] ✅ abbasiniho: 1654 followers, 1816 following
+[2025-12-18 18:03:44] [INFO] Checkpoint saved: 248 users
+[2025-12-18 18:04:00] [INFO] ✅ abbasmehdavi312: 12 followers, 122 following
+[2025-12-18 18:04:14] [INFO] ✅ abbasmowzoon: None followers, 0 following
+[2025-12-18 18:04:30] [WARNING] Insufficient data for abbydphillip: only 1/3 fields
+[2025-12-18 18:04:44] [WARNING] Insufficient data for abc: only 1/3 fields
+[2025-12-18 18:04:59] [WARNING] Insufficient data for abc7ny: only 1/3 fields
+[2025-12-18 18:04:59] [WARNING] 3 consecutive failures
+[2025-12-18 18:05:07] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 18:05:07] [INFO] Checkpoint saved: 250 users
+[2025-12-18 18:27:51] [INFO] Initializing browser
+[2025-12-18 18:28:07] [INFO] Cookies loaded successfully
+[2025-12-18 18:28:07] [INFO] Checkpoint saved: 250 users
+[2025-12-18 18:28:23] [WARNING] Insufficient data for abcnews: only 1/3 fields
+[2025-12-18 18:28:40] [WARNING] Insufficient data for abcsharktank: only 1/3 fields
+[2025-12-18 18:28:53] [INFO] ✅ abd_ir1: 1 followers, 667 following
+[2025-12-18 18:29:06] [INFO] ✅ abdeekalantari: 5015 followers, 1583 following
+[2025-12-18 18:29:23] [INFO] ✅ abdelkarimslp: None followers, 208 following
+[2025-12-18 18:29:23] [INFO] Checkpoint saved: 253 users
+[2025-12-18 18:29:36] [INFO] ✅ abdelmonim68330: 0 followers, 15 following
+[2025-12-18 18:29:49] [INFO] ✅ abdelra07745930: None followers, 2406 following
+[2025-12-18 18:30:04] [INFO] ✅ abdimonireh: 1637 followers, 209 following
+[2025-12-18 18:30:19] [WARNING] Insufficient data for abdolah_abdi: only 1/3 fields
+[2025-12-18 18:30:27] [INFO] Browser restart at position 300
+[2025-12-18 18:30:40] [INFO] Initializing browser
+[2025-12-18 18:30:55] [INFO] Cookies loaded successfully
+[2025-12-18 18:31:04] [INFO] ✅ abdolahkha36267: 0 followers, 3 following
+[2025-12-18 18:31:04] [INFO] Checkpoint saved: 257 users
+[2025-12-18 18:31:04] [INFO] Super delay at position 300: 670s
+[2025-12-18 18:42:21] [INFO] ✅ abdolhamid_net: 4410 followers, 2 following
+[2025-12-18 18:42:34] [INFO] ✅ abdolhamidnet: None followers, 2 following
+[2025-12-18 18:42:48] [INFO] ✅ abdolhamidnetar: 3445 followers, 2 following
+[2025-12-18 18:43:05] [INFO] ✅ abdollahia64050: 3 followers, 64 following
+[2025-12-18 18:43:22] [INFO] ✅ abdollahram: None followers, 1102 following
+[2025-12-18 18:43:22] [INFO] Checkpoint saved: 262 users
+[2025-12-18 18:43:38] [INFO] ✅ abdolrezakahani: None followers, 299 following
+[2025-12-18 18:43:54] [INFO] ✅ abdul534kerim: 0 followers, 1 following
+[2025-12-18 18:44:06] [INFO] ✅ abdul_ix: 1182 followers, 615 following
+[2025-12-18 18:44:18] [INFO] ✅ abdul_majid33: None followers, 4650 following
+[2025-12-18 18:44:31] [INFO] ✅ abdul_qadi90079: 2 followers, 44 following
+[2025-12-18 18:44:31] [INFO] Checkpoint saved: 267 users
+[2025-12-18 18:44:47] [INFO] ✅ abdul_samad_pti: 1070 followers, 258 following
+[2025-12-18 18:45:00] [INFO] ✅ abdulahreema: 325 followers, 1501 following
+[2025-12-18 18:45:13] [INFO] ✅ abdulbaset22: 8645 followers, 3202 following
+[2025-12-18 18:45:30] [INFO] ✅ abdulhaidari313: 1 followers, 7 following
+[2025-12-18 18:45:44] [INFO] ✅ abdullah9th: 18 followers, 940 following
+[2025-12-18 18:45:44] [INFO] Checkpoint saved: 272 users
+[2025-12-18 18:46:00] [INFO] ✅ abdullahagar2: None followers, 1259 following
+[2025-12-18 18:46:14] [INFO] ✅ abdullahhemyari: 138 followers, 1332 following
+[2025-12-18 18:46:31] [INFO] ✅ abdullahisom1: 2846 followers, 783 following
+[2025-12-18 18:46:46] [INFO] ✅ abdullahmohtadi: None followers, 430 following
+[2025-12-18 18:47:00] [INFO] ✅ abdullahpa7203: 0 followers, 85 following
+[2025-12-18 18:47:00] [INFO] Checkpoint saved: 277 users
+[2025-12-18 18:47:17] [INFO] ✅ abdullahsa83137: 1 followers, 17 following
+[2025-12-18 18:47:31] [INFO] ✅ abdulndadi: 84 followers, 880 following
+[2025-12-18 18:47:45] [INFO] ✅ abdulqa15628102: 7 followers, 91 following
+[2025-12-18 18:48:01] [INFO] ✅ abdulrahma74533: 2 followers, 100 following
+[2025-12-18 18:48:18] [INFO] ✅ abdulsalamdoct: 6 followers, 118 following
+[2025-12-18 18:48:18] [INFO] Checkpoint saved: 282 users
+[2025-12-18 18:48:31] [INFO] ✅ abdulwadudkha12: 96 followers, 1443 following
+[2025-12-18 18:48:46] [INFO] ✅ abdulzahraa_: 2430 followers, 366 following
+[2025-12-18 18:48:59] [INFO] ✅ abdusalamsalah: None followers, 201 following
+[2025-12-18 18:49:13] [INFO] ✅ abdusamad_aa: 5 followers, 30 following
+[2025-12-18 18:49:28] [INFO] ✅ abdynal18132: 17 followers, 552 following
+[2025-12-18 18:49:28] [INFO] Checkpoint saved: 287 users
+[2025-12-18 18:49:42] [INFO] ✅ abearfromsea: 2576 followers, 1243 following
+[2025-12-18 18:49:56] [INFO] ✅ abed33474966: 12 followers, 240 following
+[2025-12-18 18:50:09] [INFO] ✅ abedimoham75246: 1 followers, 7 following
+[2025-12-18 18:50:23] [INFO] ✅ abedimonfared1: 1598 followers, 1688 following
+[2025-12-18 18:50:39] [INFO] ✅ abedini_farzane: 79 followers, 177 following
+[2025-12-18 18:50:39] [INFO] Checkpoint saved: 292 users
+[2025-12-18 18:50:52] [INFO] ✅ abediyazda45296: 0 followers, 3 following
+[2025-12-18 18:51:06] [INFO] ✅ abehtarin: 6 followers, 93 following
+[2025-12-18 18:51:21] [INFO] ✅ abeirami: None followers, 4569 following
+[2025-12-18 18:51:36] [INFO] ✅ abfarideh: 3017 followers, 2335 following
+[2025-12-18 18:51:49] [INFO] ✅ abhaddadii: None followers, 415 following
+[2025-12-18 18:51:49] [INFO] Checkpoint saved: 297 users
+[2025-12-18 18:52:07] [INFO] ✅ abhijitmajumder: None followers, 624 following
+[2025-12-18 18:52:25] [INFO] ✅ abhishekbhaya: 3877 followers, 3098 following
+[2025-12-18 18:52:42] [INFO] ✅ abhistoria: None followers, 937 following
+[2025-12-18 18:52:56] [INFO] ✅ abidiparisa: 1 followers, 0 following
+[2025-12-18 18:53:12] [INFO] ✅ abikhosh88210: 0 followers, 6 following
+[2025-12-18 18:53:12] [INFO] Checkpoint saved: 302 users
+[2025-12-18 18:53:25] [INFO] ✅ abilovafzalshoh: 4 followers, 98 following
+[2025-12-18 18:53:42] [INFO] ✅ abina310186: 0 followers, 590 following
+[2025-12-18 18:53:58] [INFO] ✅ abinelcv: 95 followers, 299 following
+[2025-12-18 18:54:13] [INFO] ✅ abingdon_arms: 51 followers, 163 following
+[2025-12-18 18:54:27] [INFO] ✅ abkoga: 643 followers, 633 following
+[2025-12-18 18:54:27] [INFO] Checkpoint saved: 307 users
+[2025-12-18 18:54:40] [WARNING] Insufficient data for ablessingscurse: only 1/3 fields
+[2025-12-18 18:54:55] [INFO] ✅ ablrchi: 2919 followers, 1778 following
+[2025-12-18 18:55:07] [INFO] ✅ abmolana: 351 followers, 765 following
+[2025-12-18 18:55:20] [INFO] ✅ abmomeni: None followers, 1186 following
+[2025-12-18 18:55:34] [INFO] ✅ abn0029: 113 followers, 337 following
+[2025-12-18 18:55:34] [INFO] Checkpoint saved: 311 users
+[2025-12-18 18:55:51] [WARNING] Insufficient data for abnormallyadam: only 0/3 fields
+[2025-12-18 18:56:06] [WARNING] Insufficient data for abo_mzeal: only 0/3 fields
+[2025-12-18 18:56:19] [WARNING] Insufficient data for aboalfazlm79456: only 0/3 fields
+[2025-12-18 18:56:19] [WARNING] 3 consecutive failures
+[2025-12-18 18:56:25] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 18:56:25] [INFO] Checkpoint saved: 311 users
+[2025-12-18 19:19:41] [INFO] Initializing browser
+[2025-12-18 19:19:56] [INFO] Cookies loaded successfully
+[2025-12-18 19:20:13] [INFO] ✅ aboarab90547242: 61 followers, 777 following
+[2025-12-18 19:20:30] [INFO] ✅ abofazlrajabi: 1556 followers, 81 following
+[2025-12-18 19:20:30] [INFO] Checkpoint saved: 313 users
+[2025-12-18 19:20:43] [INFO] ✅ abogadasmx: 4618 followers, 839 following
+[2025-12-18 19:20:56] [INFO] ✅ abol1159817: 0 followers, 8 following
+[2025-12-18 19:21:12] [INFO] ✅ abolfazl20_06: 0 followers, 31 following
+[2025-12-18 19:21:29] [INFO] ✅ abolfazl597787: 0 followers, 26 following
+[2025-12-18 19:21:45] [INFO] ✅ abolfazl_1957: 2 followers, 28 following
+[2025-12-18 19:21:45] [INFO] Checkpoint saved: 318 users
+[2025-12-18 19:22:02] [INFO] ✅ abolie17386: 4 followers, 28 following
+[2025-12-18 19:22:17] [INFO] ✅ aboliparande: 1 followers, 53 following
+[2025-12-18 19:22:30] [INFO] ✅ aboodmatar17: 513 followers, 5502 following
+[2025-12-18 19:22:43] [WARNING] Insufficient data for abousahlzoozani: only 1/3 fields
+[2025-12-18 19:22:57] [INFO] ✅ about_shaamim: 1722 followers, 114 following
+[2025-12-18 19:22:57] [INFO] Checkpoint saved: 322 users
+[2025-12-18 19:23:14] [INFO] ✅ aboutmes7: None followers, 193 following
+[2025-12-18 19:23:26] [INFO] ✅ aboutparhammhb: 1543 followers, 498 following
+[2025-12-18 19:23:43] [INFO] ✅ aboyahiaalsgldy: None followers, 3403 following
+[2025-12-18 19:23:57] [INFO] ✅ abrahymahm53406: 1 followers, 70 following
+[2025-12-18 19:24:11] [WARNING] Insufficient data for abramsbooks: only 1/3 fields
+[2025-12-18 19:24:11] [INFO] Checkpoint saved: 326 users
+[2025-12-18 19:24:29] [INFO] ✅ abramscomicarts: 2624 followers, 882 following
+[2025-12-18 19:24:43] [WARNING] Insufficient data for abramskids: only 1/3 fields
+[2025-12-18 19:24:59] [WARNING] Insufficient data for abscbnnews: only 1/3 fields
+[2025-12-18 19:25:14] [INFO] ✅ absleil: 14 followers, 575 following
+[2025-12-18 19:25:29] [INFO] ✅ absmadridista: 144 followers, 1434 following
+[2025-12-18 19:25:29] [INFO] Checkpoint saved: 329 users
+[2025-12-18 19:25:43] [INFO] ✅ abtahi_m: None followers, 937 following
+[2025-12-18 19:25:59] [INFO] ✅ abtc: None followers, 6 following
+[2025-12-18 19:26:12] [INFO] ✅ abtinhoveyda: 4 followers, 18 following
+[2025-12-18 19:26:28] [INFO] ✅ abttaniq: None followers, 2970 following
+[2025-12-18 19:26:45] [INFO] ✅ abu_al_askary: 2697 followers, 0 following
+[2025-12-18 19:26:45] [INFO] Checkpoint saved: 334 users
+[2025-12-18 19:27:00] [INFO] ✅ abu_aqeel86: 0 followers, 16 following
+[2025-12-18 19:27:14] [WARNING] Insufficient data for abualibina: only 1/3 fields
+[2025-12-18 19:27:27] [WARNING] Insufficient data for abualihussein19: only 1/3 fields
+[2025-12-18 19:27:40] [INFO] ✅ abubakarnu55384: 14 followers, 77 following
+[2025-12-18 19:27:52] [INFO] ✅ abuhafi146615: 0 followers, 3 following
+[2025-12-18 19:27:52] [INFO] Checkpoint saved: 337 users
+[2025-12-18 19:28:10] [INFO] ✅ abunadiem: 0 followers, 1 following
+[2025-12-18 19:28:26] [INFO] ✅ abusamer1990528: 8 followers, 277 following
+[2025-12-18 19:28:40] [INFO] ✅ abusamiyildiz: 234 followers, 2781 following
+[2025-12-18 19:28:58] [INFO] ✅ abuzar42172607: 0 followers, 94 following
+[2025-12-18 19:29:13] [INFO] ✅ abwlhbalhdathy: 10 followers, 207 following
+[2025-12-18 19:29:13] [INFO] Checkpoint saved: 342 users
+[2025-12-18 19:29:27] [INFO] ✅ abwmhdy75844: 0 followers, 70 following
+[2025-12-18 19:29:44] [INFO] ✅ acadbeauxarts: 7326 followers, 1070 following
+[2025-12-18 19:30:00] [WARNING] Insufficient data for academy: only 1/3 fields
+[2025-12-18 19:30:14] [INFO] ✅ academyjp6: 367 followers, 10 following
+[2025-12-18 19:30:21] [INFO] Browser restart at position 400
+[2025-12-18 19:30:33] [INFO] Initializing browser
+[2025-12-18 19:30:47] [INFO] Cookies loaded successfully
+[2025-12-18 19:30:56] [WARNING] Insufficient data for acarumut: only 1/3 fields
+[2025-12-18 19:30:56] [INFO] Checkpoint saved: 345 users
+[2025-12-18 19:30:56] [INFO] Super delay at position 400: 615s
+[2025-12-18 19:41:18] [INFO] ✅ acbowen: 7134 followers, 2760 following
+[2025-12-18 19:41:34] [WARNING] Insufficient data for account_kkojima: only 1/3 fields
+[2025-12-18 19:41:48] [INFO] ✅ acegid_igh: 6649 followers, 249 following
+[2025-12-18 19:42:02] [INFO] ✅ acetaminophen69: 2 followers, 54 following
+[2025-12-18 19:42:16] [INFO] ✅ achaharmahaliy: 112 followers, 163 following
+[2025-12-18 19:42:16] [INFO] Checkpoint saved: 349 users
+[2025-12-18 19:42:33] [INFO] ✅ acharya_pa1: 334 followers, 639 following
+[2025-12-18 19:42:49] [INFO] ✅ acjindia: 7237 followers, 611 following
+[2025-12-18 19:43:03] [WARNING] Insufficient data for aclu: only 1/3 fields
+[2025-12-18 19:43:21] [WARNING] Insufficient data for acmilan: only 1/3 fields
+[2025-12-18 19:43:37] [INFO] ✅ acovertcovfefe: 176 followers, 592 following
+[2025-12-18 19:43:37] [INFO] Checkpoint saved: 352 users
+[2025-12-18 19:43:53] [WARNING] Insufficient data for acpgbi: only 1/3 fields
+[2025-12-18 19:44:09] [INFO] ✅ acpreventiontdl: 296 followers, 462 following
+[2025-12-18 19:44:26] [INFO] ✅ acrvir: 0 followers, 42 following
+[2025-12-18 19:44:43] [WARNING] Insufficient data for acsparta_cz: only 1/3 fields
+[2025-12-18 19:45:00] [INFO] ✅ acsparta_en: None followers, 193 following
+[2025-12-18 19:45:00] [INFO] Checkpoint saved: 355 users
+[2025-12-18 19:45:15] [INFO] ✅ acsyaorg: 1485 followers, 335 following
+[2025-12-18 19:45:32] [WARNING] Insufficient data for actbrigitte: only 1/3 fields
+[2025-12-18 19:45:49] [INFO] ✅ actforamerica: None followers, 508 following
+[2025-12-18 19:46:05] [INFO] ✅ actingandvoice: 2285 followers, 951 following
+[2025-12-18 19:46:19] [INFO] ✅ activistrafiey: 5292 followers, 78 following
+[2025-12-18 19:46:19] [INFO] Checkpoint saved: 359 users
+[2025-12-18 19:46:34] [INFO] ✅ actorssum: 1129 followers, 1018 following
+[2025-12-18 19:46:49] [WARNING] Insufficient data for acwishtv: only 1/3 fields
+[2025-12-18 19:47:05] [WARNING] Insufficient data for ada_lluch: only 1/3 fields
+[2025-12-18 19:47:21] [INFO] ✅ adaacademy: 6402 followers, 744 following
+[2025-12-18 19:47:34] [INFO] ✅ adadpay: 756 followers, 463 following
+[2025-12-18 19:47:34] [INFO] Checkpoint saved: 362 users
+[2025-12-18 19:47:53] [INFO] ✅ adakuskowski: 362 followers, 480 following
+[2025-12-18 19:48:10] [INFO] ✅ adamant_85: 32 followers, 304 following
+[2025-12-18 19:48:26] [INFO] ✅ adamczarni22933: 35 followers, 189 following
+[2025-12-18 19:48:40] [INFO] ✅ adameaval: 6194 followers, 2306 following
+[2025-12-18 19:48:52] [INFO] ✅ adamfnward: 0 followers, 49 following
+[2025-12-18 19:48:52] [INFO] Checkpoint saved: 367 users
+[2025-12-18 19:49:08] [INFO] ✅ adamhimmelsbach: None followers, 612 following
+[2025-12-18 19:49:21] [INFO] ✅ adamlawschool: 4154 followers, 2252 following
+[2025-12-18 19:49:37] [INFO] ✅ adamssmith66981: 34 followers, 320 following
+[2025-12-18 19:49:52] [WARNING] Insufficient data for adamtaggart: only 1/3 fields
+[2025-12-18 19:50:08] [INFO] ✅ adan_galindo: 153 followers, 1215 following
+[2025-12-18 19:50:08] [INFO] Checkpoint saved: 371 users
+[2025-12-18 19:50:22] [INFO] ✅ adaneabel3426: 6 followers, 190 following
+[2025-12-18 19:50:36] [INFO] ✅ adarehgharibi: 5 followers, 217 following
+[2025-12-18 19:50:50] [INFO] Account not found: adawy_123
+[2025-12-18 19:51:04] [WARNING] Insufficient data for adc: only 1/3 fields
+[2025-12-18 19:51:21] [INFO] ✅ addems92997: 0 followers, 20 following
+[2025-12-18 19:51:21] [INFO] Checkpoint saved: 374 users
+[2025-12-18 19:51:35] [INFO] ✅ addh66: 14 followers, 122 following
+[2025-12-18 19:51:48] [INFO] ✅ addyperry20: 510 followers, 3722 following
+[2025-12-18 19:52:03] [INFO] ✅ adeeb_alomari: None followers, 1870 following
+[2025-12-18 19:52:18] [INFO] ✅ adeliatorp64676: 84 followers, 3362 following
+[2025-12-18 19:52:33] [INFO] ✅ adelirani04833: 2258 followers, 5682 following
+[2025-12-18 19:52:33] [INFO] Checkpoint saved: 379 users
+[2025-12-18 19:52:47] [INFO] ✅ adellenaz: 1 followers, 8866 following
+[2025-12-18 19:53:01] [INFO] ✅ adelphiedizioni: None followers, 1528 following
+[2025-12-18 19:53:15] [INFO] ✅ adelzarandi: 175 followers, 639 following
+[2025-12-18 19:53:28] [INFO] ✅ adetunji269953: 0 followers, 27 following
+[2025-12-18 19:53:41] [INFO] ✅ adfiranofficial: 7667 followers, 0 following
+[2025-12-18 19:53:41] [INFO] Checkpoint saved: 384 users
+[2025-12-18 19:53:54] [WARNING] Insufficient data for adfreeshows: only 1/3 fields
+[2025-12-18 19:54:07] [WARNING] Insufficient data for adhamsharkawi: only 0/3 fields
+[2025-12-18 19:54:22] [WARNING] Insufficient data for adhdukcharity: only 0/3 fields
+[2025-12-18 19:54:22] [WARNING] 3 consecutive failures
+[2025-12-18 19:54:28] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 19:54:28] [INFO] Checkpoint saved: 384 users
+[2025-12-18 20:19:38] [INFO] Initializing browser
+[2025-12-18 20:19:53] [INFO] Cookies loaded successfully
+[2025-12-18 20:20:10] [WARNING] Insufficient data for adidas: only 1/3 fields
+[2025-12-18 20:20:25] [WARNING] Insufficient data for adidasar: only 0/3 fields
+[2025-12-18 20:20:25] [INFO] Checkpoint saved: 384 users
+[2025-12-18 20:20:39] [WARNING] Insufficient data for adidasco: only 0/3 fields
+[2025-12-18 20:20:39] [WARNING] 3 consecutive failures
+[2025-12-18 20:20:46] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 20:20:46] [INFO] Checkpoint saved: 384 users
+[2025-12-18 20:49:38] [INFO] Initializing browser
+[2025-12-18 20:49:55] [INFO] Cookies loaded successfully
+[2025-12-18 20:50:12] [INFO] ✅ aditya_shrinath: 12 followers, 76 following
+[2025-12-18 20:50:27] [INFO] ✅ adnanaltia: None followers, 469 following
+[2025-12-18 20:50:40] [WARNING] Insufficient data for adnanime: only 1/3 fields
+[2025-12-18 20:50:57] [INFO] ✅ adoniarostami49: 41 followers, 1118 following
+[2025-12-18 20:50:57] [INFO] Checkpoint saved: 387 users
+[2025-12-18 20:51:13] [WARNING] Insufficient data for adorno_persian: only 1/3 fields
+[2025-12-18 20:51:26] [WARNING] Insufficient data for adresansoso: only 1/3 fields
+[2025-12-18 20:51:39] [INFO] ✅ adriirov: 0 followers, 49 following
+[2025-12-18 20:51:53] [INFO] ✅ adriyanari3843: 0 followers, 20 following
+[2025-12-18 20:52:06] [INFO] ✅ adryn848: 14 followers, 539 following
+[2025-12-18 20:52:06] [INFO] Checkpoint saved: 390 users
+[2025-12-18 20:52:20] [INFO] ✅ adsbynimbus: 65 followers, 69 following
+[2025-12-18 20:52:37] [WARNING] Insufficient data for adskulubu: only 1/3 fields
+[2025-12-18 20:52:51] [INFO] ✅ adv_project: None followers, 2014 following
+[2025-12-18 20:53:05] [INFO] ✅ advanceuk_wales: 3939 followers, 103 following
+[2025-12-18 20:53:22] [INFO] ✅ adveith: 1842 followers, 551 following
+[2025-12-18 20:53:22] [INFO] Checkpoint saved: 394 users
+[2025-12-18 20:53:36] [INFO] ✅ advhassanfarooq: 0 followers, 18 following
+[2025-12-18 20:53:52] [INFO] ✅ advisorbecki: 10 followers, 27 following
+[2025-12-18 20:54:06] [INFO] ✅ adybly92748: 0 followers, 31 following
+[2025-12-18 20:54:20] [INFO] ✅ aecp_faecp: 3686 followers, 287 following
+[2025-12-18 20:54:36] [INFO] ✅ aeeeeeeeeeeen: 313 followers, 187 following
+[2025-12-18 20:54:36] [INFO] Checkpoint saved: 399 users
+[2025-12-18 20:54:54] [WARNING] Insufficient data for aek365gr: only 1/3 fields
+[2025-12-18 20:55:10] [INFO] ✅ aek_official: 4357 followers, 27 following
+[2025-12-18 20:55:23] [WARNING] Insufficient data for aekbcgr: only 1/3 fields
+[2025-12-18 20:55:40] [INFO] ✅ aesdigitallyart: 29 followers, 333 following
+[2025-12-18 20:55:53] [INFO] ✅ aesmailnazhad: 9213 followers, 1609 following
+[2025-12-18 20:55:53] [INFO] Checkpoint saved: 402 users
+[2025-12-18 20:56:11] [INFO] ✅ aesthetic993: 45 followers, 1038 following
+[2025-12-18 20:56:23] [WARNING] Insufficient data for aew: only 1/3 fields
+[2025-12-18 20:56:40] [INFO] ✅ af_ghost: None followers, 1851 following
+[2025-12-18 20:56:55] [INFO] ✅ afarouk92: 1844 followers, 718 following
+[2025-12-18 20:57:07] [WARNING] Insufficient data for afcasiancup: only 1/3 fields
+[2025-12-18 20:57:07] [INFO] Checkpoint saved: 405 users
+[2025-12-18 20:57:23] [WARNING] Insufficient data for afcasiancup_ar: only 1/3 fields
+[2025-12-18 20:57:39] [WARNING] Insufficient data for afchine_alavi: only 1/3 fields
+[2025-12-18 20:57:39] [WARNING] 3 consecutive failures
+[2025-12-18 20:57:45] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 20:57:45] [INFO] Checkpoint saved: 405 users
+[2025-12-18 21:26:00] [INFO] Initializing browser
+[2025-12-18 21:26:15] [INFO] Cookies loaded successfully
+[2025-12-18 21:26:29] [INFO] ✅ afcmediatv: 8476 followers, 14 following
+[2025-12-18 21:26:44] [WARNING] Insufficient data for afefutbol: only 1/3 fields
+[2025-12-18 21:27:00] [INFO] ✅ affgnl: 150 followers, 101 following
+[2025-12-18 21:27:00] [INFO] Checkpoint saved: 407 users
+[2025-12-18 21:27:16] [INFO] ✅ afg01a: 57 followers, 737 following
+[2025-12-18 21:27:32] [INFO] ✅ afghan271: 626 followers, 5652 following
+[2025-12-18 21:27:48] [INFO] ✅ afghanistanihrc: None followers, 62 following
+[2025-12-18 21:28:01] [INFO] ✅ afghanlgbt: 1190 followers, 401 following
+[2025-12-18 21:28:17] [INFO] ✅ afgmboard: None followers, 1799 following
+[2025-12-18 21:28:17] [INFO] Checkpoint saved: 412 users
+[2025-12-18 21:28:31] [INFO] ✅ afhiathil: 0 followers, 24 following
+[2025-12-18 21:28:47] [INFO] ✅ afintl_: None followers, 8 following
+[2025-12-18 21:29:03] [INFO] ✅ afintl_en: None followers, 8 following
+[2025-12-18 21:29:18] [INFO] ✅ afintlarabic: 3268 followers, 8 following
+[2025-12-18 21:29:24] [INFO] Browser restart at position 500
+[2025-12-18 21:29:37] [INFO] Initializing browser
+[2025-12-18 21:29:52] [INFO] Cookies loaded successfully
+[2025-12-18 21:30:02] [WARNING] Insufficient data for afintlbrk: only 1/3 fields
+[2025-12-18 21:30:02] [INFO] Checkpoint saved: 416 users
+[2025-12-18 21:30:02] [INFO] Super delay at position 500: 785s
+[2025-12-18 21:43:15] [WARNING] Insufficient data for afintlpashto: only 1/3 fields
+[2025-12-18 21:43:28] [WARNING] Insufficient data for afintlradio: only 1/3 fields
+[2025-12-18 21:43:28] [WARNING] 3 consecutive failures
+[2025-12-18 21:43:35] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 21:43:35] [INFO] Checkpoint saved: 416 users
+[2025-12-18 22:04:49] [INFO] Initializing browser
+[2025-12-18 22:13:05] [INFO] === NEW RUN STARTED ===
+[2025-12-18 22:13:05] [INFO] Starting high-quality metadata collection
+[2025-12-18 22:13:06] [INFO] Loaded 20,128 connection records
+[2025-12-18 22:13:06] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 22:13:06] [INFO] Loading checkpoint for resume
+[2025-12-18 22:13:06] [INFO] Resuming from 416 users
+[2025-12-18 22:13:06] [INFO] Initializing browser
+[2025-12-18 22:27:09] [INFO] === NEW RUN STARTED (CHROME CRASH FIX) ===
+[2025-12-18 22:27:09] [INFO] Starting high-quality metadata collection with crash fix
+[2025-12-18 22:27:09] [INFO] Loaded 20,128 connection records
+[2025-12-18 22:27:09] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 22:27:09] [INFO] Loading checkpoint for resume
+[2025-12-18 22:27:09] [INFO] Resuming from 416 users
+[2025-12-18 22:27:09] [INFO] Starting main collection loop
+[2025-12-18 22:27:09] [INFO] Initializing browser (attempt 1)
+[2025-12-18 22:27:09] [INFO] Cleaning up Chrome processes...
+[2025-12-18 22:27:15] [INFO] Chrome processes cleaned up
+[2025-12-18 22:27:21] [ERROR] Browser init failed (attempt 1/3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\nitib\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcc1223
+	0xcc1264
+	0xaae6dd
+	0xae4b37
+	0xadfafa
+	0xb27826
+	0xb27047
+	0xb1b2e6
+	0xaed321
+	0xaee1d4
+	0xf15264
+	0xf1081b
+	0xf2d0fa
+	0xcdb128
+	0xce312d
+	0xcc9528
+	0xcc96e9
+	0xcb3a78
+	0x76ab5d49
+	0x77e6d2fb
+	0x77e6d281
+
+[2025-12-18 22:27:51] [INFO] Initializing browser (attempt 2)
+[2025-12-18 22:27:51] [INFO] Cleaning up Chrome processes...
+[2025-12-18 22:27:56] [INFO] Chrome processes cleaned up
+[2025-12-18 22:28:02] [ERROR] Browser init failed (attempt 2/3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\nitib\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcc1223
+	0xcc1264
+	0xaae6dd
+	0xae4b37
+	0xadfafa
+	0xb27826
+	0xb27047
+	0xb1b2e6
+	0xaed321
+	0xaee1d4
+	0xf15264
+	0xf1081b
+	0xf2d0fa
+	0xcdb128
+	0xce312d
+	0xcc9528
+	0xcc96e9
+	0xcb3a78
+	0x76ab5d49
+	0x77e6d2fb
+	0x77e6d281
+
+[2025-12-18 22:29:02] [INFO] Initializing browser (attempt 3)
+[2025-12-18 22:29:02] [INFO] Cleaning up Chrome processes...
+[2025-12-18 22:29:07] [INFO] Chrome processes cleaned up
+[2025-12-18 22:29:12] [ERROR] Browser init failed (attempt 3/3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\nitib\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcc1223
+	0xcc1264
+	0xaae6dd
+	0xae4b37
+	0xadfafa
+	0xb27826
+	0xb27047
+	0xb1b2e6
+	0xaed321
+	0xaee1d4
+	0xf15264
+	0xf1081b
+	0xf2d0fa
+	0xcdb128
+	0xce312d
+	0xcc9528
+	0xcc96e9
+	0xcb3a78
+	0x76ab5d49
+	0x77e6d2fb
+	0x77e6d281
+
+[2025-12-18 22:29:12] [ERROR] Browser init failed after all retries
+[2025-12-18 22:32:22] [INFO] === NEW RUN STARTED (CHROME CRASH FIX) ===
+[2025-12-18 22:32:22] [INFO] Starting high-quality metadata collection with crash fix
+[2025-12-18 22:32:22] [INFO] Loaded 20,128 connection records
+[2025-12-18 22:32:22] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 22:32:22] [INFO] Loading checkpoint for resume
+[2025-12-18 22:32:22] [INFO] Resuming from 416 users
+[2025-12-18 22:32:22] [INFO] Starting main collection loop
+[2025-12-18 22:32:22] [INFO] Initializing browser (attempt 1)
+[2025-12-18 22:32:22] [INFO] Cleaning up Chrome processes...
+[2025-12-18 22:32:27] [INFO] Chrome processes cleaned up
+[2025-12-18 22:32:33] [ERROR] Browser init failed (attempt 1/3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\nitib\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcc1223
+	0xcc1264
+	0xaae6dd
+	0xae4b37
+	0xadfafa
+	0xb27826
+	0xb27047
+	0xb1b2e6
+	0xaed321
+	0xaee1d4
+	0xf15264
+	0xf1081b
+	0xf2d0fa
+	0xcdb128
+	0xce312d
+	0xcc9528
+	0xcc96e9
+	0xcb3a78
+	0x76ab5d49
+	0x77e6d2fb
+	0x77e6d281
+
+[2025-12-18 22:33:03] [INFO] Initializing browser (attempt 2)
+[2025-12-18 22:33:03] [INFO] Cleaning up Chrome processes...
+[2025-12-18 22:33:08] [INFO] Chrome processes cleaned up
+[2025-12-18 22:33:13] [ERROR] Browser init failed (attempt 2/3): Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\nitib\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xcc1223
+	0xcc1264
+	0xaae6dd
+	0xae4b37
+	0xadfafa
+	0xb27826
+	0xb27047
+	0xb1b2e6
+	0xaed321
+	0xaee1d4
+	0xf15264
+	0xf1081b
+	0xf2d0fa
+	0xcdb128
+	0xce312d
+	0xcc9528
+	0xcc96e9
+	0xcb3a78
+	0x76ab5d49
+	0x77e6d2fb
+	0x77e6d281
+
+[2025-12-18 22:56:30] [INFO] === NEW RUN STARTED ===
+[2025-12-18 22:56:30] [INFO] Starting high-quality metadata collection
+[2025-12-18 22:56:30] [INFO] Loaded 20,128 connection records
+[2025-12-18 22:56:30] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 22:56:30] [INFO] Loading checkpoint for resume
+[2025-12-18 22:56:30] [INFO] Resuming from 416 users
+[2025-12-18 22:56:30] [INFO] Initializing Firefox
+[2025-12-18 22:59:46] [INFO] === NEW RUN STARTED ===
+[2025-12-18 22:59:46] [INFO] Starting high-quality metadata collection
+[2025-12-18 22:59:46] [INFO] Loaded 20,128 connection records
+[2025-12-18 22:59:46] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-18 22:59:46] [INFO] Loading checkpoint for resume
+[2025-12-18 22:59:46] [INFO] Resuming from 416 users
+[2025-12-18 22:59:46] [INFO] Initializing Firefox
+[2025-12-18 23:00:01] [INFO] Cookies loaded successfully
+[2025-12-18 23:00:01] [INFO] Starting main processing loop
+[2025-12-18 23:00:11] [INFO] Account not found: 0qcgdh3bdamfozf
+[2025-12-18 23:00:28] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-18 23:00:47] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-18 23:01:06] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-18 23:01:06] [WARNING] 3 consecutive failures
+[2025-12-18 23:01:13] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-18 23:01:13] [INFO] Checkpoint saved: 416 users
+[2025-12-19 04:21:25] [INFO] Initializing Firefox
+[2025-12-19 04:21:45] [INFO] Cookies loaded successfully
+[2025-12-19 04:22:08] [WARNING] Insufficient data for 4freedominiran: only 1/3 fields
+[2025-12-19 04:22:08] [INFO] Checkpoint saved: 416 users
+[2025-12-19 04:22:29] [WARNING] Insufficient data for 4noura: only 1/3 fields
+[2025-12-19 04:22:48] [WARNING] Insufficient data for 4refugeewomen: only 1/3 fields
+[2025-12-19 04:22:48] [WARNING] 3 consecutive failures
+[2025-12-19 04:22:54] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 04:22:54] [INFO] Checkpoint saved: 416 users
+[2025-12-19 04:43:43] [INFO] Initializing Firefox
+[2025-12-19 04:44:00] [INFO] Cookies loaded successfully
+[2025-12-19 04:44:17] [WARNING] Insufficient data for 6njeli: only 1/3 fields
+[2025-12-19 04:44:40] [WARNING] Insufficient data for 7negiashish: only 1/3 fields
+[2025-12-19 04:44:59] [WARNING] Insufficient data for 90ndstoppage: only 1/3 fields
+[2025-12-19 04:44:59] [WARNING] 3 consecutive failures
+[2025-12-19 04:45:06] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 04:45:06] [INFO] Checkpoint saved: 416 users
+[2025-12-19 05:14:43] [INFO] Initializing Firefox
+[2025-12-19 05:14:58] [INFO] Cookies loaded successfully
+[2025-12-19 05:14:58] [INFO] Checkpoint saved: 416 users
+[2025-12-19 05:15:13] [WARNING] Insufficient data for _3pehr__: only 1/3 fields
+[2025-12-19 05:15:33] [WARNING] Insufficient data for __injaneb96: only 1/3 fields
+[2025-12-19 05:15:52] [WARNING] Insufficient data for __thatisgirl__: only 1/3 fields
+[2025-12-19 05:15:52] [WARNING] 3 consecutive failures
+[2025-12-19 05:15:59] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 05:15:59] [INFO] Checkpoint saved: 416 users
+[2025-12-19 05:45:34] [INFO] Initializing Firefox
+[2025-12-19 05:45:50] [INFO] Cookies loaded successfully
+[2025-12-19 05:46:06] [WARNING] Insufficient data for _adilhussain: only 1/3 fields
+[2025-12-19 05:46:24] [WARNING] Insufficient data for _caioroque: only 1/3 fields
+[2025-12-19 05:46:24] [INFO] Checkpoint saved: 416 users
+[2025-12-19 05:46:42] [INFO] Account not found: _f_22_
+[2025-12-19 05:46:58] [WARNING] Insufficient data for _germanzero: only 0/3 fields
+[2025-12-19 05:47:12] [WARNING] Insufficient data for _gsayla_: only 1/3 fields
+[2025-12-19 05:47:30] [WARNING] Insufficient data for _ihrec: only 1/3 fields
+[2025-12-19 05:47:30] [WARNING] 3 consecutive failures
+[2025-12-19 05:47:38] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 05:47:38] [INFO] Checkpoint saved: 416 users
+[2025-12-19 06:14:06] [INFO] Initializing Firefox
+[2025-12-19 06:14:20] [INFO] Cookies loaded successfully
+[2025-12-19 06:14:36] [WARNING] Insufficient data for _indisky: only 1/3 fields
+[2025-12-19 06:14:36] [INFO] Checkpoint saved: 416 users
+[2025-12-19 06:14:54] [WARNING] Insufficient data for _kamyark_: only 1/3 fields
+[2025-12-19 06:15:14] [WARNING] Insufficient data for _ksu: only 1/3 fields
+[2025-12-19 06:15:14] [WARNING] 3 consecutive failures
+[2025-12-19 06:15:22] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 06:15:22] [INFO] Checkpoint saved: 416 users
+[2025-12-19 06:44:41] [INFO] Initializing Firefox
+[2025-12-19 06:44:56] [INFO] Cookies loaded successfully
+[2025-12-19 06:45:11] [INFO] ✅ _mahdiyar313: None followers, 1054 following
+[2025-12-19 06:45:29] [WARNING] Insufficient data for _mehraboonn: only 1/3 fields
+[2025-12-19 06:45:49] [INFO] ✅ _sgtslaughter: None followers, 107 following
+[2025-12-19 06:45:49] [INFO] Checkpoint saved: 418 users
+[2025-12-19 06:46:08] [INFO] ✅ a16z: None followers, 52 following
+[2025-12-19 06:46:25] [WARNING] Insufficient data for a_jafarzadeh: only 1/3 fields
+[2025-12-19 06:46:42] [INFO] ✅ a_rnazari: None followers, 3028 following
+[2025-12-19 06:46:56] [INFO] ✅ a_z_im: None followers, 1213 following
+[2025-12-19 06:47:14] [INFO] ✅ aaihs: None followers, 108 following
+[2025-12-19 06:47:14] [INFO] Checkpoint saved: 422 users
+[2025-12-19 06:47:14] [INFO] Long delay at position 30: 271s
+[2025-12-19 06:51:53] [INFO] ✅ aaknopf: None followers, 3115 following
+[2025-12-19 06:52:11] [WARNING] Insufficient data for aamullanee: only 1/3 fields
+[2025-12-19 06:52:27] [INFO] ✅ aaronjmate: None followers, 4004 following
+[2025-12-19 06:52:46] [INFO] ✅ ab_ganji: None followers, 199 following
+[2025-12-19 06:53:01] [INFO] ✅ abajournal: None followers, 1364 following
+[2025-12-19 06:53:01] [INFO] Checkpoint saved: 426 users
+[2025-12-19 06:53:18] [INFO] ✅ abasaslani: None followers, 2482 following
+[2025-12-19 06:53:35] [WARNING] Insufficient data for abbasagha: only 1/3 fields
+[2025-12-19 06:53:52] [INFO] ✅ abbydphillip: None followers, 3911 following
+[2025-12-19 06:54:07] [INFO] ✅ abc: None followers, 408 following
+[2025-12-19 06:54:24] [INFO] ✅ abc7ny: None followers, 725 following
+[2025-12-19 06:54:24] [INFO] Checkpoint saved: 430 users
+[2025-12-19 06:54:42] [INFO] ✅ abcnews: None followers, 1096 following
+[2025-12-19 06:54:56] [INFO] ✅ abcsharktank: None followers, 301 following
+[2025-12-19 06:55:15] [WARNING] Insufficient data for abdolah_abdi: only 1/3 fields
+[2025-12-19 06:55:29] [WARNING] Insufficient data for ablessingscurse: only 0/3 fields
+[2025-12-19 06:55:46] [WARNING] Insufficient data for abnormallyadam: only 1/3 fields
+[2025-12-19 06:55:46] [WARNING] 3 consecutive failures
+[2025-12-19 06:55:52] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 06:55:52] [INFO] Checkpoint saved: 432 users
+[2025-12-19 07:23:54] [INFO] Initializing Firefox
+[2025-12-19 07:24:10] [INFO] Cookies loaded successfully
+[2025-12-19 07:24:10] [INFO] Checkpoint saved: 432 users
+[2025-12-19 07:24:26] [WARNING] Insufficient data for abo_mzeal: only 1/3 fields
+[2025-12-19 07:24:42] [INFO] ✅ aboalfazlm79456: 48 followers, 367 following
+[2025-12-19 07:25:00] [WARNING] Insufficient data for abousahlzoozani: only 1/3 fields
+[2025-12-19 07:25:21] [WARNING] Insufficient data for abramsbooks: only 1/3 fields
+[2025-12-19 07:25:40] [WARNING] Insufficient data for abramskids: only 1/3 fields
+[2025-12-19 07:25:40] [WARNING] 3 consecutive failures
+[2025-12-19 07:25:47] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 07:25:47] [INFO] Checkpoint saved: 433 users
+[2025-12-19 07:53:35] [INFO] Initializing Firefox
+[2025-12-19 07:53:50] [INFO] Cookies loaded successfully
+[2025-12-19 07:53:50] [INFO] Checkpoint saved: 433 users
+[2025-12-19 07:54:08] [WARNING] Insufficient data for abscbnnews: only 1/3 fields
+[2025-12-19 07:54:29] [WARNING] Insufficient data for abualibina: only 1/3 fields
+[2025-12-19 07:54:43] [WARNING] Insufficient data for abualihussein19: only 1/3 fields
+[2025-12-19 07:54:43] [WARNING] 3 consecutive failures
+[2025-12-19 07:54:50] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 07:54:50] [INFO] Checkpoint saved: 433 users
+[2025-12-19 08:16:18] [INFO] Initializing Firefox
+[2025-12-19 08:16:32] [INFO] Cookies loaded successfully
+[2025-12-19 08:16:51] [WARNING] Insufficient data for academy: only 1/3 fields
+[2025-12-19 08:17:09] [WARNING] Insufficient data for acarumut: only 1/3 fields
+[2025-12-19 08:17:09] [INFO] Checkpoint saved: 433 users
+[2025-12-19 08:17:26] [WARNING] Insufficient data for account_kkojima: only 1/3 fields
+[2025-12-19 08:17:26] [WARNING] 3 consecutive failures
+[2025-12-19 08:17:34] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 08:17:34] [INFO] Checkpoint saved: 433 users
+[2025-12-19 08:39:36] [INFO] Initializing Firefox
+[2025-12-19 08:39:51] [INFO] Cookies loaded successfully
+[2025-12-19 08:40:09] [WARNING] Insufficient data for aclu: only 1/3 fields
+[2025-12-19 08:40:27] [WARNING] Insufficient data for acmilan: only 1/3 fields
+[2025-12-19 08:40:45] [WARNING] Insufficient data for acpgbi: only 1/3 fields
+[2025-12-19 08:40:45] [WARNING] 3 consecutive failures
+[2025-12-19 08:40:52] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 08:40:52] [INFO] Checkpoint saved: 433 users
+[2025-12-19 09:08:55] [INFO] Initializing Firefox
+[2025-12-19 09:09:12] [INFO] Cookies loaded successfully
+[2025-12-19 09:09:29] [WARNING] Insufficient data for acsparta_cz: only 1/3 fields
+[2025-12-19 09:09:29] [INFO] Checkpoint saved: 433 users
+[2025-12-19 09:09:29] [INFO] Long delay at position 60: 145s
+[2025-12-19 09:12:04] [WARNING] Insufficient data for actbrigitte: only 1/3 fields
+[2025-12-19 09:12:19] [WARNING] Insufficient data for acwishtv: only 1/3 fields
+[2025-12-19 09:12:19] [WARNING] 3 consecutive failures
+[2025-12-19 09:12:27] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 09:12:27] [INFO] Checkpoint saved: 433 users
+[2025-12-19 09:37:48] [INFO] Initializing Firefox
+[2025-12-19 09:38:03] [INFO] Cookies loaded successfully
+[2025-12-19 09:38:23] [WARNING] Insufficient data for ada_lluch: only 1/3 fields
+[2025-12-19 09:38:42] [WARNING] Insufficient data for adamtaggart: only 1/3 fields
+[2025-12-19 09:38:57] [INFO] Account not found: adawy_123
+[2025-12-19 09:38:57] [INFO] Checkpoint saved: 433 users
+[2025-12-19 09:39:15] [WARNING] Insufficient data for adc: only 1/3 fields
+[2025-12-19 09:39:30] [WARNING] Insufficient data for adfreeshows: only 1/3 fields
+[2025-12-19 09:39:46] [WARNING] Insufficient data for adhamsharkawi: only 1/3 fields
+[2025-12-19 09:39:46] [WARNING] 3 consecutive failures
+[2025-12-19 09:39:53] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 09:39:53] [INFO] Checkpoint saved: 433 users
+[2025-12-19 10:04:28] [INFO] Initializing Firefox
+[2025-12-19 10:04:44] [INFO] Cookies loaded successfully
+[2025-12-19 10:05:03] [INFO] ✅ adhdukcharity: None followers, 22 following
+[2025-12-19 10:05:19] [INFO] ✅ adidas: None followers, 255 following
+[2025-12-19 10:05:19] [INFO] Checkpoint saved: 435 users
+[2025-12-19 10:05:32] [WARNING] Insufficient data for adidasar: only 0/3 fields
+[2025-12-19 10:05:47] [WARNING] Insufficient data for adidasco: only 0/3 fields
+[2025-12-19 10:06:02] [INFO] ✅ adnanime: None followers, 676 following
+[2025-12-19 10:06:16] [INFO] ✅ adorno_persian: None followers, 8 following
+[2025-12-19 10:06:33] [INFO] ✅ adresansoso: None followers, 24 following
+[2025-12-19 10:06:33] [INFO] Checkpoint saved: 438 users
+[2025-12-19 10:06:50] [INFO] ✅ adskulubu: None followers, 10 following
+[2025-12-19 10:07:07] [WARNING] Insufficient data for aek365gr: only 1/3 fields
+[2025-12-19 10:07:21] [INFO] ✅ aekbcgr: None followers, 87 following
+[2025-12-19 10:07:39] [WARNING] Insufficient data for aew: only 1/3 fields
+[2025-12-19 10:07:54] [WARNING] Insufficient data for afcasiancup: only 1/3 fields
+[2025-12-19 10:07:54] [INFO] Checkpoint saved: 440 users
+[2025-12-19 10:08:10] [INFO] ✅ afcasiancup_ar: None followers, 33 following
+[2025-12-19 10:08:28] [INFO] ✅ afchine_alavi: None followers, 3018 following
+[2025-12-19 10:08:45] [WARNING] Insufficient data for afefutbol: only 1/3 fields
+[2025-12-19 10:09:01] [INFO] ✅ afintlbrk: None followers, 10 following
+[2025-12-19 10:09:18] [WARNING] Insufficient data for afintlpashto: only 1/3 fields
+[2025-12-19 10:09:18] [INFO] Checkpoint saved: 443 users
+[2025-12-19 10:09:35] [INFO] ✅ afintlradio: None followers, 12 following
+[2025-12-19 10:09:51] [INFO] ✅ afkari_saeed: None followers, 78 following
+[2025-12-19 10:10:09] [INFO] ✅ afkham_minus: 2896 followers, 227 following
+[2025-12-19 10:10:27] [WARNING] Insufficient data for aflcio: only 1/3 fields
+[2025-12-19 10:10:45] [INFO] ✅ afnan_alostaz: 204 followers, 452 following
+[2025-12-19 10:10:45] [INFO] Checkpoint saved: 447 users
+[2025-12-19 10:10:45] [INFO] Long delay at position 90: 147s
+[2025-12-19 10:13:20] [INFO] ✅ afra7172: 8 followers, 178 following
+[2025-12-19 10:13:39] [INFO] ✅ aframalhameli: None followers, 301 following
+[2025-12-19 10:13:57] [INFO] ✅ afrash: 999 followers, 3395 following
+[2025-12-19 10:14:14] [INFO] ✅ afrasimoha50416: 0 followers, 59 following
+[2025-12-19 10:14:31] [INFO] ✅ afrasyabia: 36 followers, 322 following
+[2025-12-19 10:14:31] [INFO] Checkpoint saved: 452 users
+[2025-12-19 10:14:50] [INFO] ✅ afroninfa: 1686 followers, 1027 following
+[2025-12-19 10:15:09] [INFO] ✅ afsahihoss18315: 1 followers, 23 following
+[2025-12-19 10:15:25] [INFO] ✅ afsamaryam96589: 1 followers, 12 following
+[2025-12-19 10:15:40] [INFO] ✅ afsharmog: 3726 followers, 192 following
+[2025-12-19 10:15:48] [INFO] Browser restart at position 100
+[2025-12-19 10:16:01] [INFO] Initializing Firefox
+[2025-12-19 10:16:16] [INFO] Cookies loaded successfully
+[2025-12-19 10:16:24] [INFO] ✅ afsheenmoosavi: 326 followers, 106 following
+[2025-12-19 10:16:24] [INFO] Checkpoint saved: 457 users
+[2025-12-19 10:16:24] [INFO] Super delay at position 100: 780s
+[2025-12-19 10:29:34] [INFO] ✅ afshin_46: 1318 followers, 2948 following
+[2025-12-19 10:29:48] [INFO] ✅ afshin_ashiyani: 73 followers, 850 following
+[2025-12-19 10:30:02] [INFO] ✅ afshin_rasa: 3 followers, 17 following
+[2025-12-19 10:30:19] [INFO] ✅ afshinagin62: 2330 followers, 7152 following
+[2025-12-19 10:30:37] [INFO] ✅ afshinbahrami33: 10 followers, 126 following
+[2025-12-19 10:30:37] [INFO] Checkpoint saved: 462 users
+[2025-12-19 10:30:54] [INFO] ✅ afshinbizar: 0 followers, 4 following
+[2025-12-19 10:31:12] [INFO] ✅ afshinzare1: 3 followers, 97 following
+[2025-12-19 10:31:30] [INFO] ✅ afterdinnercon: None followers, 36 following
+[2025-12-19 10:31:48] [INFO] ✅ afterpay_au: 5939 followers, 521 following
+[2025-12-19 10:32:04] [INFO] ✅ afzalab90: 31 followers, 1524 following
+[2025-12-19 10:32:04] [INFO] Checkpoint saved: 467 users
+[2025-12-19 10:32:18] [INFO] ✅ afzalieli: 1 followers, 8 following
+[2025-12-19 10:32:38] [WARNING] Insufficient data for afzouni: only 1/3 fields
+[2025-12-19 10:32:55] [INFO] ✅ aga_mohd_hussan: 0 followers, 14 following
+[2025-12-19 10:33:10] [INFO] ✅ agakeruka71284: 100 followers, 3464 following
+[2025-12-19 10:33:28] [INFO] ✅ agathaallweek: 2931 followers, 5 following
+[2025-12-19 10:33:28] [INFO] Checkpoint saved: 471 users
+[2025-12-19 10:33:43] [INFO] ✅ agencecapa: 7920 followers, 612 following
+[2025-12-19 10:34:00] [INFO] ✅ agencythebook: 104 followers, 23 following
+[2025-12-19 10:34:15] [WARNING] Insufficient data for agent_ayesha: only 0/3 fields
+[2025-12-19 10:34:30] [INFO] ✅ ageofpahlavi: 2796 followers, 1148 following
+[2025-12-19 10:34:49] [INFO] ✅ aggholamyy: 204 followers, 1493 following
+[2025-12-19 10:34:49] [INFO] Checkpoint saved: 475 users
+[2025-12-19 10:34:49] [INFO] Long delay at position 120: 279s
+[2025-12-19 10:39:37] [INFO] ✅ agha_mohamad1_: None followers, 4645 following
+[2025-12-19 10:39:52] [INFO] ✅ agha_xavier2: 5940 followers, 665 following
+[2025-12-19 10:40:09] [INFO] ✅ aghachurchill: 5167 followers, 990 following
+[2025-12-19 10:40:24] [INFO] ✅ aghajanii76m: 1431 followers, 6575 following
+[2025-12-19 10:40:41] [INFO] ✅ aghamiri_hosein: None followers, 161 following
+[2025-12-19 10:40:41] [INFO] Checkpoint saved: 480 users
+[2025-12-19 10:41:00] [INFO] ✅ aghatac8: 0 followers, 13 following
+[2025-12-19 10:41:13] [INFO] ✅ aghdadaash: 1 followers, 161 following
+[2025-12-19 10:41:31] [INFO] ✅ aghmamrez: 3095 followers, 335 following
+[2025-12-19 10:41:48] [INFO] ✅ aghomchi: 6 followers, 665 following
+[2025-12-19 10:42:04] [INFO] ✅ aghplt: None followers, 3259 following
+[2025-12-19 10:42:04] [INFO] Checkpoint saved: 485 users
+[2025-12-19 10:42:21] [INFO] ✅ agnescallamard: None followers, 2694 following
+[2025-12-19 10:42:40] [INFO] ✅ agoldmund: None followers, 3610 following
+[2025-12-19 10:43:00] [INFO] ✅ agolp: 197 followers, 471 following
+[2025-12-19 10:43:16] [INFO] ✅ agriculture666: 2293 followers, 54 following
+[2025-12-19 10:43:33] [INFO] ✅ agudaojo: 185 followers, 1173 following
+[2025-12-19 10:43:33] [INFO] Checkpoint saved: 490 users
+[2025-12-19 10:43:48] [INFO] ✅ aguilasmonu: None followers, 148 following
+[2025-12-19 10:44:04] [INFO] ✅ ahaactors: 7853 followers, 639 following
+[2025-12-19 10:44:21] [INFO] ✅ ahadisherko: 47 followers, 241 following
+[2025-12-19 10:44:36] [INFO] ✅ ahadsadeghi71: 238 followers, 735 following
+[2025-12-19 10:44:54] [INFO] ✅ ahahistorians: None followers, 2335 following
+[2025-12-19 10:44:54] [INFO] Checkpoint saved: 495 users
+[2025-12-19 10:45:12] [INFO] ✅ ahali73975790a: 23 followers, 107 following
+[2025-12-19 10:45:25] [INFO] ✅ ahamd155610: 0 followers, 10 following
+[2025-12-19 10:45:42] [INFO] ✅ ahammoudmi: None followers, 1197 following
+[2025-12-19 10:45:56] [INFO] ✅ ahangar_fa44154: 9 followers, 49 following
+[2025-12-19 10:46:15] [INFO] ✅ ahangari73: 7500 followers, 273 following
+[2025-12-19 10:46:15] [INFO] Checkpoint saved: 500 users
+[2025-12-19 10:46:33] [INFO] ✅ ahangevafa: 6738 followers, 396 following
+[2025-12-19 10:46:46] [INFO] ✅ ahangparvaz_co: 890 followers, 5415 following
+[2025-12-19 10:47:05] [INFO] ✅ ahdeaghiq: 81 followers, 191 following
+[2025-12-19 10:47:22] [INFO] ✅ ahejlsberg: None followers, 75 following
+[2025-12-19 10:47:40] [INFO] ✅ ahimsaaaa: 12 followers, 61 following
+[2025-12-19 10:47:40] [INFO] Checkpoint saved: 505 users
+[2025-12-19 10:47:40] [INFO] Long delay at position 150: 189s
+[2025-12-19 10:50:59] [INFO] ✅ ahlebeytmedia: None followers, 65 following
+[2025-12-19 10:51:15] [INFO] ✅ ahllam_music: 6758 followers, 2 following
+[2025-12-19 10:51:31] [INFO] ✅ ahlulbayt28: None followers, 276 following
+[2025-12-19 10:51:47] [INFO] ✅ ahlulbayt__313: 8520 followers, 5043 following
+[2025-12-19 10:52:04] [INFO] ✅ ahlulbayt_says: None followers, 13 following
+[2025-12-19 10:52:04] [INFO] Checkpoint saved: 510 users
+[2025-12-19 10:52:19] [WARNING] Insufficient data for ahlulbayt_tv: only 1/3 fields
+[2025-12-19 10:52:34] [INFO] ✅ ahlulbayttv: None followers, 160 following
+[2025-12-19 10:52:51] [WARNING] Insufficient data for ahmad4isrl: only 1/3 fields
+[2025-12-19 10:53:07] [INFO] ✅ ahmad76905530: 40 followers, 706 following
+[2025-12-19 10:53:27] [INFO] ✅ ahmadabdulsada: None followers, 289 following
+[2025-12-19 10:53:27] [INFO] Checkpoint saved: 513 users
+[2025-12-19 10:53:43] [INFO] ✅ ahmadalirezaei: 1270 followers, 2326 following
+[2025-12-19 10:53:58] [INFO] ✅ ahmadi_abb27030: 9 followers, 191 following
+[2025-12-19 10:54:12] [INFO] ✅ ahmadi_afs1371: 0 followers, 17 following
+[2025-12-19 10:54:30] [INFO] ✅ ahmadi_ahmadii: 21 followers, 155 following
+[2025-12-19 10:54:47] [INFO] ✅ ahmadi_fae83290: 26 followers, 63 following
+[2025-12-19 10:54:47] [INFO] Checkpoint saved: 518 users
+[2025-12-19 10:55:02] [INFO] ✅ ahmadiaman84324: 5 followers, 65 following
+[2025-12-19 10:55:18] [INFO] ✅ ahmadinejad1956: None followers, 49 following
+[2025-12-19 10:55:34] [INFO] ✅ ahmadisaye35320: 80 followers, 304 following
+[2025-12-19 10:55:51] [INFO] ✅ ahmadmuaffaq: None followers, 1612 following
+[2025-12-19 10:56:09] [INFO] ✅ ahmadmullatalal: None followers, 565 following
+[2025-12-19 10:56:09] [INFO] Checkpoint saved: 523 users
+[2025-12-19 10:56:27] [INFO] ✅ ahmadnaderi_ir: None followers, 391 following
+[2025-12-19 10:56:47] [INFO] ✅ ahmadnoorollahi: None followers, 17 following
+[2025-12-19 10:57:05] [INFO] ✅ ahmadreza_ka: 3 followers, 34 following
+[2025-12-19 10:57:20] [INFO] ✅ ahmadrezaas8: 0 followers, 6 following
+[2025-12-19 10:57:38] [INFO] ✅ ahmadrezae88890: 8 followers, 4 following
+[2025-12-19 10:57:38] [INFO] Checkpoint saved: 528 users
+[2025-12-19 10:57:57] [INFO] ✅ ahmadrezagz: None followers, 14 following
+[2025-12-19 10:58:13] [INFO] ✅ ahmadrezakzmi: None followers, 278 following
+[2025-12-19 10:58:31] [INFO] ✅ ahmadsamadi1974: 5188 followers, 973 following
+[2025-12-19 10:58:46] [INFO] ✅ ahmadshuja: None followers, 3284 following
+[2025-12-19 10:59:02] [INFO] ✅ ahmdlkarim: 2 followers, 17 following
+[2025-12-19 10:59:02] [INFO] Checkpoint saved: 533 users
+[2025-12-19 10:59:02] [INFO] Long delay at position 180: 228s
+[2025-12-19 11:02:58] [INFO] ✅ ahmdzybdal56318: 0 followers, 5 following
+[2025-12-19 11:03:16] [INFO] ✅ ahmed17032001: 1 followers, 137 following
+[2025-12-19 11:03:33] [INFO] ✅ ahmed_rami: 1837 followers, 6334 following
+[2025-12-19 11:03:50] [INFO] ✅ ahmedabdal94: 4 followers, 276 following
+[2025-12-19 11:04:07] [INFO] ✅ ahmedabdswe: 109 followers, 3948 following
+[2025-12-19 11:04:07] [INFO] Checkpoint saved: 538 users
+[2025-12-19 11:04:27] [INFO] ✅ ahmedalharbi0_: None followers, 27 following
+[2025-12-19 11:04:44] [INFO] ✅ ahmedheero00: 15 followers, 438 following
+[2025-12-19 11:04:59] [INFO] ✅ ahmedjamal41147: 0 followers, 78 following
+[2025-12-19 11:05:18] [INFO] ✅ ahmedjoia15116: 37 followers, 500 following
+[2025-12-19 11:05:37] [INFO] ✅ ahmedkroy: 564 followers, 466 following
+[2025-12-19 11:05:37] [INFO] Checkpoint saved: 543 users
+[2025-12-19 11:05:53] [INFO] ✅ ahmedmohammed: None followers, 22 following
+[2025-12-19 11:06:07] [INFO] ✅ ahmedna00921321: 12 followers, 48 following
+[2025-12-19 11:06:23] [INFO] ✅ ahmedovzaur78: 20 followers, 215 following
+[2025-12-19 11:06:40] [INFO] ✅ ahmedsaad189151: 1 followers, 16 following
+[2025-12-19 11:06:57] [INFO] ✅ ahmedsamehcccpa: 69 followers, 675 following
+[2025-12-19 11:06:57] [INFO] Checkpoint saved: 548 users
+[2025-12-19 11:07:12] [INFO] ✅ ahmedstv1: 385 followers, 41 following
+[2025-12-19 11:07:30] [INFO] ✅ ahmet_k_han: 1 followers, 2390 following
+[2025-12-19 11:07:46] [INFO] ✅ ahora9090: 3 followers, 44 following
+[2025-12-19 11:08:02] [INFO] ✅ ahoramazda39384: 28 followers, 308 following
+[2025-12-19 11:08:07] [INFO] Browser restart at position 200
+[2025-12-19 11:08:20] [INFO] Initializing Firefox
+[2025-12-19 11:08:36] [INFO] Cookies loaded successfully
+[2025-12-19 11:08:45] [INFO] ✅ ahqyqty18486: 6 followers, 51 following
+[2025-12-19 11:08:45] [INFO] Checkpoint saved: 553 users
+[2025-12-19 11:08:45] [INFO] Super delay at position 200: 604s
+[2025-12-19 11:18:59] [INFO] ✅ ahrari_maryam: 481 followers, 1013 following
+[2025-12-19 11:19:13] [INFO] ✅ ahsan2026bs: 1 followers, 72 following
+[2025-12-19 11:19:32] [INFO] ✅ ahsana30012: 148 followers, 4060 following
+[2025-12-19 11:19:50] [INFO] ✅ ahwaz1925__: 26 followers, 130 following
+[2025-12-19 11:20:08] [INFO] ✅ ahwazmedia: 5884 followers, 415 following
+[2025-12-19 11:20:08] [INFO] Checkpoint saved: 558 users
+[2025-12-19 11:20:27] [INFO] ✅ ahwaztammoz2021: 629 followers, 298 following
+[2025-12-19 11:20:44] [INFO] ✅ ai_risks: 7911 followers, 2 following
+[2025-12-19 11:21:03] [INFO] ✅ aiatmeta: None followers, 290 following
+[2025-12-19 11:21:18] [INFO] ✅ aibaensch: 1210 followers, 1103 following
+[2025-12-19 11:21:36] [INFO] ✅ aibuzznews: None followers, 582 following
+[2025-12-19 11:21:36] [INFO] Checkpoint saved: 563 users
+[2025-12-19 11:21:36] [INFO] Long delay at position 210: 292s
+[2025-12-19 11:26:38] [INFO] ✅ aicalliance_: 80 followers, 67 following
+[2025-12-19 11:26:54] [WARNING] Insufficient data for aidaghajar: only 1/3 fields
+[2025-12-19 11:27:11] [INFO] ✅ aidaghavam4291: 0 followers, 14 following
+[2025-12-19 11:27:28] [INFO] ✅ aidanajra: 276 followers, 233 following
+[2025-12-19 11:27:46] [INFO] ✅ aidin_og: 0 followers, 8 following
+[2025-12-19 11:27:46] [INFO] Checkpoint saved: 567 users
+[2025-12-19 11:28:05] [INFO] ✅ aidinism: None followers, 909 following
+[2025-12-19 11:28:21] [INFO] ✅ ailar1000: 59 followers, 978 following
+[2025-12-19 11:28:37] [INFO] ✅ ain4or: 32 followers, 182 following
+[2025-12-19 11:28:55] [INFO] ✅ ainajkhan: None followers, 34 following
+[2025-12-19 11:29:10] [INFO] ✅ ainohuilaja: 2932 followers, 902 following
+[2025-12-19 11:29:10] [INFO] Checkpoint saved: 572 users
+[2025-12-19 11:29:25] [INFO] ✅ ainslielab: 5695 followers, 2132 following
+[2025-12-19 11:29:39] [INFO] ✅ ainurastom: 8 followers, 261 following
+[2025-12-19 11:29:55] [INFO] ✅ aircenteraz: 5016 followers, 102 following
+[2025-12-19 11:30:11] [INFO] ✅ airdropcomet: None followers, 3 following
+[2025-12-19 11:30:29] [INFO] ✅ airwallex: 9375 followers, 516 following
+[2025-12-19 11:30:29] [INFO] Checkpoint saved: 577 users
+[2025-12-19 11:30:46] [INFO] ✅ aischannel: None followers, 16 following
+[2025-12-19 11:31:03] [INFO] ✅ aishaabbas20560: 59 followers, 703 following
+[2025-12-19 11:31:19] [INFO] ✅ aishaabbass3176: 117 followers, 1380 following
+[2025-12-19 11:31:35] [INFO] ✅ aishaguzma28258: 0 followers, 3 following
+[2025-12-19 11:31:52] [WARNING] Insufficient data for aiss_afg: only 1/3 fields
+[2025-12-19 11:31:52] [INFO] Checkpoint saved: 581 users
+[2025-12-19 11:32:09] [INFO] ✅ aiyankarimi3312: 55 followers, 394 following
+[2025-12-19 11:32:24] [INFO] ✅ aj1p8cn3ma859xl: 49 followers, 1270 following
+[2025-12-19 11:32:40] [INFO] ✅ aj_torgheh: 503 followers, 410 following
+[2025-12-19 11:32:57] [INFO] ✅ ajamiamin: 30 followers, 2372 following
+[2025-12-19 11:33:14] [INFO] ✅ ajan_iran: 823 followers, 963 following
+[2025-12-19 11:33:14] [INFO] Checkpoint saved: 586 users
+[2025-12-19 11:33:32] [INFO] ✅ ajarabic: None followers, 26 following
+[2025-12-19 11:33:48] [INFO] ✅ ajatashatru: 430 followers, 497 following
+[2025-12-19 11:34:02] [INFO] ✅ ajaykum78488191: 72 followers, 799 following
+[2025-12-19 11:34:19] [INFO] ✅ ajbends: None followers, 1286 following
+[2025-12-19 11:34:35] [INFO] ✅ ajdarbekbosynov: 0 followers, 73 following
+[2025-12-19 11:34:35] [INFO] Checkpoint saved: 591 users
+[2025-12-19 11:34:35] [INFO] Long delay at position 240: 195s
+[2025-12-19 11:37:59] [INFO] ✅ ajdemarang: None followers, 1139 following
+[2025-12-19 11:38:16] [INFO] ✅ ajenews: None followers, 166 following
+[2025-12-19 11:38:30] [WARNING] Insufficient data for ajenglish: only 1/3 fields
+[2025-12-19 11:38:46] [INFO] ✅ ajgerimsag41079: 1 followers, 35 following
+[2025-12-19 11:39:06] [INFO] ✅ aji_fellowships: 1029 followers, 20 following
+[2025-12-19 11:39:06] [INFO] Checkpoint saved: 595 users
+[2025-12-19 11:39:22] [INFO] ✅ ajibzade: None followers, 575 following
+[2025-12-19 11:39:40] [INFO] ✅ ajik38933950: 6 followers, 145 following
+[2025-12-19 11:39:54] [INFO] ✅ ajmaldashti17: 0 followers, 81 following
+[2025-12-19 11:40:08] [INFO] ✅ ajmalzamani4: 6 followers, 256 following
+[2025-12-19 11:40:23] [INFO] ✅ ajmanclub: None followers, 24 following
+[2025-12-19 11:40:23] [INFO] Checkpoint saved: 600 users
+[2025-12-19 11:40:40] [INFO] ✅ ajmanclub_en: 1274 followers, 3 following
+[2025-12-19 11:40:59] [INFO] ✅ ajnlive: None followers, 118 following
+[2025-12-19 11:41:13] [INFO] ✅ ajos: None followers, 2812 following
+[2025-12-19 11:41:31] [INFO] ✅ ajplus: None followers, 247 following
+[2025-12-19 11:41:48] [INFO] ✅ ajstream: None followers, 836 following
+[2025-12-19 11:41:48] [INFO] Checkpoint saved: 605 users
+[2025-12-19 11:42:04] [INFO] ✅ ajturk: None followers, 7 following
+[2025-12-19 11:42:21] [INFO] ✅ ak1980777: 0 followers, 46 following
+[2025-12-19 11:42:37] [INFO] ✅ ak_rogue_: 9 followers, 51 following
+[2025-12-19 11:42:55] [INFO] ✅ akaleditor: None followers, 2139 following
+[2025-12-19 11:43:11] [INFO] ✅ akash551788875: 0 followers, 13 following
+[2025-12-19 11:43:11] [INFO] Checkpoint saved: 610 users
+[2025-12-19 11:43:30] [INFO] ✅ akbar50847775: 8 followers, 64 following
+[2025-12-19 11:43:47] [INFO] ✅ akbarabasi13481: 51 followers, 91 following
+[2025-12-19 11:44:03] [INFO] ✅ akbarghasemi62: 28 followers, 122 following
+[2025-12-19 11:44:21] [INFO] ✅ akbarkhan025: 3 followers, 141 following
+[2025-12-19 11:44:37] [INFO] ✅ akbarsahmed: None followers, 3880 following
+[2025-12-19 11:44:37] [INFO] Checkpoint saved: 615 users
+[2025-12-19 11:44:54] [INFO] ✅ akbrohi09: 42 followers, 1573 following
+[2025-12-19 11:45:08] [INFO] ✅ akbrzadh35412: 0 followers, 44 following
+[2025-12-19 11:45:22] [INFO] ✅ akef1680: 6 followers, 50 following
+[2025-12-19 11:45:41] [INFO] ✅ akguitarman49: 9 followers, 349 following
+[2025-12-19 11:45:56] [INFO] ✅ akhavan_mina: 0 followers, 6 following
+[2025-12-19 11:45:56] [INFO] Checkpoint saved: 620 users
+[2025-12-19 11:45:56] [INFO] Long delay at position 270: 291s
+[2025-12-19 11:50:56] [INFO] ✅ akhavanbahar: 89 followers, 227 following
+[2025-12-19 11:51:14] [INFO] ✅ akhbare_fori: None followers, 34 following
+[2025-12-19 11:51:31] [INFO] ✅ akhgar_maryam: 51 followers, 67 following
+[2025-12-19 11:51:48] [INFO] ✅ akhoundiabbas: None followers, 565 following
+[2025-12-19 11:52:04] [INFO] ✅ akiali43488770: 0 followers, 48 following
+[2025-12-19 11:52:04] [INFO] Checkpoint saved: 625 users
+[2025-12-19 11:52:22] [INFO] ✅ akmalkhan186861: 4 followers, 49 following
+[2025-12-19 11:52:41] [INFO] ✅ akram1445449: 71 followers, 2043 following
+[2025-12-19 11:52:56] [INFO] ✅ akramipmp: 13 followers, 166 following
+[2025-12-19 11:53:13] [INFO] ✅ akramsharifi: None followers, 1591 following
+[2025-12-19 11:53:27] [INFO] ✅ akshayk11339456: 1 followers, 98 following
+[2025-12-19 11:53:27] [INFO] Checkpoint saved: 630 users
+[2025-12-19 11:53:47] [INFO] ✅ akt: 3018 followers, 650 following
+[2025-12-19 11:54:05] [INFO] ✅ akumafeelings: 5372 followers, 4139 following
+[2025-12-19 11:54:19] [INFO] ✅ akurenadna21593: 0 followers, 2 following
+[2025-12-19 11:54:38] [INFO] ✅ akvanian: None followers, 613 following
+[2025-12-19 11:54:53] [INFO] ✅ al3151644276727: 1 followers, 34 following
+[2025-12-19 11:54:53] [INFO] Checkpoint saved: 635 users
+[2025-12-19 11:55:09] [INFO] ✅ al3_hacker: None followers, 25 following
+[2025-12-19 11:55:27] [INFO] ✅ al3a6eeb: None followers, 3517 following
+[2025-12-19 11:55:42] [INFO] ✅ al3mlaa81: None followers, 167 following
+[2025-12-19 11:56:00] [INFO] ✅ al_ardwi: None followers, 2085 following
+[2025-12-19 11:56:16] [INFO] ✅ al_bayynat: None followers, 1 following
+[2025-12-19 11:56:16] [INFO] Checkpoint saved: 640 users
+[2025-12-19 11:56:31] [INFO] ✅ al_bayynat2: None followers, 1 following
+[2025-12-19 11:56:47] [INFO] ✅ al_firas999: 26 followers, 162 following
+[2025-12-19 11:57:05] [INFO] ✅ al_hydr16787: 0 followers, 14 following
+[2025-12-19 11:57:21] [INFO] ✅ al_kascom: None followers, 13 following
+[2025-12-19 11:57:39] [INFO] ✅ al_sharifzadeh: 4540 followers, 367 following
+[2025-12-19 11:57:39] [INFO] Checkpoint saved: 645 users
+[2025-12-19 11:57:58] [INFO] ✅ al_thawaq: None followers, 455 following
+[2025-12-19 11:58:13] [INFO] ✅ ala_ti_ti: 2447 followers, 546 following
+[2025-12-19 11:58:27] [INFO] ✅ ala_tre6: 0 followers, 50 following
+[2025-12-19 11:58:42] [INFO] ✅ alaaalwaly1: 31 followers, 558 following
+[2025-12-19 11:58:47] [INFO] Browser restart at position 300
+[2025-12-19 11:59:01] [INFO] Initializing Firefox
+[2025-12-19 11:59:16] [INFO] Cookies loaded successfully
+[2025-12-19 11:59:27] [INFO] ✅ alahly: None followers, 37 following
+[2025-12-19 11:59:27] [INFO] Checkpoint saved: 650 users
+[2025-12-19 11:59:27] [INFO] Super delay at position 300: 629s
+[2025-12-19 12:10:04] [INFO] ✅ alahlyenglish: None followers, 30 following
+[2025-12-19 12:10:22] [INFO] ✅ alahlyfrancais: None followers, 27 following
+[2025-12-19 12:10:35] [INFO] ✅ alahmdii9: 3 followers, 80 following
+[2025-12-19 12:10:52] [INFO] ✅ alahwazireza: 389 followers, 397 following
+[2025-12-19 12:11:07] [INFO] ✅ alaina32h: 1198 followers, 1759 following
+[2025-12-19 12:11:07] [INFO] Checkpoint saved: 655 users
+[2025-12-19 12:11:23] [INFO] ✅ alainfcae: None followers, 19 following
+[2025-12-19 12:11:42] [INFO] ✅ alaki_: 2705 followers, 1428 following
+[2025-12-19 12:11:58] [INFO] ✅ alalehkamranlaw: 1435 followers, 1323 following
+[2025-12-19 12:12:13] [WARNING] Insufficient data for alamodrafthouse: only 1/3 fields
+[2025-12-19 12:12:30] [INFO] ✅ alamsooz: 48 followers, 182 following
+[2025-12-19 12:12:30] [INFO] Checkpoint saved: 659 users
+[2025-12-19 12:12:48] [INFO] ✅ alamyn39470: 73 followers, 919 following
+[2025-12-19 12:13:05] [INFO] ✅ alan1234454: 42 followers, 184 following
+[2025-12-19 12:13:18] [INFO] ✅ alan_pez_perrie: 340 followers, 5662 following
+[2025-12-19 12:13:35] [INFO] ✅ alanbro79651597: 0 followers, 11 following
+[2025-12-19 12:13:49] [INFO] ✅ alanciwanc41267: 33 followers, 2281 following
+[2025-12-19 12:13:49] [INFO] Checkpoint saved: 664 users
+[2025-12-19 12:14:10] [INFO] ✅ alandersh: None followers, 154 following
+[2025-12-19 12:14:24] [INFO] ✅ alaneyre1: 1 followers, 87 following
+[2025-12-19 12:14:43] [INFO] ✅ alanwake: None followers, 16 following
+[2025-12-19 12:14:57] [WARNING] Insufficient data for alarabiya: only 1/3 fields
+[2025-12-19 12:15:15] [INFO] ✅ alarabiya_brk: None followers, 49 following
+[2025-12-19 12:15:15] [INFO] Checkpoint saved: 668 users
+[2025-12-19 12:15:31] [INFO] ✅ alarabiya_eng: None followers, 53 following
+[2025-12-19 12:15:51] [INFO] ✅ alarabiya_fa: None followers, 45 following
+[2025-12-19 12:16:10] [INFO] ✅ alarabytv: None followers, 11 following
+[2025-12-19 12:16:28] [WARNING] Insufficient data for alarabytv_brk: only 1/3 fields
+[2025-12-19 12:16:43] [INFO] ✅ alastairmurra18: 347 followers, 3178 following
+[2025-12-19 12:16:43] [INFO] Checkpoint saved: 672 users
+[2025-12-19 12:17:02] [INFO] ✅ alavi2183: 5910 followers, 3195 following
+[2025-12-19 12:17:21] [INFO] ✅ alavibehrang: None followers, 101 following
+[2025-12-19 12:17:35] [INFO] ✅ alawamiaqe84264: 8 followers, 130 following
+[2025-12-19 12:17:52] [INFO] ✅ albankaldawli: None followers, 313 following
+[2025-12-19 12:18:07] [INFO] ✅ albayannews: None followers, 96 following
+[2025-12-19 12:18:07] [INFO] Checkpoint saved: 677 users
+[2025-12-19 12:18:24] [INFO] ✅ albertcamus7700: 252 followers, 6861 following
+[2025-12-19 12:18:43] [WARNING] Insufficient data for albertomiguelf5: only 1/3 fields
+[2025-12-19 12:18:57] [INFO] ✅ albionroar: 9733 followers, 1030 following
+[2025-12-19 12:19:11] [INFO] ✅ alborznazariz: 147 followers, 310 following
+[2025-12-19 12:19:29] [INFO] ✅ alchemyamerican: None followers, 667 following
+[2025-12-19 12:19:29] [INFO] Checkpoint saved: 681 users
+[2025-12-19 12:19:49] [INFO] ✅ alcides: 1893 followers, 2921 following
+[2025-12-19 12:20:04] [INFO] ✅ alcuiqieh23641: 33 followers, 1265 following
+[2025-12-19 12:20:19] [INFO] ✅ aldesjonqueres: 375 followers, 220 following
+[2025-12-19 12:20:38] [INFO] ✅ aldo369369369: None followers, 5503 following
+[2025-12-19 12:20:53] [WARNING] Insufficient data for alduferi1969: only 1/3 fields
+[2025-12-19 12:20:53] [INFO] Checkpoint saved: 685 users
+[2025-12-19 12:21:08] [INFO] ✅ aleaguewomen: None followers, 2092 following
+[2025-12-19 12:21:23] [INFO] ✅ aleahmikul20525: 116 followers, 1678 following
+[2025-12-19 12:21:40] [INFO] ✅ aleborghi_: None followers, 208 following
+[2025-12-19 12:21:57] [INFO] ✅ alecbaldwln____: None followers, 292 following
+[2025-12-19 12:22:18] [INFO] ✅ alecknowsads: 81 followers, 271 following
+[2025-12-19 12:22:18] [INFO] Checkpoint saved: 690 users
+[2025-12-19 12:22:32] [WARNING] Insufficient data for aleemquran: only 0/3 fields
+[2025-12-19 12:22:50] [WARNING] Insufficient data for alef20000: only 1/3 fields
+[2025-12-19 12:23:06] [INFO] ✅ alejandrareyesc: 803 followers, 884 following
+[2025-12-19 12:23:27] [INFO] ✅ alessandrobanfi: 5354 followers, 1465 following
+[2025-12-19 12:23:40] [INFO] ✅ alex4380145476: 48 followers, 679 following
+[2025-12-19 12:23:40] [INFO] Checkpoint saved: 693 users
+[2025-12-19 12:23:57] [INFO] ✅ alex99889: 750 followers, 7499 following
+[2025-12-19 12:24:11] [WARNING] Insufficient data for alex__ebert: only 0/3 fields
+[2025-12-19 12:24:26] [WARNING] Insufficient data for alexalemaitre: only 0/3 fields
+[2025-12-19 12:24:42] [WARNING] Insufficient data for alexanderbielef: only 0/3 fields
+[2025-12-19 12:24:42] [WARNING] 3 consecutive failures
+[2025-12-19 12:24:49] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 12:24:49] [INFO] Checkpoint saved: 694 users
+[2025-12-19 12:49:59] [INFO] Initializing Firefox
+[2025-12-19 12:50:15] [INFO] Cookies loaded successfully
+[2025-12-19 12:50:33] [INFO] ✅ alexanderdecroo: None followers, 335 following
+[2025-12-19 12:50:33] [INFO] Checkpoint saved: 695 users
+[2025-12-19 12:50:52] [INFO] ✅ alexanderklee: 5696 followers, 613 following
+[2025-12-19 12:51:10] [INFO] ✅ alexanderm18395: 552 followers, 1816 following
+[2025-12-19 12:51:27] [INFO] ✅ alexbozmorty: 3084 followers, 3193 following
+[2025-12-19 12:51:43] [INFO] ✅ alexcallens06: None followers, 194 following
+[2025-12-19 12:51:57] [INFO] ✅ alexcurran95: 2603 followers, 7343 following
+[2025-12-19 12:51:57] [INFO] Checkpoint saved: 700 users
+[2025-12-19 12:52:15] [INFO] ✅ alexerventure: 446 followers, 6254 following
+[2025-12-19 12:52:28] [INFO] ✅ alexeygorboot: None followers, 242 following
+[2025-12-19 12:52:46] [INFO] ✅ alexferra: 555 followers, 78 following
+[2025-12-19 12:53:03] [INFO] ✅ alexholiga: 7784 followers, 492 following
+[2025-12-19 12:53:16] [WARNING] Insufficient data for alexiscast9tbz: only 1/3 fields
+[2025-12-19 12:53:16] [INFO] Checkpoint saved: 704 users
+[2025-12-19 12:53:31] [INFO] ✅ alexkaplan0: None followers, 2130 following
+[2025-12-19 12:53:48] [INFO] ✅ alexkennedynba: None followers, 4450 following
+[2025-12-19 12:54:05] [INFO] ✅ alexkrodriguez: 1359 followers, 1692 following
+[2025-12-19 12:54:22] [INFO] ✅ alexlaughs: None followers, 2325 following
+[2025-12-19 12:54:38] [INFO] ✅ alexmarlow: None followers, 271 following
+[2025-12-19 12:54:38] [INFO] Checkpoint saved: 709 users
+[2025-12-19 12:54:54] [INFO] ✅ alexnguyen15895: 0 followers, 22 following
+[2025-12-19 12:55:13] [INFO] ✅ alexp_ecb: 184 followers, 1196 following
+[2025-12-19 12:55:27] [INFO] ✅ alexphillips8: 518 followers, 2215 following
+[2025-12-19 12:55:44] [INFO] ✅ alexpico: 471 followers, 1865 following
+[2025-12-19 12:55:59] [INFO] ✅ alexpombo489762: 224 followers, 4393 following
+[2025-12-19 12:55:59] [INFO] Checkpoint saved: 714 users
+[2025-12-19 12:56:16] [INFO] ✅ alexsteeleopal: 986 followers, 228 following
+[2025-12-19 12:56:31] [INFO] ✅ alexvespi: None followers, 1320 following
+[2025-12-19 12:56:45] [INFO] ✅ alexvizorek: None followers, 2657 following
+[2025-12-19 12:57:00] [INFO] ✅ alfa12365770: 2 followers, 23 following
+[2025-12-19 12:57:18] [INFO] Account not found: alfie_james_
+[2025-12-19 12:57:18] [INFO] Checkpoint saved: 718 users
+[2025-12-19 12:57:31] [INFO] ✅ alfirinmag52045: 1 followers, 30 following
+[2025-12-19 12:57:47] [INFO] ✅ alfrewoodard: None followers, 318 following
+[2025-12-19 12:58:06] [INFO] ✅ alga_kazakhstan: 2459 followers, 1032 following
+[2025-12-19 12:58:22] [INFO] ✅ alghadeer_tv: None followers, 24 following
+[2025-12-19 12:58:41] [INFO] ✅ alghadtv: None followers, 1 following
+[2025-12-19 12:58:41] [INFO] Checkpoint saved: 723 users
+[2025-12-19 12:58:58] [WARNING] Insufficient data for algonquinbooks: only 1/3 fields
+[2025-12-19 12:59:16] [INFO] ✅ algroonahmed: None followers, 1091 following
+[2025-12-19 12:59:34] [WARNING] Insufficient data for alhadath: only 1/3 fields
+[2025-12-19 12:59:51] [INFO] ✅ alhassanhu41917: 37 followers, 604 following
+[2025-12-19 13:00:04] [INFO] ✅ alhdedeabd92383: 0 followers, 5 following
+[2025-12-19 13:00:04] [INFO] Checkpoint saved: 726 users
+[2025-12-19 13:00:23] [INFO] ✅ alhilal_en: None followers, 82 following
+[2025-12-19 13:00:38] [INFO] ✅ alhilal_fc: None followers, 79 following
+[2025-12-19 13:00:57] [INFO] ✅ alhilal_sg: None followers, 6 following
+[2025-12-19 13:01:13] [INFO] ✅ alhmdanykh57899: 0 followers, 38 following
+[2025-12-19 13:01:33] [WARNING] Insufficient data for alhosseini: only 1/3 fields
+[2025-12-19 13:01:33] [INFO] Checkpoint saved: 730 users
+[2025-12-19 13:01:48] [INFO] ✅ alhumma: 0 followers, 7 following
+[2025-12-19 13:02:06] [INFO] ✅ ali12793587: 0 followers, 1 following
+[2025-12-19 13:02:24] [INFO] ✅ ali1427_rad: 0 followers, 119 following
+[2025-12-19 13:02:39] [INFO] ✅ ali41766: 2 followers, 40 following
+[2025-12-19 13:02:44] [INFO] Browser restart at position 400
+[2025-12-19 13:02:57] [INFO] Initializing Firefox
+[2025-12-19 13:03:12] [INFO] Cookies loaded successfully
+[2025-12-19 13:03:21] [INFO] ✅ ali564m50784: 0 followers, 24 following
+[2025-12-19 13:03:21] [INFO] Checkpoint saved: 735 users
+[2025-12-19 13:03:21] [INFO] Super delay at position 400: 663s
+[2025-12-19 13:14:32] [INFO] ✅ ali593633698253: 0 followers, 11 following
+[2025-12-19 13:14:51] [INFO] ✅ ali7osain: 554 followers, 703 following
+[2025-12-19 13:15:06] [INFO] ✅ ali94185358: 8 followers, 62 following
+[2025-12-19 13:15:24] [INFO] ✅ ali_0909a: 755 followers, 1099 following
+[2025-12-19 13:15:41] [INFO] ✅ ali_94355: 0 followers, 49 following
+[2025-12-19 13:15:41] [INFO] Checkpoint saved: 740 users
+[2025-12-19 13:15:57] [INFO] ✅ ali__darghahi: 4 followers, 27 following
+[2025-12-19 13:16:11] [INFO] ✅ ali__erfani110: 5 followers, 4 following
+[2025-12-19 13:16:25] [INFO] ✅ ali_ahmadnia: None followers, 1755 following
+[2025-12-19 13:16:44] [INFO] ✅ ali_al_najafy: None followers, 26 following
+[2025-12-19 13:17:00] [INFO] ✅ ali_albadiri90: 2 followers, 51 following
+[2025-12-19 13:17:00] [INFO] Checkpoint saved: 745 users
+[2025-12-19 13:17:15] [INFO] ✅ ali_arsalan72: 32 followers, 9 following
+[2025-12-19 13:17:29] [INFO] ✅ ali_babaa1234: 1 followers, 34 following
+[2025-12-19 13:17:43] [INFO] ✅ ali_bitarafan5: None followers, 3941 following
+[2025-12-19 13:17:59] [INFO] ✅ ali_cheshomi: 4919 followers, 202 following
+[2025-12-19 13:18:16] [INFO] ✅ ali_damghani_84: 14 followers, 313 following
+[2025-12-19 13:18:16] [INFO] Checkpoint saved: 750 users
+[2025-12-19 13:18:31] [INFO] ✅ ali_esmaili99: 0 followers, 31 following
+[2025-12-19 13:18:48] [INFO] ✅ ali_f_alizada: None followers, 182 following
+[2025-12-19 13:19:05] [INFO] ✅ ali_geraei: 221 followers, 18 following
+[2025-12-19 13:19:19] [INFO] ✅ ali_ghm1993: 7 followers, 669 following
+[2025-12-19 13:19:34] [INFO] ✅ ali_hedielou: None followers, 2978 following
+[2025-12-19 13:19:34] [INFO] Checkpoint saved: 755 users
+[2025-12-19 13:19:52] [INFO] ✅ ali_khezrian: None followers, 527 following
+[2025-12-19 13:20:07] [INFO] ✅ ali_koleini: 89 followers, 0 following
+[2025-12-19 13:20:23] [INFO] ✅ ali_noorani_teh: 3781 followers, 1259 following
+[2025-12-19 13:20:40] [INFO] ✅ ali_rajabi: None followers, 998 following
+[2025-12-19 13:20:56] [INFO] ✅ ali_rezaei_sh: 2092 followers, 281 following
+[2025-12-19 13:20:56] [INFO] Checkpoint saved: 760 users
+[2025-12-19 13:21:13] [INFO] ✅ ali_sadeghloo: 43 followers, 542 following
+[2025-12-19 13:21:28] [INFO] ✅ ali_shahoum: 9 followers, 190 following
+[2025-12-19 13:21:48] [INFO] ✅ ali_tavakoli_28: 90 followers, 128 following
+[2025-12-19 13:22:08] [INFO] ✅ aliaalei: None followers, 182 following
+[2025-12-19 13:22:24] [INFO] ✅ aliabc1500: 58 followers, 203 following
+[2025-12-19 13:22:24] [INFO] Checkpoint saved: 765 users
+[2025-12-19 13:22:40] [INFO] ✅ aliabz429014: 27 followers, 563 following
+[2025-12-19 13:22:56] [INFO] ✅ aliahmadolfati: 197 followers, 2519 following
+[2025-12-19 13:23:14] [INFO] ✅ alialahmed_en: None followers, 1374 following
+[2025-12-19 13:23:31] [WARNING] Insufficient data for alialahmedx: only 1/3 fields
+[2025-12-19 13:23:47] [INFO] ✅ alialiraouf2: 51 followers, 348 following
+[2025-12-19 13:23:47] [INFO] Checkpoint saved: 769 users
+[2025-12-19 13:24:04] [INFO] ✅ alialjabiri: None followers, 989 following
+[2025-12-19 13:24:22] [INFO] ✅ alialkhalede: None followers, 136 following
+[2025-12-19 13:24:39] [INFO] ✅ aliam_es: 4324 followers, 4447 following
+[2025-12-19 13:24:56] [WARNING] Insufficient data for aliamer20250: only 1/3 fields
+[2025-12-19 13:25:11] [INFO] ✅ aliamoayed: 4 followers, 31 following
+[2025-12-19 13:25:11] [INFO] Checkpoint saved: 773 users
+[2025-12-19 13:25:27] [INFO] ✅ alian2025: 1 followers, 58 following
+[2025-12-19 13:25:45] [INFO] ✅ aliansari84: 742 followers, 1928 following
+[2025-12-19 13:26:02] [INFO] ✅ aliaref_: 508 followers, 646 following
+[2025-12-19 13:26:18] [WARNING] Insufficient data for aliashtari9: only 1/3 fields
+[2025-12-19 13:26:34] [INFO] ✅ aliashtiani12: 26 followers, 813 following
+[2025-12-19 13:26:34] [INFO] Checkpoint saved: 777 users
+[2025-12-19 13:26:52] [INFO] ✅ aliaydinfromaz: 30 followers, 84 following
+[2025-12-19 13:27:10] [INFO] ✅ aliazarids: 7 followers, 66 following
+[2025-12-19 13:27:28] [INFO] ✅ aliazimimusic: None followers, 812 following
+[2025-12-19 13:27:44] [INFO] ✅ alibahaadori: None followers, 138 following
+[2025-12-19 13:28:00] [INFO] ✅ alibarghi1: 4 followers, 84 following
+[2025-12-19 13:28:00] [INFO] Checkpoint saved: 782 users
+[2025-12-19 13:28:14] [INFO] ✅ alibazdarian: 168 followers, 1256 following
+[2025-12-19 13:28:29] [WARNING] Insufficient data for alibmii11: only 0/3 fields
+[2025-12-19 13:28:42] [WARNING] Insufficient data for alibozorgian: only 0/3 fields
+[2025-12-19 13:29:00] [WARNING] Insufficient data for alibptp: only 0/3 fields
+[2025-12-19 13:29:00] [WARNING] 3 consecutive failures
+[2025-12-19 13:29:06] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 13:29:06] [INFO] Checkpoint saved: 783 users
+[2025-12-19 13:52:25] [INFO] Initializing Firefox
+[2025-12-19 13:52:41] [INFO] Cookies loaded successfully
+[2025-12-19 13:52:58] [INFO] ✅ aliceciottolina: 7 followers, 22 following
+[2025-12-19 13:52:58] [INFO] Checkpoint saved: 784 users
+[2025-12-19 13:53:15] [INFO] ✅ aliceparkny: None followers, 469 following
+[2025-12-19 13:53:32] [INFO] ✅ alicetheca7: 0 followers, 3 following
+[2025-12-19 13:53:52] [WARNING] Insufficient data for aliciakeys: only 1/3 fields
+[2025-12-19 13:54:06] [INFO] ✅ aliciamata77: 0 followers, 24 following
+[2025-12-19 13:54:21] [INFO] ✅ aliciasummerstv: 6142 followers, 854 following
+[2025-12-19 13:54:21] [INFO] Checkpoint saved: 788 users
+[2025-12-19 13:54:36] [INFO] ✅ alie89700828: 37 followers, 549 following
+[2025-12-19 13:54:55] [INFO] ✅ aliebrahimzade_: None followers, 731 following
+[2025-12-19 13:55:12] [WARNING] Insufficient data for aliereza: only 1/3 fields
+[2025-12-19 13:55:29] [INFO] ✅ aliesmaeilib: 0 followers, 15 following
+[2025-12-19 13:55:46] [INFO] ✅ alietamedia: None followers, 1202 following
+[2025-12-19 13:55:46] [INFO] Checkpoint saved: 792 users
+[2025-12-19 13:56:01] [INFO] ✅ alighadimiai: 57 followers, 86 following
+[2025-12-19 13:56:20] [INFO] ✅ alighasemi0011: 51 followers, 98 following
+[2025-12-19 13:56:37] [WARNING] Insufficient data for alighazizade: only 1/3 fields
+[2025-12-19 13:56:50] [INFO] ✅ alih1039071: 0 followers, 10 following
+[2025-12-19 13:57:03] [INFO] ✅ alihamedanii: None followers, 3947 following
+[2025-12-19 13:57:03] [INFO] Checkpoint saved: 796 users
+[2025-12-19 13:57:20] [INFO] ✅ alihamid27: None followers, 438 following
+[2025-12-19 13:57:34] [INFO] ✅ alihaqiqi399879: 0 followers, 5 following
+[2025-12-19 13:57:52] [INFO] ✅ alihars6: 155 followers, 304 following
+[2025-12-19 13:58:07] [WARNING] Insufficient data for alihashem: only 1/3 fields
+[2025-12-19 13:58:25] [INFO] ✅ alihashemi78849: 324 followers, 3386 following
+[2025-12-19 13:58:25] [INFO] Checkpoint saved: 800 users
+[2025-12-19 13:58:43] [INFO] ✅ alihgh1393: 74 followers, 153 following
+[2025-12-19 13:58:58] [INFO] ✅ alihoseini692: 6 followers, 107 following
+[2025-12-19 13:59:16] [INFO] ✅ aliibeyranvand: None followers, 28 following
+[2025-12-19 13:59:32] [INFO] ✅ aliidaeii: None followers, 3 following
+[2025-12-19 13:59:46] [INFO] ✅ aliiiiinaderi8: 18 followers, 645 following
+[2025-12-19 13:59:46] [INFO] Checkpoint saved: 805 users
+[2025-12-19 14:00:01] [INFO] ✅ aliiorgi: 722 followers, 746 following
+[2025-12-19 14:00:18] [INFO] ✅ alijafarifo: 248 followers, 193 following
+[2025-12-19 14:00:33] [INFO] ✅ alijalizi8: 0 followers, 11 following
+[2025-12-19 14:00:50] [INFO] ✅ alijan2056: 8 followers, 73 following
+[2025-12-19 14:01:09] [INFO] ✅ alijannatpour: 35 followers, 249 following
+[2025-12-19 14:01:09] [INFO] Checkpoint saved: 810 users
+[2025-12-19 14:01:26] [INFO] ✅ alijoonz121: None followers, 1658 following
+[2025-12-19 14:01:43] [INFO] ✅ alijumadaaltha: 47 followers, 207 following
+[2025-12-19 14:01:58] [INFO] ✅ alikalaei62: 5599 followers, 4991 following
+[2025-12-19 14:02:14] [INFO] ✅ alikalhamadi: None followers, 27 following
+[2025-12-19 14:02:28] [INFO] ✅ alikarimdoost91: 554 followers, 7490 following
+[2025-12-19 14:02:28] [INFO] Checkpoint saved: 815 users
+[2025-12-19 14:02:44] [INFO] ✅ alikarimi_ak8: None followers, 30 following
+[2025-12-19 14:03:03] [INFO] ✅ alikhani_reza: 1 followers, 58 following
+[2025-12-19 14:03:21] [WARNING] Insufficient data for alikhosravani7: only 1/3 fields
+[2025-12-19 14:03:39] [INFO] ✅ alilarijani_ir: None followers, 2 following
+[2025-12-19 14:03:55] [INFO] ✅ alimajidi65256: 0 followers, 14 following
+[2025-12-19 14:03:55] [INFO] Checkpoint saved: 819 users
+[2025-12-19 14:04:14] [WARNING] Insufficient data for alimalihi: only 1/3 fields
+[2025-12-19 14:04:29] [INFO] ✅ alimarouf153082: 241 followers, 3122 following
+[2025-12-19 14:04:44] [INFO] ✅ alimeelad94: 89 followers, 305 following
+[2025-12-19 14:04:59] [INFO] ✅ alimir43: 0 followers, 10 following
+[2025-12-19 14:05:05] [INFO] Browser restart at position 500
+[2025-12-19 14:05:18] [INFO] Initializing Firefox
+[2025-12-19 14:05:33] [INFO] Cookies loaded successfully
+[2025-12-19 14:05:41] [INFO] ✅ alimohammadkhn: 1 followers, 24 following
+[2025-12-19 14:05:41] [INFO] Checkpoint saved: 823 users
+[2025-12-19 14:05:41] [INFO] Super delay at position 500: 794s
+[2025-12-19 14:19:04] [INFO] ✅ alimojtahedzad3: None followers, 288 following
+[2025-12-19 14:19:23] [INFO] ✅ alimokhtari102: 82 followers, 148 following
+[2025-12-19 14:19:38] [INFO] ✅ alimotie1318: 160 followers, 753 following
+[2025-12-19 14:19:56] [INFO] ✅ alimoujani: 3023 followers, 444 following
+[2025-12-19 14:20:14] [INFO] ✅ alimr70141: 1 followers, 34 following
+[2025-12-19 14:20:14] [INFO] Checkpoint saved: 828 users
+[2025-12-19 14:20:28] [INFO] ✅ alinaghi2018: 5675 followers, 1284 following
+[2025-12-19 14:20:42] [INFO] ✅ alinazari42166: 4 followers, 75 following
+[2025-12-19 14:20:58] [INFO] ✅ alinazarij: 517 followers, 4 following
+[2025-12-19 14:21:14] [WARNING] Insufficient data for alinejadmasih: only 1/3 fields
+[2025-12-19 14:21:29] [INFO] ✅ alinezhadi5: 64 followers, 1021 following
+[2025-12-19 14:21:29] [INFO] Checkpoint saved: 832 users
+[2025-12-19 14:21:47] [INFO] ✅ alinhotornado1: 7 followers, 125 following
+[2025-12-19 14:22:05] [INFO] ✅ alir33al: 0 followers, 70 following
+[2025-12-19 14:22:25] [INFO] ✅ alirabiei_iran: 7806 followers, 0 following
+[2025-12-19 14:22:43] [INFO] ✅ aliramez2: 7 followers, 57 following
+[2025-12-19 14:22:57] [INFO] ✅ alire0860: 1 followers, 32 following
+[2025-12-19 14:22:57] [INFO] Checkpoint saved: 837 users
+[2025-12-19 14:23:12] [INFO] ✅ alireza4759: 5 followers, 99 following
+[2025-12-19 14:23:31] [WARNING] Insufficient data for alireza48466967: only 1/3 fields
+[2025-12-19 14:23:47] [INFO] ✅ alireza84808379: 149 followers, 351 following
+[2025-12-19 14:24:01] [INFO] ✅ alireza__ziyaei: 0 followers, 45 following
+[2025-12-19 14:24:19] [INFO] ✅ alireza_arg: 700 followers, 2287 following
+[2025-12-19 14:24:19] [INFO] Checkpoint saved: 841 users
+[2025-12-19 14:24:37] [INFO] ✅ alireza_didani: 134 followers, 58 following
+[2025-12-19 14:24:54] [INFO] ✅ alireza_kh29320: 29 followers, 509 following
+[2025-12-19 14:25:07] [INFO] ✅ alireza_van: 1 followers, 43 following
+[2025-12-19 14:25:24] [INFO] ✅ alirezaabasi_ir: 2505 followers, 61 following
+[2025-12-19 14:25:41] [INFO] ✅ alirezaakhondi: None followers, 115 following
+[2025-12-19 14:25:41] [INFO] Checkpoint saved: 846 users
+[2025-12-19 14:26:00] [INFO] ✅ alirezaami58678: 1236 followers, 1994 following
+[2025-12-19 14:26:16] [INFO] ✅ alirezaketabch3: 15 followers, 36 following
+[2025-12-19 14:26:34] [INFO] ✅ alirezakiani2: None followers, 480 following
+[2025-12-19 14:26:52] [INFO] ✅ alirezamm1992: 1569 followers, 1719 following
+[2025-12-19 14:27:11] [INFO] ✅ alirezanader: None followers, 5090 following
+[2025-12-19 14:27:11] [INFO] Checkpoint saved: 851 users
+[2025-12-19 14:27:27] [INFO] ✅ alirezapunteha: 4 followers, 311 following
+[2025-12-19 14:27:43] [INFO] ✅ alirezaroashan: None followers, 1286 following
+[2025-12-19 14:27:58] [INFO] ✅ alirezasafarpo7: 7 followers, 122 following
+[2025-12-19 14:28:16] [INFO] ✅ alirezasayeh: None followers, 21 following
+[2025-12-19 14:28:32] [INFO] ✅ alirezasha: 863 followers, 179 following
+[2025-12-19 14:28:32] [INFO] Checkpoint saved: 856 users
+[2025-12-19 14:28:51] [INFO] ✅ alirezashayest1: 858 followers, 1990 following
+[2025-12-19 14:29:05] [INFO] ✅ alirezaw_77: 1 followers, 11 following
+[2025-12-19 14:29:22] [INFO] ✅ alirezaysf00: 1 followers, 16 following
+[2025-12-19 14:29:37] [INFO] ✅ alirostami89168: 7 followers, 73 following
+[2025-12-19 14:29:59] [INFO] ✅ alisaberi1987: 469 followers, 1634 following
+[2025-12-19 14:29:59] [INFO] Checkpoint saved: 861 users
+[2025-12-19 14:30:13] [INFO] ✅ alisajed465625: 304 followers, 956 following
+[2025-12-19 14:30:28] [INFO] ✅ alisakar030: 6 followers, 164 following
+[2025-12-19 14:30:42] [INFO] ✅ alisakhravi80: 18 followers, 333 following
+[2025-12-19 14:31:02] [INFO] ✅ aliscorban: 313 followers, 386 following
+[2025-12-19 14:31:19] [INFO] ✅ alishakourirad: None followers, 129 following
+[2025-12-19 14:31:19] [INFO] Checkpoint saved: 866 users
+[2025-12-19 14:31:34] [INFO] ✅ alishariat1380: 42 followers, 293 following
+[2025-12-19 14:31:48] [INFO] ✅ alishiri272750: 0 followers, 5 following
+[2025-12-19 14:32:07] [INFO] ✅ alisoleymaiii: 13 followers, 244 following
+[2025-12-19 14:32:22] [INFO] ✅ alisongopnik: None followers, 35 following
+[2025-12-19 14:32:36] [WARNING] Insufficient data for alisonspittle: only 1/3 fields
+[2025-12-19 14:32:36] [INFO] Checkpoint saved: 870 users
+[2025-12-19 14:32:50] [INFO] ✅ alistai73159680: 12 followers, 116 following
+[2025-12-19 14:33:05] [WARNING] Insufficient data for alisteremcgrath: only 0/3 fields
+[2025-12-19 14:33:22] [WARNING] Insufficient data for alitabrizi: only 0/3 fields
+[2025-12-19 14:33:35] [WARNING] Insufficient data for alitajernia: only 0/3 fields
+[2025-12-19 14:33:35] [WARNING] 3 consecutive failures
+[2025-12-19 14:33:41] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 14:33:41] [INFO] Checkpoint saved: 871 users
+[2025-12-19 14:59:59] [INFO] Initializing Firefox
+[2025-12-19 15:00:15] [INFO] Cookies loaded successfully
+[2025-12-19 15:00:34] [INFO] ✅ aliturk43880: 187 followers, 1408 following
+[2025-12-19 15:00:34] [INFO] Checkpoint saved: 872 users
+[2025-12-19 15:00:55] [WARNING] Insufficient data for alivaez: only 1/3 fields
+[2025-12-19 15:01:09] [INFO] ✅ alivesali: 654 followers, 1163 following
+[2025-12-19 15:01:24] [INFO] ✅ alivrd: 0 followers, 2 following
+[2025-12-19 15:01:43] [INFO] ✅ aliyu_hass50470: 6 followers, 588 following
+[2025-12-19 15:02:01] [INFO] ✅ aliyuhy00700404: 170 followers, 1575 following
+[2025-12-19 15:02:01] [INFO] Checkpoint saved: 876 users
+[2025-12-19 15:02:19] [INFO] ✅ alizafarha44881: 1 followers, 38 following
+[2025-12-19 15:02:35] [INFO] ✅ alizamaniyan: 52 followers, 380 following
+[2025-12-19 15:02:50] [INFO] ✅ aliziyak: None followers, 90 following
+[2025-12-19 15:03:07] [WARNING] Insufficient data for aljadahmedia: only 1/3 fields
+[2025-12-19 15:03:23] [INFO] ✅ aljadyf: 367 followers, 2327 following
+[2025-12-19 15:03:23] [INFO] Checkpoint saved: 880 users
+[2025-12-19 15:03:41] [WARNING] Insufficient data for aljazirafc: only 1/3 fields
+[2025-12-19 15:04:00] [WARNING] Insufficient data for aljazirafc_en: only 1/3 fields
+[2025-12-19 15:04:13] [WARNING] Insufficient data for alkasschannel: only 0/3 fields
+[2025-12-19 15:04:14] [WARNING] 3 consecutive failures
+[2025-12-19 15:04:21] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 15:04:21] [INFO] Checkpoint saved: 880 users
+[2025-12-19 15:29:35] [INFO] Initializing Firefox
+[2025-12-19 15:29:49] [INFO] Cookies loaded successfully
+[2025-12-19 15:30:06] [WARNING] Insufficient data for alkasstvsports: only 1/3 fields
+[2025-12-19 15:30:23] [INFO] ✅ alkrdyhsn9718: 2 followers, 41 following
+[2025-12-19 15:30:23] [INFO] Checkpoint saved: 881 users
+[2025-12-19 15:30:43] [WARNING] Insufficient data for all90saltrock: only 1/3 fields
+[2025-12-19 15:31:00] [INFO] ✅ all_kapped: 111 followers, 2343 following
+[2025-12-19 15:31:15] [INFO] ✅ allaboutargyle: 1917 followers, 167 following
+[2025-12-19 15:31:30] [WARNING] Insufficient data for allahbakhshii: only 1/3 fields
+[2025-12-19 15:31:48] [INFO] ✅ allanmau1992: 27 followers, 560 following
+[2025-12-19 15:31:48] [INFO] Checkpoint saved: 884 users
+[2025-12-19 15:32:05] [INFO] ✅ allawati: 7828 followers, 2389 following
+[2025-12-19 15:32:22] [INFO] ✅ alldoaa110: 686 followers, 2 following
+[2025-12-19 15:32:39] [INFO] Account not found: alleniverson
+[2025-12-19 15:32:54] [WARNING] Insufficient data for allforarmy: only 1/3 fields
+[2025-12-19 15:33:09] [INFO] ✅ allhamjdy48220: 0 followers, 2 following
+[2025-12-19 15:33:09] [INFO] Checkpoint saved: 887 users
+[2025-12-19 15:33:23] [INFO] ✅ allipayam: 36 followers, 19 following
+[2025-12-19 15:33:38] [INFO] ✅ allison61478051: 2 followers, 10 following
+[2025-12-19 15:33:56] [WARNING] Insufficient data for allocine: only 1/3 fields
+[2025-12-19 15:34:15] [WARNING] Insufficient data for allsongs: only 1/3 fields
+[2025-12-19 15:34:29] [INFO] ✅ alltyf_: None followers, 11 following
+[2025-12-19 15:34:29] [INFO] Checkpoint saved: 890 users
+[2025-12-19 15:34:44] [INFO] ✅ allysonjsmith: 2842 followers, 946 following
+[2025-12-19 15:35:03] [INFO] ✅ allytheluminus: 41 followers, 256 following
+[2025-12-19 15:35:19] [INFO] ✅ almaaward: 2471 followers, 966 following
+[2025-12-19 15:35:34] [INFO] ✅ almaharel: None followers, 1548 following
+[2025-12-19 15:35:49] [WARNING] Insufficient data for almajallaar: only 1/3 fields
+[2025-12-19 15:35:49] [INFO] Checkpoint saved: 894 users
+[2025-12-19 15:36:07] [WARNING] Insufficient data for almanegrot: only 1/3 fields
+[2025-12-19 15:36:25] [INFO] ✅ almergaw41256: 22 followers, 1563 following
+[2025-12-19 15:36:45] [INFO] ✅ almghdmi: 119 followers, 235 following
+[2025-12-19 15:37:01] [INFO] ✅ almirasalsa918: 448 followers, 1710 following
+[2025-12-19 15:37:16] [INFO] ✅ almlkzhyr76434: 8 followers, 116 following
+[2025-12-19 15:37:16] [INFO] Checkpoint saved: 898 users
+[2025-12-19 15:37:36] [INFO] ✅ almodarresisays: None followers, 5 following
+[2025-12-19 15:37:51] [WARNING] Insufficient data for almonitor: only 1/3 fields
+[2025-12-19 15:38:10] [WARNING] Insufficient data for almuheb_39: only 1/3 fields
+[2025-12-19 15:38:25] [INFO] ✅ almww10: 19 followers, 776 following
+[2025-12-19 15:38:34] [INFO] Browser restart at position 600
+[2025-12-19 15:38:47] [INFO] Initializing Firefox
+[2025-12-19 15:39:02] [INFO] Cookies loaded successfully
+[2025-12-19 15:39:13] [WARNING] Insufficient data for alnasrsc: only 1/3 fields
+[2025-12-19 15:39:13] [INFO] Checkpoint saved: 900 users
+[2025-12-19 15:39:13] [INFO] Super delay at position 600: 863s
+[2025-12-19 15:53:46] [INFO] ✅ alnassr_sg: None followers, 3 following
+[2025-12-19 15:54:06] [WARNING] Insufficient data for alnassrfc: only 1/3 fields
+[2025-12-19 15:54:21] [WARNING] Insufficient data for alnassrfc_en: only 1/3 fields
+[2025-12-19 15:54:34] [INFO] ✅ alokobra1643794: 0 followers, 39 following
+[2025-12-19 15:54:51] [WARNING] Insufficient data for alon_mizrahi: only 1/3 fields
+[2025-12-19 15:54:51] [INFO] Checkpoint saved: 902 users
+[2025-12-19 15:55:07] [WARNING] Insufficient data for alooche: only 1/3 fields
+[2025-12-19 15:55:20] [INFO] ✅ alooupi61211: 88 followers, 2288 following
+[2025-12-19 15:55:40] [INFO] ✅ alotlikebirds: None followers, 222 following
+[2025-12-19 15:55:55] [WARNING] Insufficient data for alpacaaurelius: only 1/3 fields
+[2025-12-19 15:56:12] [INFO] ✅ alpacinoih: 40 followers, 149 following
+[2025-12-19 15:56:12] [INFO] Checkpoint saved: 905 users
+[2025-12-19 15:56:27] [INFO] ✅ alpaolucci: 1680 followers, 763 following
+[2025-12-19 15:56:43] [INFO] ✅ alparsai: 377 followers, 958 following
+[2025-12-19 15:56:57] [INFO] ✅ alpeeoqiw49588: 27 followers, 1048 following
+[2025-12-19 15:57:14] [INFO] ✅ alphard1black: 4211 followers, 920 following
+[2025-12-19 15:57:32] [INFO] ✅ alphawings: 1855 followers, 1330 following
+[2025-12-19 15:57:32] [INFO] Checkpoint saved: 910 users
+[2025-12-19 15:57:48] [WARNING] Insufficient data for alpiedeldeporte: only 1/3 fields
+[2025-12-19 15:58:03] [INFO] ✅ alpsina89: 87 followers, 651 following
+[2025-12-19 15:58:17] [WARNING] Insufficient data for alqaheranewstv: only 1/3 fields
+[2025-12-19 15:58:33] [INFO] ✅ alraqy51744: 0 followers, 11 following
+[2025-12-19 15:58:50] [INFO] ✅ alrfat13271: 362 followers, 5657 following
+[2025-12-19 15:58:50] [INFO] Checkpoint saved: 913 users
+[2025-12-19 15:59:10] [INFO] ✅ alrob844287: 346 followers, 2133 following
+[2025-12-19 15:59:26] [INFO] ✅ alrthaan21: 382 followers, 842 following
+[2025-12-19 15:59:43] [WARNING] Insufficient data for alsafi_husien: only 1/3 fields
+[2025-12-19 15:59:58] [INFO] ✅ alsenysalifouc8: 37 followers, 1360 following
+[2025-12-19 16:00:17] [WARNING] Insufficient data for alsharqiyatv: only 1/3 fields
+[2025-12-19 16:00:17] [INFO] Checkpoint saved: 916 users
+[2025-12-19 16:00:34] [INFO] ✅ alshiraz1: 270 followers, 2750 following
+[2025-12-19 16:00:50] [WARNING] Insufficient data for alsoumydaie: only 1/3 fields
+[2025-12-19 16:01:08] [INFO] ✅ alsreaei: 61 followers, 702 following
+[2025-12-19 16:01:27] [WARNING] Insufficient data for alsumariatv: only 1/3 fields
+[2025-12-19 16:01:44] [INFO] ✅ alsynya1: 220 followers, 1932 following
+[2025-12-19 16:01:44] [INFO] Checkpoint saved: 919 users
+[2025-12-19 16:01:58] [INFO] ✅ altaf_awan12: 1054 followers, 451 following
+[2025-12-19 16:02:14] [INFO] ✅ altalqany79443: 0 followers, 6 following
+[2025-12-19 16:02:28] [INFO] ✅ altendprod: 601 followers, 0 following
+[2025-12-19 16:02:45] [INFO] ✅ alterfutbol: 5702 followers, 58 following
+[2025-12-19 16:03:02] [INFO] ✅ altitudesr: None followers, 978 following
+[2025-12-19 16:03:02] [INFO] Checkpoint saved: 924 users
+[2025-12-19 16:03:20] [WARNING] Insufficient data for altitudetv: only 1/3 fields
+[2025-12-19 16:03:36] [WARNING] Insufficient data for altpress: only 1/3 fields
+[2025-12-19 16:03:50] [INFO] ✅ altynay1989: 0 followers, 1447 following
+[2025-12-19 16:04:07] [INFO] ✅ alwahda_int: 6643 followers, 24 following
+[2025-12-19 16:04:23] [WARNING] Insufficient data for alwahdafcc: only 1/3 fields
+[2025-12-19 16:04:23] [INFO] Checkpoint saved: 926 users
+[2025-12-19 16:04:37] [WARNING] Insufficient data for alwaslsc: only 1/3 fields
+[2025-12-19 16:04:55] [INFO] ✅ alyamaniyeen: 77 followers, 989 following
+[2025-12-19 16:05:10] [INFO] ✅ alybor11: None followers, 483 following
+[2025-12-19 16:05:28] [WARNING] Insufficient data for alytrostmartin: only 1/3 fields
+[2025-12-19 16:05:45] [INFO] ✅ alzindiana: 2667 followers, 1168 following
+[2025-12-19 16:05:45] [INFO] Checkpoint saved: 929 users
+[2025-12-19 16:05:59] [INFO] ✅ am2002rmost: 14 followers, 252 following
+[2025-12-19 16:06:16] [WARNING] Insufficient data for am_cinematheque: only 1/3 fields
+[2025-12-19 16:06:33] [INFO] ✅ amadei_paola: 162 followers, 28 following
+[2025-12-19 16:06:49] [INFO] ✅ amaeibahar30792: 1 followers, 83 following
+[2025-12-19 16:07:03] [INFO] ✅ amalsaad_lb: None followers, 1581 following
+[2025-12-19 16:07:03] [INFO] Checkpoint saved: 933 users
+[2025-12-19 16:07:20] [WARNING] Insufficient data for amanda_dgir: only 0/3 fields
+[2025-12-19 16:07:37] [WARNING] Insufficient data for amanda_vickery: only 0/3 fields
+[2025-12-19 16:07:53] [WARNING] Insufficient data for amandaaskell: only 0/3 fields
+[2025-12-19 16:07:53] [WARNING] 3 consecutive failures
+[2025-12-19 16:07:59] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-19 16:07:59] [INFO] Checkpoint saved: 933 users
+[2025-12-20 18:00:42] [INFO] === NEW RUN STARTED ===
+[2025-12-20 18:00:42] [INFO] Starting high-quality metadata collection
+[2025-12-20 18:00:42] [INFO] Loaded 20,128 connection records
+[2025-12-20 18:00:42] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 18:00:42] [INFO] Loading checkpoint for resume
+[2025-12-20 18:00:42] [INFO] Resuming from 933 users
+[2025-12-20 18:00:42] [INFO] Initializing Firefox
+[2025-12-20 18:01:06] [INFO] Cookies loaded successfully
+[2025-12-20 18:01:06] [INFO] Starting main processing loop
+[2025-12-20 18:01:15] [INFO] ✅ 0qcgdh3bdamfozf: 80 followers, 218 following
+[2025-12-20 18:01:26] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-20 18:01:39] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-20 18:01:51] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-20 18:02:01] [WARNING] Insufficient data for 4freedominiran: only 1/3 fields
+[2025-12-20 18:02:13] [WARNING] Insufficient data for 4noura: only 1/3 fields
+[2025-12-20 18:02:13] [WARNING] 5 consecutive failures
+[2025-12-20 18:02:21] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-20 18:02:21] [INFO] Checkpoint saved: 934 users
+[2025-12-20 18:13:09] [INFO] Initializing Firefox
+[2025-12-20 18:13:26] [INFO] Cookies loaded successfully
+[2025-12-20 18:13:41] [WARNING] Insufficient data for 4refugeewomen: only 1/3 fields
+[2025-12-20 18:13:57] [WARNING] Insufficient data for 6njeli: only 1/3 fields
+[2025-12-20 18:14:10] [WARNING] Insufficient data for 7negiashish: only 1/3 fields
+[2025-12-20 18:14:25] [WARNING] Insufficient data for 90ndstoppage: only 1/3 fields
+[2025-12-20 18:14:25] [INFO] Checkpoint saved: 934 users
+[2025-12-20 18:14:35] [WARNING] Insufficient data for _3pehr__: only 1/3 fields
+[2025-12-20 18:14:35] [WARNING] 5 consecutive failures
+[2025-12-20 18:14:43] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-20 18:14:43] [INFO] Checkpoint saved: 934 users
+[2025-12-20 19:04:42] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:04:42] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:04:42] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:04:42] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:04:42] [INFO] Loading checkpoint for resume
+[2025-12-20 19:04:42] [INFO] Resuming from 934 users
+[2025-12-20 19:04:42] [INFO] Initializing Firefox
+[2025-12-20 19:05:00] [INFO] Cookies loaded successfully
+[2025-12-20 19:05:00] [INFO] Starting main processing loop
+[2025-12-20 19:05:10] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-20 19:05:21] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-20 19:05:32] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-20 19:05:41] [WARNING] Insufficient data for 4freedominiran: only 1/3 fields
+[2025-12-20 19:05:51] [WARNING] Insufficient data for 4noura: only 1/3 fields
+[2025-12-20 19:05:51] [WARNING] 5 consecutive failures
+[2025-12-20 19:07:10] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:07:10] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:07:10] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:07:10] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:07:10] [INFO] Loading checkpoint for resume
+[2025-12-20 19:07:10] [INFO] Resuming from 934 users
+[2025-12-20 19:07:10] [INFO] Initializing Firefox
+[2025-12-20 19:07:25] [INFO] Cookies loaded successfully
+[2025-12-20 19:07:25] [INFO] Starting main processing loop
+[2025-12-20 19:07:36] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-20 19:07:49] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-20 19:08:02] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-20 19:08:16] [WARNING] Insufficient data for 4freedominiran: only 1/3 fields
+[2025-12-20 19:12:38] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:12:38] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:12:38] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:12:38] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:12:38] [INFO] Loading checkpoint for resume
+[2025-12-20 19:12:38] [INFO] Resuming from 934 users
+[2025-12-20 19:12:38] [INFO] Initializing Firefox
+[2025-12-20 19:12:50] [ERROR] Cookie loading failed: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+[2025-12-20 19:12:50] [INFO] Starting main processing loop
+[2025-12-20 19:13:01] [WARNING] Insufficient data for 2ndravanparish: only 1/3 fields
+[2025-12-20 19:13:13] [WARNING] Insufficient data for 3eyedamir: only 1/3 fields
+[2025-12-20 19:13:26] [WARNING] Insufficient data for 433_uae2: only 1/3 fields
+[2025-12-20 19:13:38] [INFO] ✅ 4freedominiran: None followers, 698 following
+[2025-12-20 19:13:51] [WARNING] Insufficient data for 4noura: only 1/3 fields
+[2025-12-20 19:14:03] [WARNING] Insufficient data for 4refugeewomen: only 1/3 fields
+[2025-12-20 19:14:16] [WARNING] Insufficient data for 6njeli: only 1/3 fields
+[2025-12-20 19:14:29] [WARNING] Insufficient data for 7negiashish: only 1/3 fields
+[2025-12-20 19:14:40] [WARNING] Insufficient data for 90ndstoppage: only 1/3 fields
+[2025-12-20 19:14:40] [WARNING] 5 consecutive failures
+[2025-12-20 19:14:47] [BLOCK] Block confirmed: Redirected to login/error
+[2025-12-20 19:14:47] [INFO] Checkpoint saved: 935 users
+[2025-12-20 19:17:42] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:17:42] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:17:42] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:17:42] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:17:42] [INFO] Loading checkpoint for resume
+[2025-12-20 19:17:42] [INFO] Resuming from 935 users
+[2025-12-20 19:17:42] [INFO] Initializing Firefox
+[2025-12-20 19:17:56] [INFO] Cookies loaded successfully
+[2025-12-20 19:17:56] [INFO] Starting main processing loop
+[2025-12-20 19:18:06] [INFO] ✅ 2ndravanparish: None followers, 35 following
+[2025-12-20 19:18:19] [INFO] ✅ 3eyedamir: None followers, 438 following
+[2025-12-20 19:18:31] [INFO] ✅ 433_uae2: None followers, 178 following
+[2025-12-20 19:18:42] [INFO] ✅ 4noura: None followers, 2719 following
+[2025-12-20 19:18:58] [INFO] ✅ 4refugeewomen: None followers, 3581 following
+[2025-12-20 19:19:13] [INFO] ✅ 6njeli: None followers, 164 following
+[2025-12-20 19:19:31] [INFO] ✅ 7negiashish: None followers, 609 following
+[2025-12-20 19:19:44] [INFO] ✅ 90ndstoppage: None followers, 566 following
+[2025-12-20 19:19:56] [INFO] ✅ _3pehr__: None followers, 31 following
+[2025-12-20 19:20:11] [INFO] ✅ __injaneb96: None followers, 837 following
+[2025-12-20 19:20:11] [INFO] Checkpoint saved: 945 users
+[2025-12-20 19:20:23] [INFO] ✅ __thatisgirl__: None followers, 53 following
+[2025-12-20 19:20:37] [INFO] ✅ _adilhussain: None followers, 3580 following
+[2025-12-20 19:20:48] [INFO] ✅ _caioroque: None followers, 881 following
+[2025-12-20 19:24:35] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:24:35] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:24:35] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:24:35] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:24:35] [INFO] Loading checkpoint for resume
+[2025-12-20 19:24:35] [INFO] Resuming from 945 users
+[2025-12-20 19:24:35] [INFO] Initializing Firefox
+[2025-12-20 19:24:49] [INFO] Cookies loaded successfully
+[2025-12-20 19:24:49] [INFO] Starting main processing loop
+[2025-12-20 19:24:59] [INFO] ✅ __thatisgirl__: None followers, 53 following
+[2025-12-20 19:25:14] [INFO] ✅ _adilhussain: None followers, 3580 following
+[2025-12-20 19:25:26] [INFO] ✅ _caioroque: None followers, 881 following
+[2025-12-20 19:25:39] [INFO] Account not found: _f_22_
+[2025-12-20 19:25:50] [WARNING] Insufficient data for _germanzero: only 1/3 fields
+[2025-12-20 19:26:03] [WARNING] Insufficient data for _gsayla_: only 1/3 fields
+[2025-12-20 19:26:15] [INFO] ✅ _ihrec: None followers, 2421 following
+[2025-12-20 19:26:28] [WARNING] Insufficient data for _indisky: only 1/3 fields
+[2025-12-20 19:26:40] [ERROR] Failed to get page text for _kamyark_
+[2025-12-20 19:39:52] [INFO] === NEW RUN STARTED ===
+[2025-12-20 19:39:52] [INFO] Starting high-quality metadata collection
+[2025-12-20 19:39:52] [INFO] Loaded 20,128 connection records
+[2025-12-20 19:39:52] [INFO] Valid usernames: 14,367, Invalid: 63
+[2025-12-20 19:39:52] [INFO] Loading checkpoint for resume
+[2025-12-20 19:39:52] [INFO] Resuming from 945 users
+[2025-12-20 19:39:52] [INFO] Initializing Firefox
+[2025-12-20 19:40:07] [INFO] Cookies loaded successfully
+[2025-12-20 19:40:07] [INFO] Starting main processing loop
+[2025-12-20 19:40:17] [WARNING] Insufficient data for __thatisgirl__: only 1/3 fields

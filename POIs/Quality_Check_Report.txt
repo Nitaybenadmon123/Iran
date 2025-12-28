@@ -1,0 +1,21 @@
+================================================================================
+QUALITY CHECK REPORT - Manual_Search_POIs_Unique.csv
+Generated: 2025-12-16 17:35:53.670230
+================================================================================
+
+Total users: 378
+With Wikipedia: 378 (100.0%)
+Iranian name patterns: 69 (18.3%)
+Suspicious usernames: 13
+
+Top 10 sources:
+  - Candidates: 186
+  - iranian_activists: 69
+  - iranian_actors: 55
+  - iranian_footballers: 26
+  - iranian_writers: 14
+  - iranian_ayatollahs: 6
+  - iranian_wrestlers: 6
+  - iranian_singers: 4
+  - iranian_economists: 3
+  - iranian_scientists: 2

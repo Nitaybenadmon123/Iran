@@ -1,32 +1,221 @@
-﻿metric,num_pois_total,avg_followers,avg_following,avg_posts,generated_at_utc
-overview,316,316940.0,1181.0,12706.0,20251108_130248
+======================================================================
+OVERALL STATISTICS
+======================================================================
+Total POIs,343
+Average Followers,223738
+Average Following,1155
+Average Posts,17623
 
-# --- by category ---
-category,Num_POIs,Avg_Followers,Avg_Following,Avg_Posts
-21st-century_iranian_physicians,5,146738.0,103.0,5037.0
-government_ministers_of_iran,18,339251.0,422.0,21800.0
-healthcare_in_iran,15,161339.0,508.0,13381.0
-iranian_actors,61,77963.0,1781.0,9086.0
-iranian_ayatollahs,6,791053.0,38.0,16772.0
-iranian_economists,5,52128.0,276.0,7856.0
-iranian_football_managers,5,688245.0,91.0,9888.0
-iranian_physicians,3,625830.0,1192.0,59916.0
-iranian_scientists,56,156708.0,1308.0,8204.0
-iranian_singers,51,789917.0,1543.0,12898.0
-iranian_writers,218,257681.0,1238.0,13928.0
-medical_and_health_organisations_based_in_iran,3,406788.0,55.0,18489.0
-medicine_in_iran,3,406788.0,55.0,18489.0
-presidents_of_iran,20,608912.0,328.0,8025.0
-vice_presidents_of_iran,6,53381.0,1194.0,6415.0
+======================================================================
+TABLE 1: SUMMARY BY CATEGORY
+======================================================================
+category,Num_POIs,Avg_Followers,Avg_Following,Avg_Posts
+Candidates,67,207858,1238,11248
+iranian_activists,63,434124,930,29704
+iranian_actors,48,90784,1933,10540
+iranian_journalists,45,81837,2265,19989
+iranian_writers,31,126667,720,15768
+iranian_singers,22,539383,181,3408
+iranian_footballers,21,80562,377,36869
+iranian_politicians,19,169171,719,16672
+iranian_scientists,6,23218,732,13665
+iranian_ayatollahs,5,526647,40,17764
+iranian_wrestlers,4,29247,351,1339
+iranian_economists,4,196875,494,15911
+iranian_taekwondo_practitioners,2,1350002,1236,51000
+iranian_rappers,2,148550,38,407
+iranian_physicians,1,20800,373,1665
+iranian_football_managers,1,2,42,60
+iranian_comedians,1,20300,567,6475
+iranian_weightlifters,1,11100,514,8628
 
-# --- by occupation ---
-Occupation,Count,Percentage (%)
-Artist,48,15.2
-Athlete,3,0.9
-Healthcare,3,0.9
-Journalist,27,8.5
-Other/Unknown,115,36.4
-Politician,26,8.2
-Scientist,10,3.2
-Unknown,68,21.5
-Writer,16,5.1
+======================================================================
+TABLE 2: OCCUPATION DISTRIBUTION
+======================================================================
+Occupation,Count,Percentage
+journalist,53,15.5
+actor,41,12.0
+politician,40,11.7
+writer,38,11.1
+singer,32,9.3
+association football player,26,7.6
+film director,19,5.5
+film actor,17,5.0
+songwriter,16,4.7
+composer,14,4.1
+television actor,13,3.8
+musician,13,3.8
+university teacher,12,3.5
+screenwriter,12,3.5
+poet,12,3.5
+academic,10,2.9
+model,10,2.9
+essayist,10,2.9
+translator,9,2.6
+human rights defender,9,2.6
+philosopher,7,2.0
+blogger,7,2.0
+engineer,7,2.0
+film producer,7,2.0
+novelist,6,1.7
+economist,6,1.7
+stage actor,6,1.7
+diplomat,5,1.5
+television presenter,5,1.5
+comedian,5,1.5
+political activist,5,1.5
+military personnel,5,1.5
+guitarist,5,1.5
+rapper,5,1.5
+activist,4,1.2
+lawyer,4,1.2
+historian,4,1.2
+amateur wrestler,4,1.2
+painter,4,1.2
+association football coach,4,1.2
+entrepreneur,4,1.2
+businessperson,4,1.2
+professor,4,1.2
+sociologist,3,0.9
+architect,3,0.9
+presenter,3,0.9
+physician,3,0.9
+akhoond,3,0.9
+political scientist,3,0.9
+playwright,3,0.9
+photographer,3,0.9
+literary critic,3,0.9
+researcher,3,0.9
+author,3,0.9
+voice actor,3,0.9
+orator,3,0.9
+music artist,3,0.9
+Islamic jurist,2,0.6
+theatrical director,2,0.6
+humorist,2,0.6
+women's rights activist,2,0.6
+biologist,2,0.6
+film editor,2,0.6
+artist,2,0.6
+environmentalist,2,0.6
+correspondent,2,0.6
+recording artist,2,0.6
+astronomer,2,0.6
+theologian,2,0.6
+lyricist,2,0.6
+stand-up comedian,2,0.6
+record producer,2,0.6
+psychologist,2,0.6
+television producer,2,0.6
+electrical engineer,2,0.6
+taekwondo athlete,2,0.6
+social activist,2,0.6
+reporter,2,0.6
+philanthropist,1,0.3
+hunter,1,0.3
+conservationist,1,0.3
+queen consort,1,0.3
+cleric,1,0.3
+career diplomat,1,0.3
+political prisoner,1,0.3
+teacher,1,0.3
+exhibition curator,1,0.3
+contemporary artist,1,0.3
+art historian,1,0.3
+printmaker,1,0.3
+political analyst,1,0.3
+art collector,1,0.3
+surgeon,1,0.3
+urologist,1,0.3
+lobbyist,1,0.3
+dentist,1,0.3
+professional wrestler,1,0.3
+newspaper editor,1,0.3
+Internet activist,1,0.3
+pornographic actor,1,0.3
+bodybuilder,1,0.3
+propagandist,1,0.3
+environmental scientist,1,0.3
+qadi,1,0.3
+general practitioner,1,0.3
+conspiracy theorist,1,0.3
+opera singer,1,0.3
+designer,1,0.3
+beach soccer player,1,0.3
+immunologist,1,0.3
+mathematician,1,0.3
+game designer,1,0.3
+talent manager,1,0.3
+YouTuber,1,0.3
+military officer,1,0.3
+marji',1,0.3
+promotional model,1,0.3
+general surgeon,1,0.3
+open access activist,1,0.3
+open content activist,1,0.3
+cabaret performer,1,0.3
+cardiac surgeon,1,0.3
+photojournalist,1,0.3
+podcaster,1,0.3
+lecturer,1,0.3
+chef,1,0.3
+singer-songwriter,1,0.3
+director,1,0.3
+beauty pageant contestant,1,0.3
+biographer,1,0.3
+opinion journalist,1,0.3
+non-fiction writer,1,0.3
+geneticist,1,0.3
+inventor,1,0.3
+scientist,1,0.3
+radiologist,1,0.3
+executive producer,1,0.3
+terrorist,1,0.3
+influencer,1,0.3
+public figure,1,0.3
+powerlifter,1,0.3
+expert,1,0.3
+certified translator,1,0.3
+drama teacher,1,0.3
+programmer,1,0.3
+music executive,1,0.3
+adviser,1,0.3
+social worker,1,0.3
+costume designer,1,0.3
+radio personality,1,0.3
+political writer,1,0.3
+television personality,1,0.3
+editor-in-chief,1,0.3
+television director,1,0.3
+epidemiologist,1,0.3
+oncologist,1,0.3
+nanotechnologist,1,0.3
+toxicologist,1,0.3
+whistleblower,1,0.3
+LGBTQ rights activist,1,0.3
+publisher,1,0.3
+sculptor,1,0.3
+business theorist,1,0.3
+scholar,1,0.3
+artificial intelligence researcher,1,0.3
+computer scientist,1,0.3
+civil engineer,1,0.3
+video journalist,1,0.3
+internationalist,1,0.3
+pianist,1,0.3
+performing artist,1,0.3
+restaurateur,1,0.3
+physicist,1,0.3
+theoretical physicist,1,0.3
+linguist,1,0.3
+filmmaker,1,0.3
+documentary filmmaker,1,0.3
+line producer,1,0.3
+music arranger,1,0.3
+vocalist,1,0.3
+chairperson,1,0.3
+editor,1,0.3
+chemist,1,0.3
+banker,1,0.3
+civil servant,1,0.3
+jurist,1,0.3
