@@ -1822,7 +1822,7 @@ iteration,target_column,#classes,#class_0,#class_1,#class_2,min_class_size,train
 2,target_population,3,85,73,40,40,LOOCV,198,AdaBoost,TFIDF_username,198,False,0.4292929292929293,0.184292419140904,0.4292929292929293,0.2578791448049399,,iteration_2_merged
 2,target_population,3,40,40,40,40,LOOCV,120,AdaBoost,TFIDF_username,198,True,0.0,0.0,0.0,0.0,,iteration_2_merged
 2,target_population,2,85,73,0,73,LOOCV,158,AdaBoost,TFIDF_username,198,False,0.5379746835443038,0.0,0.0,0.0,0.0,iteration_2_merged
-2,target_population,2,73,73,0,73,LOOCV,146,AdaBoost,TFIDF_username,198,True,1.0,1.0,1.0,1.0,1.0,iteration_2_merged
+2,target_population,2,73,73,0,73,LOOCV,146,AdaBoost,TFIDF_username,198,True,1.0,1.0,1.0,1.0,1,iteration_2_merged
 2,target_population,3,85,73,40,40,KFold,5,LogReg,TFIDF_full_name,200,False,0.5,0.46463308421400906,0.5,0.402114326353118,,iteration_2_merged
 2,target_population,3,40,40,40,40,KFold,5,LogReg,TFIDF_full_name,200,True,0.35833333333333334,0.4097113836244271,0.35833333333333334,0.32893529504825186,,iteration_2_merged
 2,target_population,2,85,73,0,73,KFold,5,LogReg,TFIDF_full_name,200,False,0.6329113924050633,0.9411764705882353,0.2191780821917808,0.35555555555555557,0.5735697018533441,iteration_2_merged
