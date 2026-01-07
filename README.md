@@ -58,23 +58,29 @@ For final target users:
 
 ---
 
-## 🗂️ Repository Structure (Suggested)
+## 🗂️ Repository Structure
+
 ProjectRoot/
+
 ├── POIs/
+
 │ ├── <category_1>/
 │ ├── <category_2>/
 │ └── ...
 ├── Candidates/
+
 │ ├── POIs_candidate_connections.csv
 │ ├── Candidates_user_data.csv
 │ └── ...
 ├── Classification/
+
 │ ├── iteration_1_.csv
 │ ├── iteration_2_.csv
 │ ├── iteration_3_*.csv
 │ ├── experiments_results.csv
 │ └── ...
 ├── Data/
+
 │ ├── Users_Timelines/
 │ ├── Posts/
 │ └── Topics/
