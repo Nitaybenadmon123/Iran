@@ -1,0 +1,21 @@
+username,display_name,description,followers_count,following_count,predicted_class,confidence_level,confidence_band,prob_0,prob_1,prob_2,uncertainty_score,manual_label,sampling_note
+ahmadreza_ka,Ahmadreza,,3.0,34.0,1,0.5128628740998569,0.50-0.60,0.4871371259001431,0.5128628740998569,,0.4871371259001431,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+afrasimoha50416,Mohammad Afrasi,,0.0,59.0,1,0.5786934924940916,0.50-0.60,0.4213065075059083,0.5786934924940916,,0.4213065075059083,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+akbarkhan025,Akbar kakar,pashtoonkhwa S O,3.0,141.0,1,0.5598683528926666,0.50-0.60,0.4401316471073334,0.5598683528926666,,0.4401316471073334,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+ali_cheshomi,علی چشمی,استادیار گروه اقتصاد دانشگاه فردوسی مشهد,4919.0,202.0,1,0.5310519532112482,0.50-0.60,0.4689480467887518,0.5310519532112482,,0.4689480467887518,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+1wqrz,snopy .,الحمدلله ..,60.0,132.0,1,0.5231214718992204,0.50-0.60,0.4768785281007796,0.5231214718992204,,0.4768785281007796,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+aami_r1385,۵ مارس ۲۰۰۷,,0.0,8.0,0,0.5997107991711679,0.50-0.60,0.5997107991711679,0.4002892008288322,,0.4002892008288321,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+adriirov,Adri,,0.0,49.0,0,0.517985677225834,0.50-0.60,0.517985677225834,0.482014322774166,,0.482014322774166,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+___cfilm,🎞️,,0.0,424.0,1,0.5848509295865713,0.50-0.60,0.4151490704134287,0.5848509295865713,,0.4151490704134287,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+ajmaldashti17,Ajmal Dashti,,0.0,81.0,1,0.5059713189634605,0.50-0.60,0.4940286810365395,0.5059713189634605,,0.4940286810365395,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+ahmadi_abb27030,abbas ahmadi,,9.0,191.0,1,0.5435679973884816,0.50-0.60,0.4564320026115184,0.5435679973884816,,0.4564320026115184,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+aliesmaeilib,Ali,,0.0,15.0,1,0.5587255208356333,0.50-0.60,0.4412744791643667,0.5587255208356333,,0.4412744791643667,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+alirezaw_77,Alireza Ejarestaghi,I ɴᴇᴇᴅ ᴀ ʙʀᴇᴀᴋ ғʀᴏᴍ ᴀʟʟ ᴛʜɪs ʙᴜʟʟsʜɪᴛ,1.0,11.0,1,0.588153845357068,0.50-0.60,0.4118461546429319,0.588153845357068,,0.4118461546429319,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+abn0029,N.P.L,"Les petites filles obéissantes vont au paradis, les autres vont ou elles veulent",113.0,337.0,1,0.5669641281172716,0.50-0.60,0.4330358718827284,0.5669641281172716,,0.4330358718827284,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+ajgerimsag41079,Айгерим Сагындыкова,,1.0,35.0,0,0.5349065532709478,0.50-0.60,0.5349065532709478,0.4650934467290522,,0.4650934467290522,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+abdollahia64050,Ashoo Abdollahi,,3.0,64.0,0,0.5073948422771262,0.50-0.60,0.5073948422771262,0.4926051577228739,,0.4926051577228738,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+acharya_pa1,Pawan Acharya,Postdoctoral Scholar at UAB,334.0,639.0,1,0.5954682182573392,0.50-0.60,0.4045317817426608,0.5954682182573392,,0.4045317817426608,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+alahwazireza,Alahwazi Ridha,,389.0,397.0,1,0.5728881869459406,0.50-0.60,0.4271118130540594,0.5728881869459406,,0.4271118130540594,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+abas_asgharpour,abas asgharpour,شاعر و نویسنده,65.0,62.0,1,0.5097705486704674,0.50-0.60,0.4902294513295325,0.5097705486704674,,0.4902294513295325,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+abol1159817,ABOL,ɪ ᴄᴀɴ'ᴛ ʙᴇʟɪᴠᴇ ʏᴏᴜ ʟᴇғᴛ,0.0,8.0,0,0.5997107991711679,0.50-0.60,0.5997107991711679,0.4002892008288322,,0.4002892008288321,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
+alirezaketabch3,alirezaketabchi,Nor bar tariki piroz khahad shod,15.0,36.0,0,0.5367376451679624,0.50-0.60,0.5367376451679624,0.4632623548320375,,0.4632623548320376,,iteration_5_person_vs_organization_confidence_band=0.50-0.60
