@@ -1,0 +1,7 @@
+{
+  "workbench.editorAssociations": {
+    "*.csv": "gc-excelviewer-csv-editor",
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "file:/**/*.csv": "jupyter-data-wrangler"
+}
+}
