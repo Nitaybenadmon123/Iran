@@ -1,0 +1,1047 @@
+2026-02-15 23:16:39,517 - INFO - ================================================================================
+2026-02-15 23:16:39,526 - INFO - STAGE 19: TRANSLATE TEXT COLUMN ONLY
+2026-02-15 23:16:39,528 - INFO - ================================================================================
+2026-02-15 23:16:39,529 - INFO - Input directory: c:\Users\idant\iran\Iran\Data\Users_Timelines
+2026-02-15 23:16:39,530 - INFO - Output file: c:\Users\idant\iran\Iran\outputs\all_users_timelines_translated_en.csv
+2026-02-15 23:16:39,531 - INFO - Initializing translator (Persian to English)...
+2026-02-15 23:16:39,550 - INFO - Found 166 CSV files to process
+2026-02-15 23:16:39,550 - INFO - 
+[1/166] Processing: 0alwaysdreamer0_timeline.csv
+2026-02-15 23:16:39,935 - WARNING -   No 'Text' column in 0alwaysdreamer0_timeline.csv, skipping
+2026-02-15 23:16:39,935 - INFO - 
+[2/166] Processing: 0mfahzf4tebztdl_timeline.csv
+2026-02-15 23:16:39,986 - WARNING -   No 'Text' column in 0mfahzf4tebztdl_timeline.csv, skipping
+2026-02-15 23:16:39,986 - INFO - 
+[3/166] Processing: 105_sakariyou_timeline.csv
+2026-02-15 23:16:40,039 - WARNING -   No 'Text' column in 105_sakariyou_timeline.csv, skipping
+2026-02-15 23:16:40,042 - INFO - 
+[4/166] Processing: 1364ghazal62816_timeline.csv
+2026-02-15 23:16:40,086 - WARNING -   No 'Text' column in 1364ghazal62816_timeline.csv, skipping
+2026-02-15 23:16:40,088 - INFO - 
+[5/166] Processing: 1pezeshk_plus_timeline.csv
+2026-02-15 23:16:40,118 - WARNING -   No 'Text' column in 1pezeshk_plus_timeline.csv, skipping
+2026-02-15 23:16:40,119 - INFO - 
+[6/166] Processing: 1wqrz.csv
+2026-02-15 23:16:40,158 - WARNING -   No 'Text' column in 1wqrz.csv, skipping
+2026-02-15 23:16:40,158 - INFO - 
+[7/166] Processing: 1wqrz_timeline.csv
+2026-02-15 23:16:40,190 - WARNING -   No 'Text' column in 1wqrz_timeline.csv, skipping
+2026-02-15 23:16:40,200 - INFO - 
+[8/166] Processing: 2_rebelgirl_timeline.csv
+2026-02-15 23:16:40,228 - WARNING -   No 'Text' column in 2_rebelgirl_timeline.csv, skipping
+2026-02-15 23:16:40,230 - INFO - 
+[9/166] Processing: 2bender_timeline.csv
+2026-02-15 23:16:40,261 - WARNING -   No 'Text' column in 2bender_timeline.csv, skipping
+2026-02-15 23:16:40,263 - INFO - 
+[10/166] Processing: 2ndravanparish_timeline.csv
+2026-02-15 23:16:40,295 - WARNING -   No 'Text' column in 2ndravanparish_timeline.csv, skipping
+2026-02-15 23:16:40,295 - INFO - 
+[11/166] Processing: 2x0x2x4.csv
+2026-02-15 23:16:40,329 - WARNING -   No 'Text' column in 2x0x2x4.csv, skipping
+2026-02-15 23:16:40,335 - INFO - 
+[12/166] Processing: 2x0x2x4_timeline.csv
+2026-02-15 23:16:40,367 - WARNING -   No 'Text' column in 2x0x2x4_timeline.csv, skipping
+2026-02-15 23:16:40,369 - INFO - 
+[13/166] Processing: 35anj.csv
+2026-02-15 23:16:40,607 - WARNING -   No 'Text' column in 35anj.csv, skipping
+2026-02-15 23:16:40,607 - INFO - 
+[14/166] Processing: 35anj_timeline.csv
+2026-02-15 23:16:40,622 - WARNING -   No 'Text' column in 35anj_timeline.csv, skipping
+2026-02-15 23:16:40,622 - INFO - 
+[15/166] Processing: 3eyedamir_timeline.csv
+2026-02-15 23:16:40,662 - WARNING -   No 'Text' column in 3eyedamir_timeline.csv, skipping
+2026-02-15 23:16:40,664 - INFO - 
+[16/166] Processing: 3tareee_timeline.csv
+2026-02-15 23:16:40,697 - WARNING -   No 'Text' column in 3tareee_timeline.csv, skipping
+2026-02-15 23:16:40,700 - INFO - 
+[17/166] Processing: 5y6aahcdftzn4me_timeline.csv
+2026-02-15 23:16:40,731 - WARNING -   No 'Text' column in 5y6aahcdftzn4me_timeline.csv, skipping
+2026-02-15 23:16:40,734 - INFO - 
+[18/166] Processing: 61pari93357.csv
+2026-02-15 23:16:40,769 - WARNING -   No 'Text' column in 61pari93357.csv, skipping
+2026-02-15 23:16:40,770 - INFO - 
+[19/166] Processing: 61pari93357_timeline.csv
+2026-02-15 23:16:40,804 - WARNING -   No 'Text' column in 61pari93357_timeline.csv, skipping
+2026-02-15 23:16:40,806 - INFO - 
+[20/166] Processing: _ali_najjar__timeline.csv
+2026-02-15 23:16:40,814 - WARNING -   No 'Text' column in _ali_najjar__timeline.csv, skipping
+2026-02-15 23:16:40,817 - INFO - 
+[21/166] Processing: _aliemili__timeline.csv
+2026-02-15 23:16:40,846 - WARNING -   No 'Text' column in _aliemili__timeline.csv, skipping
+2026-02-15 23:16:40,851 - INFO - 
+[22/166] Processing: _angry_n____timeline.csv
+2026-02-15 23:16:40,883 - WARNING -   No 'Text' column in _angry_n____timeline.csv, skipping
+2026-02-15 23:16:40,886 - INFO - 
+[23/166] Processing: _h_o_o_r_.csv
+2026-02-15 23:16:40,919 - WARNING -   No 'Text' column in _h_o_o_r_.csv, skipping
+2026-02-15 23:16:40,921 - INFO - 
+[24/166] Processing: _h_o_o_r__timeline.csv
+2026-02-15 23:16:40,954 - WARNING -   No 'Text' column in _h_o_o_r__timeline.csv, skipping
+2026-02-15 23:16:40,956 - INFO - 
+[25/166] Processing: _iweni_timeline.csv
+2026-02-15 23:16:40,988 - WARNING -   No 'Text' column in _iweni_timeline.csv, skipping
+2026-02-15 23:16:40,990 - INFO - 
+[26/166] Processing: _iwftw.csv
+2026-02-15 23:16:41,016 - WARNING -   No 'Text' column in _iwftw.csv, skipping
+2026-02-15 23:16:41,018 - INFO - 
+[27/166] Processing: _iwftw_timeline.csv
+2026-02-15 23:16:41,046 - WARNING -   No 'Text' column in _iwftw_timeline.csv, skipping
+2026-02-15 23:16:41,049 - INFO - 
+[28/166] Processing: _mahdiyar313_timeline.csv
+2026-02-15 23:16:41,077 - WARNING -   No 'Text' column in _mahdiyar313_timeline.csv, skipping
+2026-02-15 23:16:41,078 - INFO - 
+[29/166] Processing: _mehrabooon.csv
+2026-02-15 23:16:41,102 - WARNING -   No 'Text' column in _mehrabooon.csv, skipping
+2026-02-15 23:16:41,104 - INFO - 
+[30/166] Processing: _mehrabooon_timeline.csv
+2026-02-15 23:16:41,140 - WARNING -   No 'Text' column in _mehrabooon_timeline.csv, skipping
+2026-02-15 23:16:41,142 - INFO - 
+[31/166] Processing: _thejimbo__timeline.csv
+2026-02-15 23:16:41,166 - WARNING -   No 'Text' column in _thejimbo__timeline.csv, skipping
+2026-02-15 23:16:41,167 - INFO - 
+[32/166] Processing: _theleftover_timeline.csv
+2026-02-15 23:16:41,209 - WARNING -   No 'Text' column in _theleftover_timeline.csv, skipping
+2026-02-15 23:16:41,210 - INFO - 
+[33/166] Processing: _ya_karim__timeline.csv
+2026-02-15 23:16:41,243 - WARNING -   No 'Text' column in _ya_karim__timeline.csv, skipping
+2026-02-15 23:16:41,244 - INFO - 
+[34/166] Processing: a_abothman_timeline.csv
+2026-02-15 23:16:41,267 - WARNING -   No 'Text' column in a_abothman_timeline.csv, skipping
+2026-02-15 23:16:41,268 - INFO - 
+[35/166] Processing: a_rnazari_timeline.csv
+2026-02-15 23:16:41,292 - WARNING -   No 'Text' column in a_rnazari_timeline.csv, skipping
+2026-02-15 23:16:41,293 - INFO - 
+[36/166] Processing: a_z_im_timeline.csv
+2026-02-15 23:16:41,320 - WARNING -   No 'Text' column in a_z_im_timeline.csv, skipping
+2026-02-15 23:16:41,322 - INFO - 
+[37/166] Processing: aa1915898.csv
+2026-02-15 23:16:41,347 - WARNING -   No 'Text' column in aa1915898.csv, skipping
+2026-02-15 23:16:41,349 - INFO - 
+[38/166] Processing: aa1915898_timeline.csv
+2026-02-15 23:16:41,378 - WARNING -   No 'Text' column in aa1915898_timeline.csv, skipping
+2026-02-15 23:16:41,380 - INFO - 
+[39/166] Processing: aaalirz.csv
+2026-02-15 23:16:41,409 - WARNING -   No 'Text' column in aaalirz.csv, skipping
+2026-02-15 23:16:41,411 - INFO - 
+[40/166] Processing: aaalirz_timeline.csv
+2026-02-15 23:16:41,436 - WARNING -   No 'Text' column in aaalirz_timeline.csv, skipping
+2026-02-15 23:16:41,438 - INFO - 
+[41/166] Processing: aahassas.csv
+2026-02-15 23:16:41,480 - WARNING -   No 'Text' column in aahassas.csv, skipping
+2026-02-15 23:16:41,483 - INFO - 
+[42/166] Processing: aahassas_timeline.csv
+2026-02-15 23:16:41,528 - WARNING -   No 'Text' column in aahassas_timeline.csv, skipping
+2026-02-15 23:16:41,529 - INFO - 
+[43/166] Processing: aban_paris_timeline.csv
+2026-02-15 23:16:41,560 - WARNING -   No 'Text' column in aban_paris_timeline.csv, skipping
+2026-02-15 23:16:41,562 - INFO - 
+[44/166] Processing: abas_asgharpour.csv
+2026-02-15 23:16:41,580 - WARNING -   No 'Text' column in abas_asgharpour.csv, skipping
+2026-02-15 23:16:41,581 - INFO - 
+[45/166] Processing: abas_asgharpour_timeline.csv
+2026-02-15 23:16:41,606 - WARNING -   No 'Text' column in abas_asgharpour_timeline.csv, skipping
+2026-02-15 23:16:41,607 - INFO - 
+[46/166] Processing: abasiabbassi_timeline.csv
+2026-02-15 23:16:41,631 - WARNING -   No 'Text' column in abasiabbassi_timeline.csv, skipping
+2026-02-15 23:16:41,633 - INFO - 
+[47/166] Processing: abba3pakbin.csv
+2026-02-15 23:16:41,656 - WARNING -   No 'Text' column in abba3pakbin.csv, skipping
+2026-02-15 23:16:41,657 - INFO - 
+[48/166] Processing: abba3pakbin_timeline.csv
+2026-02-15 23:16:41,682 - WARNING -   No 'Text' column in abba3pakbin_timeline.csv, skipping
+2026-02-15 23:16:41,683 - INFO - 
+[49/166] Processing: abbasalawadi6_timeline.csv
+2026-02-15 23:16:41,705 - WARNING -   No 'Text' column in abbasalawadi6_timeline.csv, skipping
+2026-02-15 23:16:41,706 - INFO - 
+[50/166] Processing: abbasi_j_5_timeline.csv
+2026-02-15 23:16:41,748 - WARNING -   No 'Text' column in abbasi_j_5_timeline.csv, skipping
+2026-02-15 23:16:41,749 - INFO - 
+[51/166] Processing: abbasi_students.csv
+2026-02-15 23:16:41,776 - WARNING -   No 'Text' column in abbasi_students.csv, skipping
+2026-02-15 23:16:41,778 - INFO - 
+[52/166] Processing: abbasi_students_timeline.csv
+2026-02-15 23:16:41,802 - WARNING -   No 'Text' column in abbasi_students_timeline.csv, skipping
+2026-02-15 23:16:41,803 - INFO - 
+[53/166] Processing: abbasiniho_timeline.csv
+2026-02-15 23:16:41,827 - WARNING -   No 'Text' column in abbasiniho_timeline.csv, skipping
+2026-02-15 23:16:41,828 - INFO - 
+[54/166] Processing: abbasmehdavi312_timeline.csv
+2026-02-15 23:16:41,853 - WARNING -   No 'Text' column in abbasmehdavi312_timeline.csv, skipping
+2026-02-15 23:16:41,854 - INFO - 
+[55/166] Processing: abdeekalantari.csv
+2026-02-15 23:16:41,874 - WARNING -   No 'Text' column in abdeekalantari.csv, skipping
+2026-02-15 23:16:41,876 - INFO - 
+[56/166] Processing: abdeekalantari_timeline.csv
+2026-02-15 23:16:41,909 - WARNING -   No 'Text' column in abdeekalantari_timeline.csv, skipping
+2026-02-15 23:16:41,911 - INFO - 
+[57/166] Processing: abdolhamidnetar.csv
+2026-02-15 23:16:41,930 - WARNING -   No 'Text' column in abdolhamidnetar.csv, skipping
+2026-02-15 23:16:41,932 - INFO - 
+[58/166] Processing: abdolhamidnetar_timeline.csv
+2026-02-15 23:16:41,965 - WARNING -   No 'Text' column in abdolhamidnetar_timeline.csv, skipping
+2026-02-15 23:16:41,967 - INFO - 
+[59/166] Processing: abdollahram.csv
+2026-02-15 23:16:41,983 - WARNING -   No 'Text' column in abdollahram.csv, skipping
+2026-02-15 23:16:41,983 - INFO - 
+[60/166] Processing: abdollahram_timeline.csv
+2026-02-15 23:16:42,036 - WARNING -   No 'Text' column in abdollahram_timeline.csv, skipping
+2026-02-15 23:16:42,037 - INFO - 
+[61/166] Processing: abdulwadudkha12.csv
+2026-02-15 23:16:42,053 - WARNING -   No 'Text' column in abdulwadudkha12.csv, skipping
+2026-02-15 23:16:42,068 - INFO - 
+[62/166] Processing: abdulwadudkha12_timeline.csv
+2026-02-15 23:16:42,095 - WARNING -   No 'Text' column in abdulwadudkha12_timeline.csv, skipping
+2026-02-15 23:16:42,097 - INFO - 
+[63/166] Processing: abed33474966_timeline.csv
+2026-02-15 23:16:42,121 - WARNING -   No 'Text' column in abed33474966_timeline.csv, skipping
+2026-02-15 23:16:42,121 - INFO - 
+[64/166] Processing: abedimonfared1_timeline.csv
+2026-02-15 23:16:42,158 - WARNING -   No 'Text' column in abedimonfared1_timeline.csv, skipping
+2026-02-15 23:16:42,160 - INFO - 
+[65/166] Processing: abehtarin_timeline.csv
+2026-02-15 23:16:42,185 - WARNING -   No 'Text' column in abehtarin_timeline.csv, skipping
+2026-02-15 23:16:42,187 - INFO - 
+[66/166] Processing: abolie17386_timeline.csv
+2026-02-15 23:16:42,210 - WARNING -   No 'Text' column in abolie17386_timeline.csv, skipping
+2026-02-15 23:16:42,211 - INFO - 
+[67/166] Processing: aboutmes7_timeline.csv
+2026-02-15 23:16:42,231 - WARNING -   No 'Text' column in aboutmes7_timeline.csv, skipping
+2026-02-15 23:16:42,232 - INFO - 
+[68/166] Processing: absmadridista_timeline.csv
+2026-02-15 23:16:42,257 - WARNING -   No 'Text' column in absmadridista_timeline.csv, skipping
+2026-02-15 23:16:42,259 - INFO - 
+[69/166] Processing: abttaniq.csv
+2026-02-15 23:16:42,272 - WARNING -   No 'Text' column in abttaniq.csv, skipping
+2026-02-15 23:16:42,283 - INFO - 
+[70/166] Processing: abttaniq_timeline.csv
+2026-02-15 23:16:42,308 - WARNING -   No 'Text' column in abttaniq_timeline.csv, skipping
+2026-02-15 23:16:42,309 - INFO - 
+[71/166] Processing: achaharmahaliy_timeline.csv
+2026-02-15 23:16:42,329 - WARNING -   No 'Text' column in achaharmahaliy_timeline.csv, skipping
+2026-02-15 23:16:42,330 - INFO - 
+[72/166] Processing: activistrafiey.csv
+2026-02-15 23:16:42,349 - WARNING -   No 'Text' column in activistrafiey.csv, skipping
+2026-02-15 23:16:42,352 - INFO - 
+[73/166] Processing: activistrafiey_timeline.csv
+2026-02-15 23:16:42,374 - WARNING -   No 'Text' column in activistrafiey_timeline.csv, skipping
+2026-02-15 23:16:42,375 - INFO - 
+[74/166] Processing: adarehgharibi.csv
+2026-02-15 23:16:42,399 - WARNING -   No 'Text' column in adarehgharibi.csv, skipping
+2026-02-15 23:16:42,401 - INFO - 
+[75/166] Processing: adarehgharibi_timeline.csv
+2026-02-15 23:16:42,427 - WARNING -   No 'Text' column in adarehgharibi_timeline.csv, skipping
+2026-02-15 23:16:42,428 - INFO - 
+[76/166] Processing: adfiranofficial.csv
+2026-02-15 23:16:42,452 - WARNING -   No 'Text' column in adfiranofficial.csv, skipping
+2026-02-15 23:16:42,453 - INFO - 
+[77/166] Processing: adfiranofficial_timeline.csv
+2026-02-15 23:16:42,478 - WARNING -   No 'Text' column in adfiranofficial_timeline.csv, skipping
+2026-02-15 23:16:42,480 - INFO - 
+[78/166] Processing: adorno_persian_timeline.csv
+2026-02-15 23:16:42,504 - WARNING -   No 'Text' column in adorno_persian_timeline.csv, skipping
+2026-02-15 23:16:42,507 - INFO - 
+[79/166] Processing: aesmailnazhad_timeline.csv
+2026-02-15 23:16:42,536 - WARNING -   No 'Text' column in aesmailnazhad_timeline.csv, skipping
+2026-02-15 23:16:42,538 - INFO - 
+[80/166] Processing: afcasiancup_ar_timeline.csv
+2026-02-15 23:16:42,570 - WARNING -   No 'Text' column in afcasiancup_ar_timeline.csv, skipping
+2026-02-15 23:16:42,570 - INFO - 
+[81/166] Processing: afintlarabic_timeline.csv
+2026-02-15 23:16:42,615 - WARNING -   No 'Text' column in afintlarabic_timeline.csv, skipping
+2026-02-15 23:16:42,618 - INFO - 
+[82/166] Processing: afrasyabia_timeline.csv
+2026-02-15 23:16:42,650 - WARNING -   No 'Text' column in afrasyabia_timeline.csv, skipping
+2026-02-15 23:16:42,653 - INFO - 
+[83/166] Processing: afshin_46_timeline.csv
+2026-02-15 23:16:42,691 - WARNING -   No 'Text' column in afshin_46_timeline.csv, skipping
+2026-02-15 23:16:42,693 - INFO - 
+[84/166] Processing: afshinagin62_timeline.csv
+2026-02-15 23:16:42,722 - WARNING -   No 'Text' column in afshinagin62_timeline.csv, skipping
+2026-02-15 23:16:42,727 - INFO - 
+[85/166] Processing: ageofpahlavi_timeline.csv
+2026-02-15 23:16:42,768 - WARNING -   No 'Text' column in ageofpahlavi_timeline.csv, skipping
+2026-02-15 23:16:42,770 - INFO - 
+[86/166] Processing: agha_mohamad1__timeline.csv
+2026-02-15 23:16:42,826 - WARNING -   No 'Text' column in agha_mohamad1__timeline.csv, skipping
+2026-02-15 23:16:42,830 - INFO - 
+[87/166] Processing: agha_xavier2_timeline.csv
+2026-02-15 23:16:42,876 - WARNING -   No 'Text' column in agha_xavier2_timeline.csv, skipping
+2026-02-15 23:16:42,880 - INFO - 
+[88/166] Processing: aghamiri_hosein.csv
+2026-02-15 23:16:42,921 - WARNING -   No 'Text' column in aghamiri_hosein.csv, skipping
+2026-02-15 23:16:42,922 - INFO - 
+[89/166] Processing: aghamiri_hosein_timeline.csv
+2026-02-15 23:16:42,979 - WARNING -   No 'Text' column in aghamiri_hosein_timeline.csv, skipping
+2026-02-15 23:16:42,980 - INFO - 
+[90/166] Processing: aghmamrez_timeline.csv
+2026-02-15 23:16:43,041 - WARNING -   No 'Text' column in aghmamrez_timeline.csv, skipping
+2026-02-15 23:16:43,041 - INFO - 
+[91/166] Processing: aghplt_timeline.csv
+2026-02-15 23:16:43,102 - WARNING -   No 'Text' column in aghplt_timeline.csv, skipping
+2026-02-15 23:16:43,102 - INFO - 
+[92/166] Processing: ahadsadeghi71_timeline.csv
+2026-02-15 23:16:43,145 - WARNING -   No 'Text' column in ahadsadeghi71_timeline.csv, skipping
+2026-02-15 23:16:43,147 - INFO - 
+[93/166] Processing: ahangevafa_timeline.csv
+2026-02-15 23:16:43,192 - WARNING -   No 'Text' column in ahangevafa_timeline.csv, skipping
+2026-02-15 23:16:43,195 - INFO - 
+[94/166] Processing: ahangparvaz_co.csv
+2026-02-15 23:16:43,239 - WARNING -   No 'Text' column in ahangparvaz_co.csv, skipping
+2026-02-15 23:16:43,241 - INFO - 
+[95/166] Processing: ahangparvaz_co_timeline.csv
+2026-02-15 23:16:43,295 - WARNING -   No 'Text' column in ahangparvaz_co_timeline.csv, skipping
+2026-02-15 23:16:43,301 - INFO - 
+[96/166] Processing: ahlebeytmedia_timeline.csv
+2026-02-15 23:16:43,376 - WARNING -   No 'Text' column in ahlebeytmedia_timeline.csv, skipping
+2026-02-15 23:16:43,378 - INFO - 
+[97/166] Processing: ahmadabdulsada_timeline.csv
+2026-02-15 23:16:43,417 - WARNING -   No 'Text' column in ahmadabdulsada_timeline.csv, skipping
+2026-02-15 23:16:43,419 - INFO - 
+[98/166] Processing: ahmadalirezaei_timeline.csv
+2026-02-15 23:16:43,459 - WARNING -   No 'Text' column in ahmadalirezaei_timeline.csv, skipping
+2026-02-15 23:16:43,461 - INFO - 
+[99/166] Processing: ahmadi_fae83290.csv
+2026-02-15 23:16:43,500 - WARNING -   No 'Text' column in ahmadi_fae83290.csv, skipping
+2026-02-15 23:16:43,502 - INFO - 
+[100/166] Processing: ahmadi_fae83290_timeline.csv
+2026-02-15 23:16:43,539 - WARNING -   No 'Text' column in ahmadi_fae83290_timeline.csv, skipping
+2026-02-15 23:16:43,541 - INFO - 
+[101/166] Processing: ahmadnaderi_ir.csv
+2026-02-15 23:16:43,580 - WARNING -   No 'Text' column in ahmadnaderi_ir.csv, skipping
+2026-02-15 23:16:43,583 - INFO - 
+[102/166] Processing: ahmadnaderi_ir_timeline.csv
+2026-02-15 23:16:43,633 - WARNING -   No 'Text' column in ahmadnaderi_ir_timeline.csv, skipping
+2026-02-15 23:16:43,637 - INFO - 
+[103/166] Processing: ahmadrezagz_timeline.csv
+2026-02-15 23:16:43,688 - WARNING -   No 'Text' column in ahmadrezagz_timeline.csv, skipping
+2026-02-15 23:16:43,694 - INFO - 
+[104/166] Processing: ahmadrezakzmi_timeline.csv
+2026-02-15 23:16:43,734 - WARNING -   No 'Text' column in ahmadrezakzmi_timeline.csv, skipping
+2026-02-15 23:16:43,734 - INFO - 
+[105/166] Processing: ahmedabdal94_timeline.csv
+2026-02-15 23:16:43,877 - WARNING -   No 'Text' column in ahmedabdal94_timeline.csv, skipping
+2026-02-15 23:16:43,878 - INFO - 
+[106/166] Processing: ahmedalharbi0__timeline.csv
+2026-02-15 23:16:43,920 - WARNING -   No 'Text' column in ahmedalharbi0__timeline.csv, skipping
+2026-02-15 23:16:43,943 - INFO - 
+[107/166] Processing: aibaensch_timeline.csv
+2026-02-15 23:16:44,355 - WARNING -   No 'Text' column in aibaensch_timeline.csv, skipping
+2026-02-15 23:16:44,355 - INFO - 
+[108/166] Processing: aidanajra_timeline.csv
+2026-02-15 23:16:44,401 - WARNING -   No 'Text' column in aidanajra_timeline.csv, skipping
+2026-02-15 23:16:44,403 - INFO - 
+[109/166] Processing: aidin_og.csv
+2026-02-15 23:16:44,431 - WARNING -   No 'Text' column in aidin_og.csv, skipping
+2026-02-15 23:16:44,438 - INFO - 
+[110/166] Processing: aidin_og_timeline.csv
+2026-02-15 23:16:44,478 - WARNING -   No 'Text' column in aidin_og_timeline.csv, skipping
+2026-02-15 23:16:44,483 - INFO - 
+[111/166] Processing: ajan_iran_timeline.csv
+2026-02-15 23:16:44,522 - WARNING -   No 'Text' column in ajan_iran_timeline.csv, skipping
+2026-02-15 23:16:44,524 - INFO - 
+[112/166] Processing: ajdemarang_timeline.csv
+2026-02-15 23:16:44,573 - WARNING -   No 'Text' column in ajdemarang_timeline.csv, skipping
+2026-02-15 23:16:44,575 - INFO - 
+[113/166] Processing: ajibzade_timeline.csv
+2026-02-15 23:16:44,621 - WARNING -   No 'Text' column in ajibzade_timeline.csv, skipping
+2026-02-15 23:16:44,624 - INFO - 
+[114/166] Processing: ak_rogue_.csv
+2026-02-15 23:16:44,658 - WARNING -   No 'Text' column in ak_rogue_.csv, skipping
+2026-02-15 23:16:44,675 - INFO - 
+[115/166] Processing: ak_rogue__timeline.csv
+2026-02-15 23:16:44,709 - WARNING -   No 'Text' column in ak_rogue__timeline.csv, skipping
+2026-02-15 23:16:44,709 - INFO - 
+[116/166] Processing: akhavanbahar_timeline.csv
+2026-02-15 23:16:44,753 - WARNING -   No 'Text' column in akhavanbahar_timeline.csv, skipping
+2026-02-15 23:16:44,755 - INFO - 
+[117/166] Processing: al3_hacker_timeline.csv
+2026-02-15 23:16:44,806 - WARNING -   No 'Text' column in al3_hacker_timeline.csv, skipping
+2026-02-15 23:16:44,810 - INFO - 
+[118/166] Processing: al_ardwi_timeline.csv
+2026-02-15 23:16:44,861 - WARNING -   No 'Text' column in al_ardwi_timeline.csv, skipping
+2026-02-15 23:16:44,863 - INFO - 
+[119/166] Processing: alaaalwaly1_timeline.csv
+2026-02-15 23:16:44,894 - WARNING -   No 'Text' column in alaaalwaly1_timeline.csv, skipping
+2026-02-15 23:16:44,894 - INFO - 
+[120/166] Processing: alarabiya_brk_timeline.csv
+2026-02-15 23:16:44,953 - WARNING -   No 'Text' column in alarabiya_brk_timeline.csv, skipping
+2026-02-15 23:16:44,954 - INFO - 
+[121/166] Processing: alarabiya_fa_timeline.csv
+2026-02-15 23:16:44,985 - WARNING -   No 'Text' column in alarabiya_fa_timeline.csv, skipping
+2026-02-15 23:16:44,985 - INFO - 
+[122/166] Processing: alarabytv_timeline.csv
+2026-02-15 23:16:45,002 - WARNING -   No 'Text' column in alarabytv_timeline.csv, skipping
+2026-02-15 23:16:45,018 - INFO - 
+[123/166] Processing: alavi2183_timeline.csv
+2026-02-15 23:16:45,050 - WARNING -   No 'Text' column in alavi2183_timeline.csv, skipping
+2026-02-15 23:16:45,052 - INFO - 
+[124/166] Processing: ali7osain_timeline.csv
+2026-02-15 23:16:45,086 - WARNING -   No 'Text' column in ali7osain_timeline.csv, skipping
+2026-02-15 23:16:45,088 - INFO - 
+[125/166] Processing: ali_bitarafan5_timeline.csv
+2026-02-15 23:16:45,121 - WARNING -   No 'Text' column in ali_bitarafan5_timeline.csv, skipping
+2026-02-15 23:16:45,121 - INFO - 
+[126/166] Processing: ali_cheshomi_timeline.csv
+2026-02-15 23:16:45,176 - WARNING -   No 'Text' column in ali_cheshomi_timeline.csv, skipping
+2026-02-15 23:16:45,177 - INFO - 
+[127/166] Processing: ali_damghani_84.csv
+2026-02-15 23:16:45,213 - WARNING -   No 'Text' column in ali_damghani_84.csv, skipping
+2026-02-15 23:16:45,214 - INFO - 
+[128/166] Processing: ali_damghani_84_timeline.csv
+2026-02-15 23:16:45,245 - WARNING -   No 'Text' column in ali_damghani_84_timeline.csv, skipping
+2026-02-15 23:16:45,245 - INFO - 
+[129/166] Processing: ali_hedielou_timeline.csv
+2026-02-15 23:16:45,274 - WARNING -   No 'Text' column in ali_hedielou_timeline.csv, skipping
+2026-02-15 23:16:45,276 - INFO - 
+[130/166] Processing: ali_rajabi_timeline.csv
+2026-02-15 23:16:45,305 - WARNING -   No 'Text' column in ali_rajabi_timeline.csv, skipping
+2026-02-15 23:16:45,307 - INFO - 
+[131/166] Processing: aliaalei_timeline.csv
+2026-02-15 23:16:45,343 - WARNING -   No 'Text' column in aliaalei_timeline.csv, skipping
+2026-02-15 23:16:45,343 - INFO - 
+[132/166] Processing: aliahmadolfati_timeline.csv
+2026-02-15 23:16:45,370 - WARNING -   No 'Text' column in aliahmadolfati_timeline.csv, skipping
+2026-02-15 23:16:45,370 - INFO - 
+[133/166] Processing: alibazdarian_timeline.csv
+2026-02-15 23:16:45,429 - WARNING -   No 'Text' column in alibazdarian_timeline.csv, skipping
+2026-02-15 23:16:45,432 - INFO - 
+[134/166] Processing: aliebrahimzade__timeline.csv
+2026-02-15 23:16:45,477 - WARNING -   No 'Text' column in aliebrahimzade__timeline.csv, skipping
+2026-02-15 23:16:45,479 - INFO - 
+[135/166] Processing: alihars6.csv
+2026-02-15 23:16:45,513 - WARNING -   No 'Text' column in alihars6.csv, skipping
+2026-02-15 23:16:45,518 - INFO - 
+[136/166] Processing: alihars6_timeline.csv
+2026-02-15 23:16:45,540 - WARNING -   No 'Text' column in alihars6_timeline.csv, skipping
+2026-02-15 23:16:45,551 - INFO - 
+[137/166] Processing: alihgh1393.csv
+2026-02-15 23:16:45,589 - WARNING -   No 'Text' column in alihgh1393.csv, skipping
+2026-02-15 23:16:45,590 - INFO - 
+[138/166] Processing: alihgh1393_timeline.csv
+2026-02-15 23:16:45,637 - WARNING -   No 'Text' column in alihgh1393_timeline.csv, skipping
+2026-02-15 23:16:45,639 - INFO - 
+[139/166] Processing: alihoseini692_timeline.csv
+2026-02-15 23:16:45,671 - WARNING -   No 'Text' column in alihoseini692_timeline.csv, skipping
+2026-02-15 23:16:45,673 - INFO - 
+[140/166] Processing: aliiorgi_timeline.csv
+2026-02-15 23:16:45,704 - WARNING -   No 'Text' column in aliiorgi_timeline.csv, skipping
+2026-02-15 23:16:45,706 - INFO - 
+[141/166] Processing: alijafarifo_timeline.csv
+2026-02-15 23:16:45,754 - WARNING -   No 'Text' column in alijafarifo_timeline.csv, skipping
+2026-02-15 23:16:45,757 - INFO - 
+[142/166] Processing: alikalaei62_timeline.csv
+2026-02-15 23:16:45,792 - WARNING -   No 'Text' column in alikalaei62_timeline.csv, skipping
+2026-02-15 23:16:45,794 - INFO - 
+[143/166] Processing: alikarimdoost91_timeline.csv
+2026-02-15 23:16:45,818 - WARNING -   No 'Text' column in alikarimdoost91_timeline.csv, skipping
+2026-02-15 23:16:45,818 - INFO - 
+[144/166] Processing: alimojtahedzad3_timeline.csv
+2026-02-15 23:16:45,856 - WARNING -   No 'Text' column in alimojtahedzad3_timeline.csv, skipping
+2026-02-15 23:16:45,857 - INFO - 
+[145/166] Processing: alimokhtari102.csv
+2026-02-15 23:16:45,884 - WARNING -   No 'Text' column in alimokhtari102.csv, skipping
+2026-02-15 23:16:45,887 - INFO - 
+[146/166] Processing: alimokhtari102_timeline.csv
+2026-02-15 23:16:45,916 - WARNING -   No 'Text' column in alimokhtari102_timeline.csv, skipping
+2026-02-15 23:16:45,918 - INFO - 
+[147/166] Processing: alimoujani_timeline.csv
+2026-02-15 23:16:45,942 - WARNING -   No 'Text' column in alimoujani_timeline.csv, skipping
+2026-02-15 23:16:45,944 - INFO - 
+[148/166] Processing: alinazarij.csv
+2026-02-15 23:16:45,966 - WARNING -   No 'Text' column in alinazarij.csv, skipping
+2026-02-15 23:16:45,967 - INFO - 
+[149/166] Processing: alinazarij_timeline.csv
+2026-02-15 23:16:45,998 - WARNING -   No 'Text' column in alinazarij_timeline.csv, skipping
+2026-02-15 23:16:46,001 - INFO - 
+[150/166] Processing: alireza4759.csv
+2026-02-15 23:16:46,016 - WARNING -   No 'Text' column in alireza4759.csv, skipping
+2026-02-15 23:16:46,016 - INFO - 
+[151/166] Processing: alireza4759_timeline.csv
+2026-02-15 23:16:46,059 - WARNING -   No 'Text' column in alireza4759_timeline.csv, skipping
+2026-02-15 23:16:46,061 - INFO - 
+[152/166] Processing: alireza84808379_timeline.csv
+2026-02-15 23:16:46,089 - WARNING -   No 'Text' column in alireza84808379_timeline.csv, skipping
+2026-02-15 23:16:46,091 - INFO - 
+[153/166] Processing: alireza_arg_timeline.csv
+2026-02-15 23:16:46,123 - WARNING -   No 'Text' column in alireza_arg_timeline.csv, skipping
+2026-02-15 23:16:46,124 - INFO - 
+[154/166] Processing: alirezaabasi_ir_timeline.csv
+2026-02-15 23:16:46,154 - WARNING -   No 'Text' column in alirezaabasi_ir_timeline.csv, skipping
+2026-02-15 23:16:46,156 - INFO - 
+[155/166] Processing: alirezaami58678_timeline.csv
+2026-02-15 23:16:46,192 - WARNING -   No 'Text' column in alirezaami58678_timeline.csv, skipping
+2026-02-15 23:16:46,202 - INFO - 
+[156/166] Processing: alirezakiani2_timeline.csv
+2026-02-15 23:16:46,234 - WARNING -   No 'Text' column in alirezakiani2_timeline.csv, skipping
+2026-02-15 23:16:46,237 - INFO - 
+[157/166] Processing: alirezasayeh_timeline.csv
+2026-02-15 23:16:46,270 - WARNING -   No 'Text' column in alirezasayeh_timeline.csv, skipping
+2026-02-15 23:16:46,272 - INFO - 
+[158/166] Processing: alishakourirad.csv
+2026-02-15 23:16:46,306 - WARNING -   No 'Text' column in alishakourirad.csv, skipping
+2026-02-15 23:16:46,307 - INFO - 
+[159/166] Processing: alishakourirad_timeline.csv
+2026-02-15 23:16:46,356 - WARNING -   No 'Text' column in alishakourirad_timeline.csv, skipping
+2026-02-15 23:16:46,358 - INFO - 
+[160/166] Processing: alivesali_timeline.csv
+2026-02-15 23:16:46,466 - WARNING -   No 'Text' column in alivesali_timeline.csv, skipping
+2026-02-15 23:16:46,468 - INFO - 
+[161/166] Processing: aliziyak.csv
+2026-02-15 23:16:46,499 - WARNING -   No 'Text' column in aliziyak.csv, skipping
+2026-02-15 23:16:46,504 - INFO - 
+[162/166] Processing: aliziyak_timeline.csv
+2026-02-15 23:16:46,539 - WARNING -   No 'Text' column in aliziyak_timeline.csv, skipping
+2026-02-15 23:16:46,541 - INFO - 
+[163/166] Processing: almodarresisays_timeline.csv
+2026-02-15 23:16:46,588 - WARNING -   No 'Text' column in almodarresisays_timeline.csv, skipping
+2026-02-15 23:16:46,590 - INFO - 
+[164/166] Processing: append_collection_results.csv
+2026-02-15 23:16:46,622 - WARNING -   No 'Text' column in append_collection_results.csv, skipping
+2026-02-15 23:16:46,624 - INFO - 
+[165/166] Processing: collection_results.csv
+2026-02-15 23:16:46,653 - WARNING -   No 'Text' column in collection_results.csv, skipping
+2026-02-15 23:16:46,654 - INFO - 
+[166/166] Processing: fast_deep_results.csv
+2026-02-15 23:16:46,679 - WARNING -   No 'Text' column in fast_deep_results.csv, skipping
+2026-02-15 23:16:46,685 - ERROR - No data was processed successfully!
+2026-02-15 23:27:51,930 - INFO - ================================================================================
+2026-02-15 23:27:51,933 - INFO - STAGE 19: TRANSLATE TWEET TEXT COLUMN ONLY (ROBUST)
+2026-02-15 23:27:51,935 - INFO - ================================================================================
+2026-02-15 23:27:51,936 - INFO - Input directory: c:\Users\idant\iran\Iran\Data\Users_Timelines
+2026-02-15 23:27:51,938 - INFO - Output directory: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated
+2026-02-15 23:27:51,938 - INFO - Suffix: _translated
+2026-02-15 23:27:51,940 - INFO - Inplace mode: False
+2026-02-15 23:27:51,949 - INFO - Found 165 CSV files to process
+2026-02-15 23:27:51,950 - INFO - Initializing translator (auto -> English)...
+2026-02-15 23:27:51,951 - INFO - 
+[1/165] ============================================================
+2026-02-15 23:27:51,953 - INFO - Processing: 0alwaysdreamer0_timeline.csv
+2026-02-15 23:27:51,966 - INFO -   Text column: 'text'
+2026-02-15 23:27:51,967 - INFO -   Total rows: 131
+2026-02-15 23:29:04,404 - INFO -   Progress: 50/131 rows...
+2026-02-15 23:30:13,329 - INFO -   Progress: 100/131 rows...
+2026-02-15 23:30:53,990 - INFO -   Translated: 131 rows
+2026-02-15 23:30:54,007 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\0alwaysdreamer0_timeline_translated.csv
+2026-02-15 23:30:54,007 - INFO - 
+[2/165] ============================================================
+2026-02-15 23:30:54,007 - INFO - Processing: 0mfahzf4tebztdl_timeline.csv
+2026-02-15 23:30:54,020 - INFO -   Text column: 'text'
+2026-02-15 23:30:54,021 - INFO -   Total rows: 9
+2026-02-15 23:31:03,225 - INFO -   Translated: 8 rows
+2026-02-15 23:31:03,229 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\0mfahzf4tebztdl_timeline_translated.csv
+2026-02-15 23:31:03,230 - INFO - 
+[3/165] ============================================================
+2026-02-15 23:31:03,230 - INFO - Processing: 105_sakariyou_timeline.csv
+2026-02-15 23:31:03,235 - INFO -   Text column: 'text'
+2026-02-15 23:31:03,235 - INFO -   Total rows: 80
+2026-02-15 23:32:16,146 - INFO -   Progress: 50/80 rows...
+2026-02-15 23:33:01,457 - INFO -   Translated: 79 rows
+2026-02-15 23:33:01,457 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\105_sakariyou_timeline_translated.csv
+2026-02-15 23:33:01,457 - INFO - 
+[4/165] ============================================================
+2026-02-15 23:33:01,457 - INFO - Processing: 1364ghazal62816_timeline.csv
+2026-02-15 23:33:01,473 - INFO -   Text column: 'text'
+2026-02-15 23:33:01,473 - INFO -   Total rows: 1
+2026-02-15 23:33:02,725 - INFO -   Translated: 1 rows
+2026-02-15 23:33:02,725 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\1364ghazal62816_timeline_translated.csv
+2026-02-15 23:33:02,725 - INFO - 
+[5/165] ============================================================
+2026-02-15 23:33:02,725 - INFO - Processing: 1pezeshk_plus_timeline.csv
+2026-02-15 23:33:02,725 - INFO -   Text column: 'text'
+2026-02-15 23:33:02,725 - INFO -   Total rows: 2
+2026-02-15 23:33:04,807 - INFO -   Translated: 2 rows
+2026-02-15 23:33:04,807 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\1pezeshk_plus_timeline_translated.csv
+2026-02-15 23:33:04,807 - INFO - 
+[6/165] ============================================================
+2026-02-15 23:33:04,807 - INFO - Processing: 1wqrz.csv
+2026-02-15 23:33:04,807 - INFO -   Text column: 'text'
+2026-02-15 23:33:04,823 - INFO -   Total rows: 20
+2026-02-15 23:33:21,604 - INFO -   Translated: 9 rows
+2026-02-15 23:33:21,604 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\1wqrz_translated.csv
+2026-02-15 23:33:21,604 - INFO - 
+[7/165] ============================================================
+2026-02-15 23:33:21,604 - INFO - Processing: 1wqrz_timeline.csv
+2026-02-15 23:33:21,604 - INFO -   Text column: 'text'
+2026-02-15 23:33:21,604 - INFO -   Total rows: 94
+2026-02-15 23:34:00,766 - INFO -   Progress: 50/94 rows...
+2026-02-15 23:34:35,312 - INFO -   Translated: 75 rows
+2026-02-15 23:34:35,312 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\1wqrz_timeline_translated.csv
+2026-02-15 23:34:35,312 - INFO - 
+[8/165] ============================================================
+2026-02-15 23:34:35,312 - INFO - Processing: 2_rebelgirl_timeline.csv
+2026-02-15 23:34:35,312 - INFO -   Text column: 'text'
+2026-02-15 23:34:35,312 - INFO -   Total rows: 59
+2026-02-15 23:35:32,747 - INFO -   Progress: 50/59 rows...
+2026-02-15 23:35:43,600 - INFO -   Translated: 59 rows
+2026-02-15 23:35:43,600 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\2_rebelgirl_timeline_translated.csv
+2026-02-15 23:35:43,600 - INFO - 
+[9/165] ============================================================
+2026-02-15 23:35:43,600 - INFO - Processing: 2bender_timeline.csv
+2026-02-15 23:35:43,600 - INFO -   Text column: 'text'
+2026-02-15 23:35:43,600 - INFO -   Total rows: 119
+2026-02-15 23:36:45,134 - INFO -   Progress: 50/119 rows...
+2026-02-15 23:37:53,486 - INFO -   Progress: 100/119 rows...
+2026-02-15 23:38:16,500 - INFO -   Translated: 114 rows
+2026-02-15 23:38:16,515 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\2bender_timeline_translated.csv
+2026-02-15 23:38:16,517 - INFO - 
+[10/165] ============================================================
+2026-02-15 23:38:16,517 - INFO - Processing: 2ndravanparish_timeline.csv
+2026-02-15 23:38:16,517 - INFO -   Text column: 'text'
+2026-02-15 23:38:16,517 - INFO -   Total rows: 80
+2026-02-15 23:39:21,561 - INFO -   Progress: 50/80 rows...
+2026-02-15 23:39:55,361 - INFO -   Translated: 77 rows
+2026-02-15 23:39:55,366 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\2ndravanparish_timeline_translated.csv
+2026-02-15 23:39:55,367 - INFO - 
+[11/165] ============================================================
+2026-02-15 23:39:55,368 - INFO - Processing: 2x0x2x4.csv
+2026-02-15 23:39:55,370 - INFO -   Text column: 'text'
+2026-02-15 23:39:55,370 - INFO -   Total rows: 20
+2026-02-15 23:40:18,382 - INFO -   Translated: 20 rows
+2026-02-15 23:40:18,387 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\2x0x2x4_translated.csv
+2026-02-15 23:40:18,388 - INFO - 
+[12/165] ============================================================
+2026-02-15 23:40:18,389 - INFO - Processing: 2x0x2x4_timeline.csv
+2026-02-15 23:40:18,393 - INFO -   Text column: 'text'
+2026-02-15 23:40:18,394 - INFO -   Total rows: 86
+2026-02-15 23:41:24,976 - INFO -   Progress: 50/86 rows...
+2026-02-15 23:42:10,820 - INFO -   Translated: 85 rows
+2026-02-15 23:42:10,820 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\2x0x2x4_timeline_translated.csv
+2026-02-15 23:42:10,820 - INFO - 
+[13/165] ============================================================
+2026-02-15 23:42:10,820 - INFO - Processing: 35anj.csv
+2026-02-15 23:42:10,820 - INFO -   Text column: 'text'
+2026-02-15 23:42:10,835 - INFO -   Total rows: 13
+2026-02-15 23:42:27,517 - INFO -   Translated: 13 rows
+2026-02-15 23:42:27,517 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\35anj_translated.csv
+2026-02-15 23:42:27,517 - INFO - 
+[14/165] ============================================================
+2026-02-15 23:42:27,533 - INFO - Processing: 35anj_timeline.csv
+2026-02-15 23:42:27,534 - INFO -   Text column: 'text'
+2026-02-15 23:42:27,534 - INFO -   Total rows: 96
+2026-02-15 23:43:30,809 - INFO -   Progress: 50/96 rows...
+2026-02-15 23:44:24,353 - INFO -   Translated: 96 rows
+2026-02-15 23:44:24,353 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\35anj_timeline_translated.csv
+2026-02-15 23:44:24,353 - INFO - 
+[15/165] ============================================================
+2026-02-15 23:44:24,353 - INFO - Processing: 3eyedamir_timeline.csv
+2026-02-15 23:44:24,368 - INFO -   Text column: 'text'
+2026-02-15 23:44:24,369 - INFO -   Total rows: 58
+2026-02-15 23:45:24,528 - INFO -   Progress: 50/58 rows...
+2026-02-15 23:45:33,902 - INFO -   Translated: 49 rows
+2026-02-15 23:45:33,902 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\3eyedamir_timeline_translated.csv
+2026-02-15 23:45:33,902 - INFO - 
+[16/165] ============================================================
+2026-02-15 23:45:33,902 - INFO - Processing: 3tareee_timeline.csv
+2026-02-15 23:45:33,912 - INFO -   Text column: 'text'
+2026-02-15 23:45:33,912 - INFO -   Total rows: 58
+2026-02-15 23:46:41,418 - INFO -   Progress: 50/58 rows...
+2026-02-15 23:46:51,650 - INFO -   Translated: 58 rows
+2026-02-15 23:46:51,650 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\3tareee_timeline_translated.csv
+2026-02-15 23:46:51,650 - INFO - 
+[17/165] ============================================================
+2026-02-15 23:46:51,650 - INFO - Processing: 5y6aahcdftzn4me_timeline.csv
+2026-02-15 23:46:51,667 - INFO -   Text column: 'text'
+2026-02-15 23:46:51,667 - INFO -   Total rows: 77
+2026-02-15 23:47:53,576 - INFO -   Progress: 50/77 rows...
+2026-02-15 23:48:25,472 - INFO -   Translated: 74 rows
+2026-02-15 23:48:25,472 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\5y6aahcdftzn4me_timeline_translated.csv
+2026-02-15 23:48:25,472 - INFO - 
+[18/165] ============================================================
+2026-02-15 23:48:25,472 - INFO - Processing: 61pari93357.csv
+2026-02-15 23:48:25,488 - INFO -   Text column: 'text'
+2026-02-15 23:48:25,488 - INFO -   Total rows: 2
+2026-02-15 23:48:27,371 - INFO -   Translated: 2 rows
+2026-02-15 23:48:27,371 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\61pari93357_translated.csv
+2026-02-15 23:48:27,371 - INFO - 
+[19/165] ============================================================
+2026-02-15 23:48:27,371 - INFO - Processing: 61pari93357_timeline.csv
+2026-02-15 23:48:27,371 - INFO -   Text column: 'text'
+2026-02-15 23:48:27,371 - INFO -   Total rows: 79
+2026-02-15 23:49:27,284 - INFO -   Progress: 50/79 rows...
+2026-02-15 23:50:01,030 - INFO -   Translated: 75 rows
+2026-02-15 23:50:01,048 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\61pari93357_timeline_translated.csv
+2026-02-15 23:50:01,049 - INFO - 
+[20/165] ============================================================
+2026-02-15 23:50:01,051 - INFO - Processing: _ali_najjar__timeline.csv
+2026-02-15 23:50:01,056 - INFO -   Text column: 'text'
+2026-02-15 23:50:01,057 - INFO -   Total rows: 117
+2026-02-15 23:50:56,185 - INFO -   Progress: 50/117 rows...
+2026-02-15 23:51:59,648 - INFO -   Progress: 100/117 rows...
+2026-02-15 23:52:18,675 - INFO -   Translated: 109 rows
+2026-02-15 23:52:18,681 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_ali_najjar__timeline_translated.csv
+2026-02-15 23:52:18,681 - INFO - 
+[21/165] ============================================================
+2026-02-15 23:52:18,681 - INFO - Processing: _aliemili__timeline.csv
+2026-02-15 23:52:18,681 - INFO -   Text column: 'text'
+2026-02-15 23:52:18,681 - INFO -   Total rows: 189
+2026-02-15 23:53:14,884 - INFO -   Progress: 50/189 rows...
+2026-02-15 23:54:09,180 - INFO -   Progress: 100/189 rows...
+2026-02-15 23:55:04,104 - INFO -   Progress: 150/189 rows...
+2026-02-15 23:55:51,414 - INFO -   Translated: 171 rows
+2026-02-15 23:55:51,431 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_aliemili__timeline_translated.csv
+2026-02-15 23:55:51,431 - INFO - 
+[22/165] ============================================================
+2026-02-15 23:55:51,431 - INFO - Processing: _angry_n____timeline.csv
+2026-02-15 23:55:51,431 - INFO -   Text column: 'text'
+2026-02-15 23:55:51,431 - INFO -   Total rows: 120
+2026-02-15 23:56:47,890 - INFO -   Progress: 50/120 rows...
+2026-02-15 23:57:43,900 - INFO -   Progress: 100/120 rows...
+2026-02-15 23:58:07,263 - INFO -   Translated: 109 rows
+2026-02-15 23:58:07,263 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_angry_n____timeline_translated.csv
+2026-02-15 23:58:07,280 - INFO - 
+[23/165] ============================================================
+2026-02-15 23:58:07,280 - INFO - Processing: _h_o_o_r_.csv
+2026-02-15 23:58:07,280 - INFO -   Text column: 'text'
+2026-02-15 23:58:07,280 - INFO -   Total rows: 3
+2026-02-15 23:58:10,462 - INFO -   Translated: 3 rows
+2026-02-15 23:58:10,478 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_h_o_o_r__translated.csv
+2026-02-15 23:58:10,478 - INFO - 
+[24/165] ============================================================
+2026-02-15 23:58:10,478 - INFO - Processing: _h_o_o_r__timeline.csv
+2026-02-15 23:58:10,478 - INFO -   Text column: 'text'
+2026-02-15 23:58:10,478 - INFO -   Total rows: 75
+2026-02-15 23:59:12,494 - INFO -   Progress: 50/75 rows...
+2026-02-15 23:59:42,721 - INFO -   Translated: 75 rows
+2026-02-15 23:59:42,723 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_h_o_o_r__timeline_translated.csv
+2026-02-15 23:59:42,723 - INFO - 
+[25/165] ============================================================
+2026-02-15 23:59:42,723 - INFO - Processing: _iweni_timeline.csv
+2026-02-15 23:59:42,723 - INFO -   Text column: 'text'
+2026-02-15 23:59:42,723 - INFO -   Total rows: 62
+2026-02-16 00:00:25,195 - INFO -   Progress: 50/62 rows...
+2026-02-16 00:00:37,149 - INFO -   Translated: 50 rows
+2026-02-16 00:00:37,160 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_iweni_timeline_translated.csv
+2026-02-16 00:00:37,161 - INFO - 
+[26/165] ============================================================
+2026-02-16 00:00:37,161 - INFO - Processing: _iwftw.csv
+2026-02-16 00:00:37,161 - INFO -   Text column: 'text'
+2026-02-16 00:00:37,167 - INFO -   Total rows: 18
+2026-02-16 00:01:03,244 - INFO -   Translated: 18 rows
+2026-02-16 00:01:03,245 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_iwftw_translated.csv
+2026-02-16 00:01:03,245 - INFO - 
+[27/165] ============================================================
+2026-02-16 00:01:03,245 - INFO - Processing: _iwftw_timeline.csv
+2026-02-16 00:01:03,245 - INFO -   Text column: 'text'
+2026-02-16 00:01:03,245 - INFO -   Total rows: 85
+2026-02-16 00:01:55,784 - INFO -   Progress: 50/85 rows...
+2026-02-16 00:02:37,700 - INFO -   Translated: 84 rows
+2026-02-16 00:02:37,700 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_iwftw_timeline_translated.csv
+2026-02-16 00:02:37,700 - INFO - 
+[28/165] ============================================================
+2026-02-16 00:02:37,700 - INFO - Processing: _mahdiyar313_timeline.csv
+2026-02-16 00:02:37,714 - INFO -   Text column: 'text'
+2026-02-16 00:02:37,715 - INFO -   Total rows: 54
+2026-02-16 00:03:22,389 - INFO -   Progress: 50/54 rows...
+2026-02-16 00:03:26,656 - INFO -   Translated: 46 rows
+2026-02-16 00:03:26,656 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_mahdiyar313_timeline_translated.csv
+2026-02-16 00:03:26,656 - INFO - 
+[29/165] ============================================================
+2026-02-16 00:03:26,656 - INFO - Processing: _mehrabooon.csv
+2026-02-16 00:03:26,656 - INFO -   Text column: 'text'
+2026-02-16 00:03:26,656 - INFO -   Total rows: 3
+2026-02-16 00:03:29,424 - INFO -   Translated: 3 rows
+2026-02-16 00:03:29,439 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_mehrabooon_translated.csv
+2026-02-16 00:03:29,441 - INFO - 
+[30/165] ============================================================
+2026-02-16 00:03:29,442 - INFO - Processing: _mehrabooon_timeline.csv
+2026-02-16 00:03:29,442 - INFO -   Text column: 'text'
+2026-02-16 00:03:29,442 - INFO -   Total rows: 176
+2026-02-16 00:04:27,003 - INFO -   Progress: 50/176 rows...
+2026-02-16 00:05:28,364 - INFO -   Progress: 100/176 rows...
+2026-02-16 00:06:26,266 - INFO -   Progress: 150/176 rows...
+2026-02-16 00:06:57,095 - INFO -   Translated: 176 rows
+2026-02-16 00:06:57,095 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_mehrabooon_timeline_translated.csv
+2026-02-16 00:06:57,095 - INFO - 
+[31/165] ============================================================
+2026-02-16 00:06:57,095 - INFO - Processing: _thejimbo__timeline.csv
+2026-02-16 00:06:57,095 - INFO -   Text column: 'text'
+2026-02-16 00:06:57,095 - INFO -   Total rows: 97
+2026-02-16 00:07:51,126 - INFO -   Progress: 50/97 rows...
+2026-02-16 00:08:42,227 - INFO -   Translated: 85 rows
+2026-02-16 00:08:42,232 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_thejimbo__timeline_translated.csv
+2026-02-16 00:08:42,234 - INFO - 
+[32/165] ============================================================
+2026-02-16 00:08:42,236 - INFO - Processing: _theleftover_timeline.csv
+2026-02-16 00:08:42,240 - INFO -   Text column: 'text'
+2026-02-16 00:08:42,241 - INFO -   Total rows: 131
+2026-02-16 00:09:28,171 - INFO -   Progress: 50/131 rows...
+2026-02-16 00:10:16,035 - INFO -   Progress: 100/131 rows...
+2026-02-16 00:10:38,395 - INFO -   Translated: 70 rows
+2026-02-16 00:10:38,411 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_theleftover_timeline_translated.csv
+2026-02-16 00:10:38,411 - INFO - 
+[33/165] ============================================================
+2026-02-16 00:10:38,411 - INFO - Processing: _ya_karim__timeline.csv
+2026-02-16 00:10:38,411 - INFO -   Text column: 'text'
+2026-02-16 00:10:38,411 - INFO -   Total rows: 161
+2026-02-16 00:11:35,105 - INFO -   Progress: 50/161 rows...
+2026-02-16 00:12:26,321 - INFO -   Progress: 100/161 rows...
+2026-02-16 00:13:30,841 - INFO -   Progress: 150/161 rows...
+2026-02-16 00:13:44,042 - INFO -   Translated: 157 rows
+2026-02-16 00:13:44,058 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\_ya_karim__timeline_translated.csv
+2026-02-16 00:13:44,058 - INFO - 
+[34/165] ============================================================
+2026-02-16 00:13:44,058 - INFO - Processing: a_abothman_timeline.csv
+2026-02-16 00:13:44,058 - INFO -   Text column: 'text'
+2026-02-16 00:13:44,058 - INFO -   Total rows: 55
+2026-02-16 00:14:22,286 - INFO -   Progress: 50/55 rows...
+2026-02-16 00:14:27,690 - INFO -   Translated: 36 rows
+2026-02-16 00:14:27,695 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\a_abothman_timeline_translated.csv
+2026-02-16 00:14:27,696 - INFO - 
+[35/165] ============================================================
+2026-02-16 00:14:27,697 - INFO - Processing: a_rnazari_timeline.csv
+2026-02-16 00:14:27,701 - INFO -   Text column: 'text'
+2026-02-16 00:14:27,702 - INFO -   Total rows: 64
+2026-02-16 00:15:31,628 - INFO -   Progress: 50/64 rows...
+2026-02-16 00:15:48,872 - INFO -   Translated: 62 rows
+2026-02-16 00:15:48,872 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\a_rnazari_timeline_translated.csv
+2026-02-16 00:15:48,872 - INFO - 
+[36/165] ============================================================
+2026-02-16 00:15:48,872 - INFO - Processing: a_z_im_timeline.csv
+2026-02-16 00:15:48,888 - INFO -   Text column: 'text'
+2026-02-16 00:15:48,888 - INFO -   Total rows: 114
+2026-02-16 00:16:47,484 - INFO -   Progress: 50/114 rows...
+2026-02-16 00:17:45,261 - INFO -   Progress: 100/114 rows...
+2026-02-16 00:17:58,684 - INFO -   Translated: 107 rows
+2026-02-16 00:17:58,691 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\a_z_im_timeline_translated.csv
+2026-02-16 00:17:58,692 - INFO - 
+[37/165] ============================================================
+2026-02-16 00:17:58,693 - INFO - Processing: aa1915898.csv
+2026-02-16 00:17:58,708 - INFO -   Text column: 'text'
+2026-02-16 00:17:58,708 - INFO -   Total rows: 4
+2026-02-16 00:18:01,009 - INFO -   Translated: 2 rows
+2026-02-16 00:18:01,009 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aa1915898_translated.csv
+2026-02-16 00:18:01,009 - INFO - 
+[38/165] ============================================================
+2026-02-16 00:18:01,009 - INFO - Processing: aa1915898_timeline.csv
+2026-02-16 00:18:01,009 - INFO -   Text column: 'text'
+2026-02-16 00:18:01,009 - INFO -   Total rows: 4
+2026-02-16 00:18:04,509 - INFO -   Translated: 2 rows
+2026-02-16 00:18:04,509 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aa1915898_timeline_translated.csv
+2026-02-16 00:18:04,509 - INFO - 
+[39/165] ============================================================
+2026-02-16 00:18:04,509 - INFO - Processing: aaalirz.csv
+2026-02-16 00:18:04,527 - INFO -   Text column: 'text'
+2026-02-16 00:18:04,528 - INFO -   Total rows: 19
+2026-02-16 00:18:20,970 - INFO -   Translated: 10 rows
+2026-02-16 00:18:20,976 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aaalirz_translated.csv
+2026-02-16 00:18:20,977 - INFO - 
+[40/165] ============================================================
+2026-02-16 00:18:20,978 - INFO - Processing: aaalirz_timeline.csv
+2026-02-16 00:18:21,003 - INFO -   Text column: 'text'
+2026-02-16 00:18:21,004 - INFO -   Total rows: 89
+2026-02-16 00:19:10,982 - INFO -   Progress: 50/89 rows...
+2026-02-16 00:19:51,644 - INFO -   Translated: 68 rows
+2026-02-16 00:19:51,650 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aaalirz_timeline_translated.csv
+2026-02-16 00:19:51,651 - INFO - 
+[41/165] ============================================================
+2026-02-16 00:19:51,652 - INFO - Processing: aahassas.csv
+2026-02-16 00:19:51,656 - INFO -   Text column: 'text'
+2026-02-16 00:19:51,656 - INFO -   Total rows: 20
+2026-02-16 00:20:03,440 - INFO -   Translated: 0 rows
+2026-02-16 00:20:03,440 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aahassas_translated.csv
+2026-02-16 00:20:03,440 - INFO - 
+[42/165] ============================================================
+2026-02-16 00:20:03,440 - INFO - Processing: aahassas_timeline.csv
+2026-02-16 00:20:03,487 - INFO -   Text column: 'text'
+2026-02-16 00:20:03,488 - INFO -   Total rows: 61
+2026-02-16 00:20:35,994 - INFO -   Progress: 50/61 rows...
+2026-02-16 00:20:41,472 - INFO -   Translated: 16 rows
+2026-02-16 00:20:41,479 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aahassas_timeline_translated.csv
+2026-02-16 00:20:41,480 - INFO - 
+[43/165] ============================================================
+2026-02-16 00:20:41,481 - INFO - Processing: aban_paris_timeline.csv
+2026-02-16 00:20:41,496 - INFO -   Text column: 'text'
+2026-02-16 00:20:41,497 - INFO -   Total rows: 55
+2026-02-16 00:21:27,297 - INFO -   Progress: 50/55 rows...
+2026-02-16 00:21:36,094 - INFO -   Translated: 51 rows
+2026-02-16 00:21:36,094 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\aban_paris_timeline_translated.csv
+2026-02-16 00:21:36,094 - INFO - 
+[44/165] ============================================================
+2026-02-16 00:21:36,094 - INFO - Processing: abas_asgharpour.csv
+2026-02-16 00:21:36,126 - INFO -   Text column: 'text'
+2026-02-16 00:21:36,127 - INFO -   Total rows: 40
+2026-02-16 00:22:01,793 - INFO -   Translated: 40 rows
+2026-02-16 00:22:01,797 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abas_asgharpour_translated.csv
+2026-02-16 00:22:01,799 - INFO - 
+[45/165] ============================================================
+2026-02-16 00:22:01,800 - INFO - Processing: abas_asgharpour_timeline.csv
+2026-02-16 00:22:01,811 - INFO -   Text column: 'text'
+2026-02-16 00:22:01,811 - INFO -   Total rows: 59
+2026-02-16 00:22:50,888 - INFO -   Progress: 50/59 rows...
+2026-02-16 00:23:00,118 - INFO -   Translated: 59 rows
+2026-02-16 00:23:00,134 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abas_asgharpour_timeline_translated.csv
+2026-02-16 00:23:00,134 - INFO - 
+[46/165] ============================================================
+2026-02-16 00:23:00,134 - INFO - Processing: abasiabbassi_timeline.csv
+2026-02-16 00:23:00,160 - INFO -   Text column: 'text'
+2026-02-16 00:23:00,162 - INFO -   Total rows: 124
+2026-02-16 00:24:04,043 - INFO -   Progress: 50/124 rows...
+2026-02-16 00:25:03,715 - INFO -   Progress: 100/124 rows...
+2026-02-16 00:25:30,845 - INFO -   Translated: 117 rows
+2026-02-16 00:25:30,857 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abasiabbassi_timeline_translated.csv
+2026-02-16 00:25:30,865 - INFO - 
+[47/165] ============================================================
+2026-02-16 00:25:30,865 - INFO - Processing: abba3pakbin.csv
+2026-02-16 00:25:30,872 - INFO -   Text column: 'text'
+2026-02-16 00:25:30,873 - INFO -   Total rows: 16
+2026-02-16 00:25:43,812 - INFO -   Translated: 6 rows
+2026-02-16 00:25:43,815 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abba3pakbin_translated.csv
+2026-02-16 00:25:43,816 - INFO - 
+[48/165] ============================================================
+2026-02-16 00:25:43,816 - INFO - Processing: abba3pakbin_timeline.csv
+2026-02-16 00:25:43,830 - INFO -   Text column: 'text'
+2026-02-16 00:25:43,830 - INFO -   Total rows: 100
+2026-02-16 00:26:18,778 - INFO -   Progress: 50/100 rows...
+2026-02-16 00:26:44,989 - INFO -   Translated: 37 rows
+2026-02-16 00:26:44,989 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abba3pakbin_timeline_translated.csv
+2026-02-16 00:26:44,989 - INFO - 
+[49/165] ============================================================
+2026-02-16 00:26:44,989 - INFO - Processing: abbasalawadi6_timeline.csv
+2026-02-16 00:26:45,005 - INFO -   Text column: 'text'
+2026-02-16 00:26:45,005 - INFO -   Total rows: 11
+2026-02-16 00:26:54,972 - INFO -   Translated: 9 rows
+2026-02-16 00:26:54,972 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasalawadi6_timeline_translated.csv
+2026-02-16 00:26:54,972 - INFO - 
+[50/165] ============================================================
+2026-02-16 00:26:54,972 - INFO - Processing: abbasi_j_5_timeline.csv
+2026-02-16 00:26:54,997 - INFO -   Text column: 'text'
+2026-02-16 00:26:54,998 - INFO -   Total rows: 55
+2026-02-16 00:27:46,613 - INFO -   Progress: 50/55 rows...
+2026-02-16 00:27:52,164 - INFO -   Translated: 54 rows
+2026-02-16 00:27:52,180 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasi_j_5_timeline_translated.csv
+2026-02-16 00:27:52,180 - INFO - 
+[51/165] ============================================================
+2026-02-16 00:27:52,180 - INFO - Processing: abbasi_students.csv
+2026-02-16 00:27:52,180 - INFO -   Text column: 'text'
+2026-02-16 00:27:52,180 - INFO -   Total rows: 14
+2026-02-16 00:28:06,914 - INFO -   Translated: 13 rows
+2026-02-16 00:28:06,930 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasi_students_translated.csv
+2026-02-16 00:28:06,930 - INFO - 
+[52/165] ============================================================
+2026-02-16 00:28:06,930 - INFO - Processing: abbasi_students_timeline.csv
+2026-02-16 00:28:06,946 - INFO -   Text column: 'text'
+2026-02-16 00:28:06,948 - INFO -   Total rows: 89
+2026-02-16 00:29:11,258 - INFO -   Progress: 50/89 rows...
+2026-02-16 00:29:54,049 - INFO -   Translated: 86 rows
+2026-02-16 00:29:54,051 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasi_students_timeline_translated.csv
+2026-02-16 00:29:54,051 - INFO - 
+[53/165] ============================================================
+2026-02-16 00:29:54,051 - INFO - Processing: abbasiniho_timeline.csv
+2026-02-16 00:29:54,079 - INFO -   Text column: 'text'
+2026-02-16 00:29:54,079 - INFO -   Total rows: 78
+2026-02-16 00:30:46,792 - INFO -   Progress: 50/78 rows...
+2026-02-16 00:31:14,039 - INFO -   Translated: 76 rows
+2026-02-16 00:31:14,039 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasiniho_timeline_translated.csv
+2026-02-16 00:31:14,039 - INFO - 
+[54/165] ============================================================
+2026-02-16 00:31:14,039 - INFO - Processing: abbasmehdavi312_timeline.csv
+2026-02-16 00:31:14,064 - INFO -   Text column: 'text'
+2026-02-16 00:31:14,065 - INFO -   Total rows: 89
+2026-02-16 00:32:06,358 - INFO -   Progress: 50/89 rows...
+2026-02-16 00:32:40,258 - INFO -   Translated: 69 rows
+2026-02-16 00:32:40,258 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abbasmehdavi312_timeline_translated.csv
+2026-02-16 00:32:40,258 - INFO - 
+[55/165] ============================================================
+2026-02-16 00:32:40,258 - INFO - Processing: abdeekalantari.csv
+2026-02-16 00:32:40,258 - INFO -   Text column: 'text'
+2026-02-16 00:32:40,274 - INFO -   Total rows: 12
+2026-02-16 00:32:57,557 - INFO -   Translated: 12 rows
+2026-02-16 00:32:57,557 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdeekalantari_translated.csv
+2026-02-16 00:32:57,557 - INFO - 
+[56/165] ============================================================
+2026-02-16 00:32:57,557 - INFO - Processing: abdeekalantari_timeline.csv
+2026-02-16 00:32:57,598 - INFO -   Text column: 'text'
+2026-02-16 00:32:57,599 - INFO -   Total rows: 132
+2026-02-16 00:33:49,734 - INFO -   Progress: 50/132 rows...
+2026-02-16 00:34:55,628 - INFO -   Progress: 100/132 rows...
+2026-02-16 00:35:36,174 - INFO -   Translated: 120 rows
+2026-02-16 00:35:36,182 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdeekalantari_timeline_translated.csv
+2026-02-16 00:35:36,182 - INFO - 
+[57/165] ============================================================
+2026-02-16 00:35:36,188 - INFO - Processing: abdolhamidnetar.csv
+2026-02-16 00:35:36,188 - INFO -   Text column: 'text'
+2026-02-16 00:35:36,197 - INFO -   Total rows: 10
+2026-02-16 00:35:47,755 - INFO -   Translated: 10 rows
+2026-02-16 00:35:47,755 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdolhamidnetar_translated.csv
+2026-02-16 00:35:47,755 - INFO - 
+[58/165] ============================================================
+2026-02-16 00:35:47,755 - INFO - Processing: abdolhamidnetar_timeline.csv
+2026-02-16 00:35:47,790 - INFO -   Text column: 'text'
+2026-02-16 00:35:47,798 - INFO -   Total rows: 237
+2026-02-16 00:36:33,928 - INFO -   Progress: 50/237 rows...
+2026-02-16 00:37:32,483 - INFO -   Progress: 100/237 rows...
+2026-02-16 00:38:28,095 - INFO -   Progress: 150/237 rows...
+2026-02-16 00:39:29,640 - INFO -   Progress: 200/237 rows...
+2026-02-16 00:40:12,340 - INFO -   Translated: 237 rows
+2026-02-16 00:40:12,356 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdolhamidnetar_timeline_translated.csv
+2026-02-16 00:40:12,356 - INFO - 
+[59/165] ============================================================
+2026-02-16 00:40:12,356 - INFO - Processing: abdollahram.csv
+2026-02-16 00:40:12,378 - INFO -   Text column: 'text'
+2026-02-16 00:40:12,378 - INFO -   Total rows: 11
+2026-02-16 00:40:26,269 - INFO -   Translated: 11 rows
+2026-02-16 00:40:26,277 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdollahram_translated.csv
+2026-02-16 00:40:26,277 - INFO - 
+[60/165] ============================================================
+2026-02-16 00:40:26,277 - INFO - Processing: abdollahram_timeline.csv
+2026-02-16 00:40:26,309 - INFO -   Text column: 'text'
+2026-02-16 00:40:26,309 - INFO -   Total rows: 177
+2026-02-16 00:41:17,363 - INFO -   Progress: 50/177 rows...
+2026-02-16 00:42:19,728 - INFO -   Progress: 100/177 rows...
+2026-02-16 00:43:17,889 - INFO -   Progress: 150/177 rows...
+2026-02-16 00:43:53,319 - INFO -   Translated: 161 rows
+2026-02-16 00:43:53,327 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdollahram_timeline_translated.csv
+2026-02-16 00:43:53,327 - INFO - 
+[61/165] ============================================================
+2026-02-16 00:43:53,327 - INFO - Processing: abdulwadudkha12.csv
+2026-02-16 00:43:53,343 - INFO -   Text column: 'text'
+2026-02-16 00:43:53,343 - INFO -   Total rows: 9
+2026-02-16 00:44:04,991 - INFO -   Translated: 9 rows
+2026-02-16 00:44:04,999 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdulwadudkha12_translated.csv
+2026-02-16 00:44:04,999 - INFO - 
+[62/165] ============================================================
+2026-02-16 00:44:04,999 - INFO - Processing: abdulwadudkha12_timeline.csv
+2026-02-16 00:44:05,007 - INFO -   Text column: 'text'
+2026-02-16 00:44:05,007 - INFO -   Total rows: 9
+2026-02-16 00:44:15,228 - INFO -   Translated: 9 rows
+2026-02-16 00:44:15,236 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abdulwadudkha12_timeline_translated.csv
+2026-02-16 00:44:15,236 - INFO - 
+[63/165] ============================================================
+2026-02-16 00:44:15,236 - INFO - Processing: abed33474966_timeline.csv
+2026-02-16 00:44:15,260 - INFO -   Text column: 'text'
+2026-02-16 00:44:15,268 - INFO -   Total rows: 53
+2026-02-16 00:45:15,335 - INFO -   Progress: 50/53 rows...
+2026-02-16 00:45:19,223 - INFO -   Translated: 52 rows
+2026-02-16 00:45:19,239 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abed33474966_timeline_translated.csv
+2026-02-16 00:45:19,239 - INFO - 
+[64/165] ============================================================
+2026-02-16 00:45:19,239 - INFO - Processing: abedimonfared1_timeline.csv
+2026-02-16 00:45:19,266 - INFO -   Text column: 'text'
+2026-02-16 00:45:19,266 - INFO -   Total rows: 103
+2026-02-16 00:46:19,850 - INFO -   Progress: 50/103 rows...
+2026-02-16 00:47:21,492 - INFO -   Progress: 100/103 rows...
+2026-02-16 00:47:25,391 - INFO -   Translated: 102 rows
+2026-02-16 00:47:25,407 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abedimonfared1_timeline_translated.csv
+2026-02-16 00:47:25,407 - INFO - 
+[65/165] ============================================================
+2026-02-16 00:47:25,407 - INFO - Processing: abehtarin_timeline.csv
+2026-02-16 00:47:25,439 - INFO -   Text column: 'text'
+2026-02-16 00:47:25,439 - INFO -   Total rows: 70
+2026-02-16 00:48:29,476 - INFO -   Progress: 50/70 rows...
+2026-02-16 00:48:56,313 - INFO -   Translated: 70 rows
+2026-02-16 00:48:56,313 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abehtarin_timeline_translated.csv
+2026-02-16 00:48:56,329 - INFO - 
+[66/165] ============================================================
+2026-02-16 00:48:56,329 - INFO - Processing: abolie17386_timeline.csv
+2026-02-16 00:48:56,352 - INFO -   Text column: 'text'
+2026-02-16 00:48:56,360 - INFO -   Total rows: 54
+2026-02-16 03:51:11,506 - WARNING -   Translation attempt 1 failed: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2026-02-16 11:49:22,229 - WARNING -   Translation attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-02-16 11:49:56,480 - INFO -   Progress: 50/54 rows...
+2026-02-16 11:50:05,112 - INFO -   Translated: 50 rows
+2026-02-16 11:50:05,132 - INFO -   Saved to: c:\Users\idant\iran\Iran\outputs\Users_Timelines_Translated\abolie17386_timeline_translated.csv
+2026-02-16 11:50:05,134 - INFO - 
+[67/165] ============================================================
+2026-02-16 11:50:05,136 - INFO - Processing: aboutmes7_timeline.csv
+2026-02-16 11:50:05,177 - INFO -   Text column: 'text'
+2026-02-16 11:50:05,180 - INFO -   Total rows: 81
