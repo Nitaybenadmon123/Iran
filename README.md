@@ -536,19 +536,7 @@ When extending the project:
 - Respects Twitter's rate limits and terms of service
 - Anonymization applied where appropriate in published results
 
-## 📖 How to Cite
 
-If you use this project, methodology, or datasets in your research, please cite:
-
-```bibtex
-@misc{iranian_twitter_analysis_2026,
-  title={Analyzing the Iranian Digital Pulse: Sentiment and Topic Trends on X (Twitter)},
-  author={[Your Name/Team]},
-  year={2026},
-  howpublished={Data Science Project, Semester A 2026},
-  note={Available at: [Repository URL]}
-}
-```
 
 **Project Documents:**
 - 📊 Presentation: *Analyzing the Iranian Digital Pulse: Sentiment & Topic Trends on X (Twitter)*
